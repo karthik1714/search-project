@@ -1,0 +1,1424 @@
+[
+    {
+        "Title": "Sum of Array Elements",
+        "Users Tried": "8712",
+        "Success Rate": "98.31",
+        "Score": "50"
+    },
+    {
+        "Title": "Print Right Angled Triangle Pattern",
+        "Users Tried": "8323",
+        "Success Rate": "98.49",
+        "Score": "50"
+    },
+    {
+        "Title": "Print Hollow Diamond Pattern",
+        "Users Tried": "6595",
+        "Success Rate": "96.79",
+        "Score": "100"
+    },
+    {
+        "Title": "Checkerboard Pattern",
+        "Users Tried": "2917",
+        "Success Rate": "97.94",
+        "Score": "50"
+    },
+    {
+        "Title": "Spiral Pattern",
+        "Users Tried": "340",
+        "Success Rate": "20.29",
+        "Score": "100"
+    },
+    {
+        "Title": "Rotation of Matrix",
+        "Users Tried": "6543",
+        "Success Rate": "99.04",
+        "Score": "50"
+    },
+    {
+        "Title": "Diagonal Traversal of Matrix",
+        "Users Tried": "4808",
+        "Success Rate": "96.01",
+        "Score": "100"
+    },
+    {
+        "Title": "Spiral Traversal of Matrix",
+        "Users Tried": "4999",
+        "Success Rate": "98.38",
+        "Score": "100"
+    },
+    {
+        "Title": "Product of 2 Matrices",
+        "Users Tried": "7268",
+        "Success Rate": "98.93",
+        "Score": "50"
+    },
+    {
+        "Title": "Trailing Zeros",
+        "Users Tried": "6942",
+        "Success Rate": "95.26",
+        "Score": "100"
+    },
+    {
+        "Title": "Trailing Zeros Modified",
+        "Users Tried": "657",
+        "Success Rate": "28.31",
+        "Score": "100"
+    },
+    {
+        "Title": "Coin Game",
+        "Users Tried": "2970",
+        "Success Rate": "93.64",
+        "Score": "100"
+    },
+    {
+        "Title": "LCM and HCF",
+        "Users Tried": "6751",
+        "Success Rate": "98.33",
+        "Score": "50"
+    },
+    {
+        "Title": "Points on a Line",
+        "Users Tried": "3418",
+        "Success Rate": "84.64",
+        "Score": "50"
+    },
+    {
+        "Title": "Intersection of 2 Line Segments",
+        "Users Tried": "721",
+        "Success Rate": "40.92",
+        "Score": "50"
+    },
+    {
+        "Title": "Overlapping Rectangles",
+        "Users Tried": "3507",
+        "Success Rate": "90.36",
+        "Score": "100"
+    },
+    {
+        "Title": "Next Palindrome",
+        "Users Tried": "2759",
+        "Success Rate": "14.86",
+        "Score": "100"
+    },
+    {
+        "Title": "Time of the Year",
+        "Users Tried": "1043",
+        "Success Rate": "82.93",
+        "Score": "100"
+    },
+    {
+        "Title": "Binary Representation",
+        "Users Tried": "7700",
+        "Success Rate": "98.73",
+        "Score": "50"
+    },
+    {
+        "Title": "Power of 2",
+        "Users Tried": "8243",
+        "Success Rate": "99.33",
+        "Score": "50"
+    },
+    {
+        "Title": "Finding Missing Number",
+        "Users Tried": "7466",
+        "Success Rate": "99.05",
+        "Score": "50"
+    },
+    {
+        "Title": "Count Set Bits",
+        "Users Tried": "8012",
+        "Success Rate": "99.28",
+        "Score": "50"
+    },
+    {
+        "Title": "X 1s and Y 0s",
+        "Users Tried": "7371",
+        "Success Rate": "79.03",
+        "Score": "100"
+    },
+    {
+        "Title": "X and Y set bits",
+        "Users Tried": "7028",
+        "Success Rate": "79.1",
+        "Score": "100"
+    },
+    {
+        "Title": "Flip Bits",
+        "Users Tried": "6957",
+        "Success Rate": "99.73",
+        "Score": "50"
+    },
+    {
+        "Title": "Reverse Bits",
+        "Users Tried": "6480",
+        "Success Rate": "97.99",
+        "Score": "50"
+    },
+    {
+        "Title": "Swap Bits",
+        "Users Tried": "5588",
+        "Success Rate": "98.75",
+        "Score": "50"
+    },
+    {
+        "Title": "Converting Binary Strings",
+        "Users Tried": "727",
+        "Success Rate": "46.49",
+        "Score": "100"
+    },
+    {
+        "Title": "A power B",
+        "Users Tried": "7919",
+        "Success Rate": "94.9",
+        "Score": "100"
+    },
+    {
+        "Title": "Subsets of an Array",
+        "Users Tried": "3399",
+        "Success Rate": "89.67",
+        "Score": "100"
+    },
+    {
+        "Title": "Triple Trouble",
+        "Users Tried": "6716",
+        "Success Rate": "97.38",
+        "Score": "100"
+    },
+    {
+        "Title": "Repeated Numbers",
+        "Users Tried": "6857",
+        "Success Rate": "95.86",
+        "Score": "100"
+    },
+    {
+        "Title": "XOR of Sum of Pairs",
+        "Users Tried": "5529",
+        "Success Rate": "94.72",
+        "Score": "50"
+    },
+    {
+        "Title": "Sum of XOR of pairs",
+        "Users Tried": "5111",
+        "Success Rate": "84.72",
+        "Score": "100"
+    },
+    {
+        "Title": "Product of XOR of Pairs",
+        "Users Tried": "358",
+        "Success Rate": "8.94",
+        "Score": "100"
+    },
+    {
+        "Title": "Two Set Bits",
+        "Users Tried": "1713",
+        "Success Rate": "28.6",
+        "Score": "200"
+    },
+    {
+        "Title": "Tower of Hanoi",
+        "Users Tried": "7188",
+        "Success Rate": "99.37",
+        "Score": "100"
+    },
+    {
+        "Title": "Tower of Hanoi Modified",
+        "Users Tried": "187",
+        "Success Rate": "67.91",
+        "Score": "100"
+    },
+    {
+        "Title": "Balanced Parentheses",
+        "Users Tried": "4915",
+        "Success Rate": "98.17",
+        "Score": "100"
+    },
+    {
+        "Title": "Falling Football",
+        "Users Tried": "87",
+        "Success Rate": "51.72",
+        "Score": "100"
+    },
+    {
+        "Title": "N - Queens",
+        "Users Tried": "535",
+        "Success Rate": "91.59",
+        "Score": "100"
+    },
+    {
+        "Title": "Interleavings",
+        "Users Tried": "2553",
+        "Success Rate": "97.22",
+        "Score": "100"
+    },
+    {
+        "Title": "Smart Square",
+        "Users Tried": "1294",
+        "Success Rate": "71.79",
+        "Score": "100"
+    },
+    {
+        "Title": "String Partitioning",
+        "Users Tried": "1215",
+        "Success Rate": "19.26",
+        "Score": "200"
+    },
+    {
+        "Title": "Arranging Bricks",
+        "Users Tried": "155",
+        "Success Rate": "14.19",
+        "Score": "200"
+    },
+    {
+        "Title": "Express as Power Sum",
+        "Users Tried": "2532",
+        "Success Rate": "95.42",
+        "Score": "100"
+    },
+    {
+        "Title": "Bubble Sort",
+        "Users Tried": "7278",
+        "Success Rate": "99.62",
+        "Score": "50"
+    },
+    {
+        "Title": "Selection Sort",
+        "Users Tried": "4727",
+        "Success Rate": "93.87",
+        "Score": "50"
+    },
+    {
+        "Title": "Insertion Sort",
+        "Users Tried": "5807",
+        "Success Rate": "99.5",
+        "Score": "50"
+    },
+    {
+        "Title": "Sort 0s and 1s",
+        "Users Tried": "6741",
+        "Success Rate": "99.41",
+        "Score": "50"
+    },
+    {
+        "Title": "Non Divisible Subsets",
+        "Users Tried": "1044",
+        "Success Rate": "74.23",
+        "Score": "100"
+    },
+    {
+        "Title": "Largest Concatenated Number",
+        "Users Tried": "1511",
+        "Success Rate": "76.37",
+        "Score": "100"
+    },
+    {
+        "Title": "Power Game",
+        "Users Tried": "2980",
+        "Success Rate": "92.42",
+        "Score": "100"
+    },
+    {
+        "Title": "Smaller Elements",
+        "Users Tried": "4684",
+        "Success Rate": "61.12",
+        "Score": "100"
+    },
+    {
+        "Title": "Sum of Pairs",
+        "Users Tried": "6801",
+        "Success Rate": "94.96",
+        "Score": "100"
+    },
+    {
+        "Title": "Pair with Difference K",
+        "Users Tried": "5535",
+        "Success Rate": "86.29",
+        "Score": "100"
+    },
+    {
+        "Title": "Triplet with Sum K",
+        "Users Tried": "5057",
+        "Success Rate": "94.38",
+        "Score": "100"
+    },
+    {
+        "Title": "Count the Triangles",
+        "Users Tried": "2339",
+        "Success Rate": "86.23",
+        "Score": "100"
+    },
+    {
+        "Title": "Frequency Sort",
+        "Users Tried": "3274",
+        "Success Rate": "93.49",
+        "Score": "100"
+    },
+    {
+        "Title": "Finding the Floor",
+        "Users Tried": "5604",
+        "Success Rate": "96",
+        "Score": "100"
+    },
+    {
+        "Title": "Product Manufacturing",
+        "Users Tried": "521",
+        "Success Rate": "15.93",
+        "Score": "100"
+    },
+    {
+        "Title": "Finding CubeRoot",
+        "Users Tried": "5190",
+        "Success Rate": "92.41",
+        "Score": "100"
+    },
+    {
+        "Title": "Cabinets Partitioning",
+        "Users Tried": "3145",
+        "Success Rate": "97.49",
+        "Score": "150"
+    },
+    {
+        "Title": "Protective Villagers",
+        "Users Tried": "2779",
+        "Success Rate": "96.04",
+        "Score": "150"
+    },
+    {
+        "Title": "Finding Frequency",
+        "Users Tried": "6438",
+        "Success Rate": "96.55",
+        "Score": "100"
+    },
+    {
+        "Title": "Non Decreasing Subsequences",
+        "Users Tried": "2135",
+        "Success Rate": "37.75",
+        "Score": "100"
+    },
+    {
+        "Title": "Maximum Contiguous Subsequence",
+        "Users Tried": "2088",
+        "Success Rate": "87.6",
+        "Score": "100"
+    },
+    {
+        "Title": "Rearrange Sequence - 1",
+        "Users Tried": "5317",
+        "Success Rate": "92.61",
+        "Score": "100"
+    },
+    {
+        "Title": "Rearrange Sequence - 2",
+        "Users Tried": "4107",
+        "Success Rate": "94.57",
+        "Score": "100"
+    },
+    {
+        "Title": "Rearrange Sequence - 3",
+        "Users Tried": "3043",
+        "Success Rate": "86.76",
+        "Score": "100"
+    },
+    {
+        "Title": "Non-Decreasing Subarrays",
+        "Users Tried": "743",
+        "Success Rate": "77.66",
+        "Score": "100"
+    },
+    {
+        "Title": "Sum of all Subarrays",
+        "Users Tried": "1878",
+        "Success Rate": "79.13",
+        "Score": "100"
+    },
+    {
+        "Title": "Enclosing Bottles",
+        "Users Tried": "566",
+        "Success Rate": "89.22",
+        "Score": "100"
+    },
+    {
+        "Title": "Count Equal Pairs",
+        "Users Tried": "323",
+        "Success Rate": "25.7",
+        "Score": "100"
+    },
+    {
+        "Title": "Count Equal XOR Pairs",
+        "Users Tried": "218",
+        "Success Rate": "50",
+        "Score": "100"
+    },
+    {
+        "Title": "Distinct Elements in Window",
+        "Users Tried": "4081",
+        "Success Rate": "92.84",
+        "Score": "100"
+    },
+    {
+        "Title": "Virus Expansion",
+        "Users Tried": "15",
+        "Success Rate": "26.67",
+        "Score": "100"
+    },
+    {
+        "Title": "Divisible Subsequence",
+        "Users Tried": "277",
+        "Success Rate": "15.16",
+        "Score": "100"
+    },
+    {
+        "Title": "First Repeating Character - 1",
+        "Users Tried": "4829",
+        "Success Rate": "97.52",
+        "Score": "50"
+    },
+    {
+        "Title": "First Repeating Character - 2",
+        "Users Tried": "4543",
+        "Success Rate": "99.16",
+        "Score": "50"
+    },
+    {
+        "Title": "Longest Substring without Vowels",
+        "Users Tried": "1934",
+        "Success Rate": "98.6",
+        "Score": "50"
+    },
+    {
+        "Title": "Number of Monotonous Substrings",
+        "Users Tried": "340",
+        "Success Rate": "85",
+        "Score": "100"
+    },
+    {
+        "Title": "Words, Vowels and Consonants",
+        "Users Tried": "3359",
+        "Success Rate": "90.95",
+        "Score": "50"
+    },
+    {
+        "Title": "Guess the Problem - 1",
+        "Users Tried": "3154",
+        "Success Rate": "94.9",
+        "Score": "50"
+    },
+    {
+        "Title": "Guess the Problem - 2",
+        "Users Tried": "2911",
+        "Success Rate": "96.5",
+        "Score": "50"
+    },
+    {
+        "Title": "String Modulo",
+        "Users Tried": "3399",
+        "Success Rate": "98.47",
+        "Score": "100"
+    },
+    {
+        "Title": "Check Anagrams",
+        "Users Tried": "4614",
+        "Success Rate": "98.72",
+        "Score": "50"
+    },
+    {
+        "Title": "Number of Anagramic Groups",
+        "Users Tried": "2562",
+        "Success Rate": "97.93",
+        "Score": "100"
+    },
+    {
+        "Title": "Longest Palindromic Substring",
+        "Users Tried": "3978",
+        "Success Rate": "94.97",
+        "Score": "100"
+    },
+    {
+        "Title": "Enclosing Substring",
+        "Users Tried": "2395",
+        "Success Rate": "90.02",
+        "Score": "200"
+    },
+    {
+        "Title": "Longest Substring with Max K Vowels",
+        "Users Tried": "416",
+        "Success Rate": "87.5",
+        "Score": "100"
+    },
+    {
+        "Title": "Generating String Permutations",
+        "Users Tried": "1170",
+        "Success Rate": "96.75",
+        "Score": "100"
+    },
+    {
+        "Title": "Rank of String",
+        "Users Tried": "722",
+        "Success Rate": "86.57",
+        "Score": "100"
+    },
+    {
+        "Title": "Rank of String with Duplicates",
+        "Users Tried": "230",
+        "Success Rate": "82.61",
+        "Score": "150"
+    },
+    {
+        "Title": "Sum of Subarrays",
+        "Users Tried": "4528",
+        "Success Rate": "93.11",
+        "Score": "100"
+    },
+    {
+        "Title": "Query Odd Sum",
+        "Users Tried": "381",
+        "Success Rate": "61.42",
+        "Score": "100"
+    },
+    {
+        "Title": "Words Start & End with Vowel",
+        "Users Tried": "912",
+        "Success Rate": "73.68",
+        "Score": "100"
+    },
+    {
+        "Title": "Substring Matching",
+        "Users Tried": "2651",
+        "Success Rate": "90.68",
+        "Score": "150"
+    },
+    {
+        "Title": "Rabin Karp String Matching Algorithm",
+        "Users Tried": "1557",
+        "Success Rate": "79.7",
+        "Score": "100"
+    },
+    {
+        "Title": "KMP String Matching Algorithm",
+        "Users Tried": "705",
+        "Success Rate": "85.67",
+        "Score": "100"
+    },
+    {
+        "Title": "Longest Palindromic Substring Hard",
+        "Users Tried": "483",
+        "Success Rate": "18.63",
+        "Score": "200"
+    },
+    {
+        "Title": "Prime Love",
+        "Users Tried": "477",
+        "Success Rate": "42.77",
+        "Score": "150"
+    },
+    {
+        "Title": "Two Primes",
+        "Users Tried": "126",
+        "Success Rate": "42.06",
+        "Score": "100"
+    },
+    {
+        "Title": "Check isPrime",
+        "Users Tried": "1110",
+        "Success Rate": "7.75",
+        "Score": "100"
+    },
+    {
+        "Title": "Large Range Primes",
+        "Users Tried": "1329",
+        "Success Rate": "51.84",
+        "Score": "100"
+    },
+    {
+        "Title": "Prime Coins",
+        "Users Tried": "1814",
+        "Success Rate": "93.83",
+        "Score": "100"
+    },
+    {
+        "Title": "Optimal Prime Game",
+        "Users Tried": "978",
+        "Success Rate": "65.03",
+        "Score": "100"
+    },
+    {
+        "Title": "Greedy Prime Game",
+        "Users Tried": "600",
+        "Success Rate": "55",
+        "Score": "100"
+    },
+    {
+        "Title": "Mixed Prime Game",
+        "Users Tried": "211",
+        "Success Rate": "53.55",
+        "Score": "100"
+    },
+    {
+        "Title": "Alice and Bob Coin Game-1",
+        "Users Tried": "666",
+        "Success Rate": "62.46",
+        "Score": "100"
+    },
+    {
+        "Title": "Alice and Bob Coin Game-2",
+        "Users Tried": "79",
+        "Success Rate": "17.72",
+        "Score": "100"
+    },
+    {
+        "Title": "Game of Letters",
+        "Users Tried": "1158",
+        "Success Rate": "81.95",
+        "Score": "100"
+    },
+    {
+        "Title": "Shifting Stones",
+        "Users Tried": "77",
+        "Success Rate": "7.79",
+        "Score": "100"
+    },
+    {
+        "Title": "Quadruples of XOR",
+        "Users Tried": "374",
+        "Success Rate": "77.27",
+        "Score": "100"
+    },
+    {
+        "Title": "Subsequence Sum",
+        "Users Tried": "454",
+        "Success Rate": "40.97",
+        "Score": "150"
+    },
+    {
+        "Title": "Sum with Queries",
+        "Users Tried": "4143",
+        "Success Rate": "92.57",
+        "Score": "50"
+    },
+    {
+        "Title": "Max Element with Queries",
+        "Users Tried": "2877",
+        "Success Rate": "81.23",
+        "Score": "100"
+    },
+    {
+        "Title": "Exclusion Product",
+        "Users Tried": "3006",
+        "Success Rate": "87.79",
+        "Score": "100"
+    },
+    {
+        "Title": "Clockwise Rotation of Array",
+        "Users Tried": "3228",
+        "Success Rate": "92.29",
+        "Score": "50"
+    },
+    {
+        "Title": "Stock Exchange Duration",
+        "Users Tried": "226",
+        "Success Rate": "31.42",
+        "Score": "100"
+    },
+    {
+        "Title": "Express as a Power b",
+        "Users Tried": "606",
+        "Success Rate": "13.37",
+        "Score": "100"
+    },
+    {
+        "Title": "Collecting Water",
+        "Users Tried": "3754",
+        "Success Rate": "96.8",
+        "Score": "100"
+    },
+    {
+        "Title": "Closing Triplets",
+        "Users Tried": "2808",
+        "Success Rate": "94.48",
+        "Score": "100"
+    },
+    {
+        "Title": "Equal 0s and 1s",
+        "Users Tried": "2776",
+        "Success Rate": "89.95",
+        "Score": "100"
+    },
+    {
+        "Title": "Number of Valid Subarrays",
+        "Users Tried": "1081",
+        "Success Rate": "84.74",
+        "Score": "100"
+    },
+    {
+        "Title": "Toggle 01",
+        "Users Tried": "1196",
+        "Success Rate": "74.75",
+        "Score": "100"
+    },
+    {
+        "Title": "First Missing Positive Integer",
+        "Users Tried": "3009",
+        "Success Rate": "87.24",
+        "Score": "50"
+    },
+    {
+        "Title": "Sum of OR of Subarrays",
+        "Users Tried": "1528",
+        "Success Rate": "86.19",
+        "Score": "100"
+    },
+    {
+        "Title": "Sum of AND of Subarrays",
+        "Users Tried": "738",
+        "Success Rate": "80.49",
+        "Score": "100"
+    },
+    {
+        "Title": "Buying Items",
+        "Users Tried": "30",
+        "Success Rate": "30",
+        "Score": "150"
+    },
+    {
+        "Title": "Implement Stack",
+        "Users Tried": "3707",
+        "Success Rate": "98.57",
+        "Score": "50"
+    },
+    {
+        "Title": "Reverse the Sentence",
+        "Users Tried": "3782",
+        "Success Rate": "99.26",
+        "Score": "50"
+    },
+    {
+        "Title": "Collecting Mangoes",
+        "Users Tried": "1817",
+        "Success Rate": "84.37",
+        "Score": "100"
+    },
+    {
+        "Title": "Stock Span",
+        "Users Tried": "904",
+        "Success Rate": "89.05",
+        "Score": "100"
+    },
+    {
+        "Title": "Changing Directories",
+        "Users Tried": "296",
+        "Success Rate": "82.43",
+        "Score": "100"
+    },
+    {
+        "Title": "Rectangular Area Under Histogram",
+        "Users Tried": "1760",
+        "Success Rate": "92.05",
+        "Score": "150"
+    },
+    {
+        "Title": "Implement Queue",
+        "Users Tried": "2908",
+        "Success Rate": "99.04",
+        "Score": "50"
+    },
+    {
+        "Title": "Killing Dragons",
+        "Users Tried": "86",
+        "Success Rate": "61.63",
+        "Score": "100"
+    },
+    {
+        "Title": "Implement Deque",
+        "Users Tried": "1286",
+        "Success Rate": "94.56",
+        "Score": "50"
+    },
+    {
+        "Title": "Window Maximum",
+        "Users Tried": "1611",
+        "Success Rate": "74.61",
+        "Score": "100"
+    },
+    {
+        "Title": "LRU Cache",
+        "Users Tried": "1124",
+        "Success Rate": "85.14",
+        "Score": "150"
+    },
+    {
+        "Title": "BST Operations",
+        "Users Tried": "1239",
+        "Success Rate": "85.23",
+        "Score": "100"
+    },
+    {
+        "Title": "Tree Traversals",
+        "Users Tried": "2108",
+        "Success Rate": "98.29",
+        "Score": "50"
+    },
+    {
+        "Title": "Full Binary Tree",
+        "Users Tried": "1518",
+        "Success Rate": "98.68",
+        "Score": "50"
+    },
+    {
+        "Title": "Complete Binary Tree",
+        "Users Tried": "1169",
+        "Success Rate": "92.39",
+        "Score": "100"
+    },
+    {
+        "Title": "Height of Tree",
+        "Users Tried": "2132",
+        "Success Rate": "98.92",
+        "Score": "50"
+    },
+    {
+        "Title": "Depth of Tree Nodes",
+        "Users Tried": "1387",
+        "Success Rate": "94.23",
+        "Score": "50"
+    },
+    {
+        "Title": "Level Order of Tree",
+        "Users Tried": "1668",
+        "Success Rate": "97.66",
+        "Score": "50"
+    },
+    {
+        "Title": "Zig-Zag Level Order of Tree",
+        "Users Tried": "862",
+        "Success Rate": "96.06",
+        "Score": "100"
+    },
+    {
+        "Title": "Bottom-Up Level Order of Tree",
+        "Users Tried": "770",
+        "Success Rate": "96.88",
+        "Score": "100"
+    },
+    {
+        "Title": "Zig-Zag Bottom Up Level Order of Tree",
+        "Users Tried": "579",
+        "Success Rate": "97.41",
+        "Score": "100"
+    },
+    {
+        "Title": "Balanced Tree",
+        "Users Tried": "818",
+        "Success Rate": "97.31",
+        "Score": "100"
+    },
+    {
+        "Title": "Check BST",
+        "Users Tried": "1080",
+        "Success Rate": "92.41",
+        "Score": "100"
+    },
+    {
+        "Title": "Number of BSTs",
+        "Users Tried": "214",
+        "Success Rate": "82.24",
+        "Score": "100"
+    },
+    {
+        "Title": "Trim BST",
+        "Users Tried": "1043",
+        "Success Rate": "98.56",
+        "Score": "100"
+    },
+    {
+        "Title": "Sum of Numbers from Root to Leaf Paths",
+        "Users Tried": "808",
+        "Success Rate": "82.92",
+        "Score": "100"
+    },
+    {
+        "Title": "Preorder Inorder to Postorder",
+        "Users Tried": "799",
+        "Success Rate": "97.12",
+        "Score": "100"
+    },
+    {
+        "Title": "Vertical Order Traversal",
+        "Users Tried": "875",
+        "Success Rate": "94.74",
+        "Score": "100"
+    },
+    {
+        "Title": "Diagonal Order Traversal",
+        "Users Tried": "112",
+        "Success Rate": "89.29",
+        "Score": "100"
+    },
+    {
+        "Title": "Left View of Tree",
+        "Users Tried": "1184",
+        "Success Rate": "97.38",
+        "Score": "100"
+    },
+    {
+        "Title": "Right View of Tree",
+        "Users Tried": "1101",
+        "Success Rate": "98.46",
+        "Score": "100"
+    },
+    {
+        "Title": "Top View of Tree",
+        "Users Tried": "659",
+        "Success Rate": "77.39",
+        "Score": "100"
+    },
+    {
+        "Title": "Least Common Ancestor",
+        "Users Tried": "708",
+        "Success Rate": "88.42",
+        "Score": "100"
+    },
+    {
+        "Title": "Width of Tree",
+        "Users Tried": "240",
+        "Success Rate": "69.17",
+        "Score": "100"
+    },
+    {
+        "Title": "Diameter of a Tree",
+        "Users Tried": "435",
+        "Success Rate": "84.6",
+        "Score": "150"
+    },
+    {
+        "Title": "Maximum Path Sum",
+        "Users Tried": "203",
+        "Success Rate": "89.16",
+        "Score": "100"
+    },
+    {
+        "Title": "Nodes at Distance K",
+        "Users Tried": "381",
+        "Success Rate": "83.99",
+        "Score": "150"
+    },
+    {
+        "Title": "Maximum Alternate Nodes Sum",
+        "Users Tried": "97",
+        "Success Rate": "89.69",
+        "Score": "200"
+    },
+    {
+        "Title": "Implement Min Heap",
+        "Users Tried": "986",
+        "Success Rate": "70.28",
+        "Score": "50"
+    },
+    {
+        "Title": "Kth Smallest Element",
+        "Users Tried": "1830",
+        "Success Rate": "98.96",
+        "Score": "50"
+    },
+    {
+        "Title": "Minimum Cost to Connect Rods",
+        "Users Tried": "522",
+        "Success Rate": "89.27",
+        "Score": "100"
+    },
+    {
+        "Title": "Anytime Median",
+        "Users Tried": "1130",
+        "Success Rate": "91.86",
+        "Score": "100"
+    },
+    {
+        "Title": "Summer Challenge",
+        "Users Tried": "18",
+        "Success Rate": "38.89",
+        "Score": "100"
+    },
+    {
+        "Title": "Max Pair Sums of 2 Arrays",
+        "Users Tried": "203",
+        "Success Rate": "28.57",
+        "Score": "200"
+    },
+    {
+        "Title": "Max Rhyming Word Length",
+        "Users Tried": "221",
+        "Success Rate": "60.63",
+        "Score": "150"
+    },
+    {
+        "Title": "Maximum XOR",
+        "Users Tried": "840",
+        "Success Rate": "81.19",
+        "Score": "150"
+    },
+    {
+        "Title": "Subarray Max XOR",
+        "Users Tried": "458",
+        "Success Rate": "88.65",
+        "Score": "150"
+    },
+    {
+        "Title": "Subarrays with Limited XOR",
+        "Users Tried": "37",
+        "Success Rate": "45.95",
+        "Score": "150"
+    },
+    {
+        "Title": "Activity Selection",
+        "Users Tried": "183",
+        "Success Rate": "90.71",
+        "Score": "100"
+    },
+    {
+        "Title": "Two Array Sums",
+        "Users Tried": "43",
+        "Success Rate": "79.07",
+        "Score": "100"
+    },
+    {
+        "Title": "Compute Factorial",
+        "Users Tried": "2399",
+        "Success Rate": "79.24",
+        "Score": "100"
+    },
+    {
+        "Title": "Arranging Dominos Easy",
+        "Users Tried": "506",
+        "Success Rate": "94.66",
+        "Score": "100"
+    },
+    {
+        "Title": "Arranging Dominos Hard",
+        "Users Tried": "853",
+        "Success Rate": "92.85",
+        "Score": "100"
+    },
+    {
+        "Title": "Binary Strings without Adjacent 1s",
+        "Users Tried": "1508",
+        "Success Rate": "94.96",
+        "Score": "100"
+    },
+    {
+        "Title": "Number of Dice Rolls for Given Sum",
+        "Users Tried": "1240",
+        "Success Rate": "94.03",
+        "Score": "100"
+    },
+    {
+        "Title": "Minimum Cost Dice Rolls",
+        "Users Tried": "231",
+        "Success Rate": "95.67",
+        "Score": "100"
+    },
+    {
+        "Title": "Painting Houses",
+        "Users Tried": "1211",
+        "Success Rate": "97.94",
+        "Score": "100"
+    },
+    {
+        "Title": "Jobs and Machines",
+        "Users Tried": "1040",
+        "Success Rate": "95.48",
+        "Score": "100"
+    },
+    {
+        "Title": "Smart Problem Solving",
+        "Users Tried": "86",
+        "Success Rate": "89.53",
+        "Score": "100"
+    },
+    {
+        "Title": "Maximum Subarray Sum",
+        "Users Tried": "2359",
+        "Success Rate": "58.46",
+        "Score": "100"
+    },
+    {
+        "Title": "Maximum Circular Subarray Sum",
+        "Users Tried": "193",
+        "Success Rate": "73.58",
+        "Score": "100"
+    },
+    {
+        "Title": "Forbidden Skipping",
+        "Users Tried": "65",
+        "Success Rate": "67.69",
+        "Score": "100"
+    },
+    {
+        "Title": "Maximum Non-adjacent Subsequence Sum",
+        "Users Tried": "479",
+        "Success Rate": "77.04",
+        "Score": "100"
+    },
+    {
+        "Title": "Longest Increasing Subsequence",
+        "Users Tried": "312",
+        "Success Rate": "67.31",
+        "Score": "200"
+    },
+    {
+        "Title": "Bitonic Sequence",
+        "Users Tried": "69",
+        "Success Rate": "91.3",
+        "Score": "150"
+    },
+    {
+        "Title": "Decode Strings",
+        "Users Tried": "91",
+        "Success Rate": "72.53",
+        "Score": "100"
+    },
+    {
+        "Title": "Compute nCr",
+        "Users Tried": "1215",
+        "Success Rate": "66.67",
+        "Score": "100"
+    },
+    {
+        "Title": "The Knapsack Problem",
+        "Users Tried": "1017",
+        "Success Rate": "96.07",
+        "Score": "150"
+    },
+    {
+        "Title": "Subset Sum",
+        "Users Tried": "2796",
+        "Success Rate": "33.15",
+        "Score": "150"
+    },
+    {
+        "Title": "Count Subset Sums Equals K",
+        "Users Tried": "136",
+        "Success Rate": "52.21",
+        "Score": "100"
+    },
+    {
+        "Title": "Path in a Matrix",
+        "Users Tried": "422",
+        "Success Rate": "89.1",
+        "Score": "100"
+    },
+    {
+        "Title": "Path in a Matrix Hard",
+        "Users Tried": "134",
+        "Success Rate": "31.34",
+        "Score": "150"
+    },
+    {
+        "Title": "Smart Matrix Path",
+        "Users Tried": "117",
+        "Success Rate": "85.47",
+        "Score": "150"
+    },
+    {
+        "Title": "Collect Apples",
+        "Users Tried": "397",
+        "Success Rate": "96.47",
+        "Score": "100"
+    },
+    {
+        "Title": "Largest Submatrix Sum",
+        "Users Tried": "138",
+        "Success Rate": "57.97",
+        "Score": "200"
+    },
+    {
+        "Title": "Optimal Invigilation",
+        "Users Tried": "2",
+        "Success Rate": "0",
+        "Score": "200"
+    },
+    {
+        "Title": "Maximum Square Submatrix with All 1's",
+        "Users Tried": "113",
+        "Success Rate": "93.81",
+        "Score": "100"
+    },
+    {
+        "Title": "Maximum Submatrix with All 1's",
+        "Users Tried": "50",
+        "Success Rate": "70",
+        "Score": "150"
+    },
+    {
+        "Title": "Longest Arithmetic Subsequence",
+        "Users Tried": "22",
+        "Success Rate": "68.18",
+        "Score": "100"
+    },
+    {
+        "Title": "Game of Stones",
+        "Users Tried": "2",
+        "Success Rate": "0",
+        "Score": "100"
+    },
+    {
+        "Title": "Edit Distance",
+        "Users Tried": "50",
+        "Success Rate": "88",
+        "Score": "100"
+    },
+    {
+        "Title": "Longest Common Subsequence",
+        "Users Tried": "112",
+        "Success Rate": "97.32",
+        "Score": "100"
+    },
+    {
+        "Title": "Longest Palindromic Subsequence",
+        "Users Tried": "89",
+        "Success Rate": "95.51",
+        "Score": "100"
+    },
+    {
+        "Title": "Palindrome Partitioning",
+        "Users Tried": "110",
+        "Success Rate": "86.36",
+        "Score": "200"
+    },
+    {
+        "Title": "Wild String",
+        "Users Tried": "7",
+        "Success Rate": "57.14",
+        "Score": "150"
+    },
+    {
+        "Title": "Boolean Parenthesization",
+        "Users Tried": "10",
+        "Success Rate": "80",
+        "Score": "150"
+    },
+    {
+        "Title": "Library Books",
+        "Users Tried": "33",
+        "Success Rate": "3.03",
+        "Score": "200"
+    },
+    {
+        "Title": "Non-adjacent set bits",
+        "Users Tried": "53",
+        "Success Rate": "50.94",
+        "Score": "200"
+    },
+    {
+        "Title": "Maze of Puzzles",
+        "Users Tried": "16",
+        "Success Rate": "25",
+        "Score": "200"
+    },
+    {
+        "Title": "Path in a Graph",
+        "Users Tried": "686",
+        "Success Rate": "96.94",
+        "Score": "100"
+    },
+    {
+        "Title": "Number of Connected Components",
+        "Users Tried": "443",
+        "Success Rate": "87.58",
+        "Score": "100"
+    },
+    {
+        "Title": "Number of Islands",
+        "Users Tried": "309",
+        "Success Rate": "56.31",
+        "Score": "100"
+    },
+    {
+        "Title": "Count Unreachable Nodes",
+        "Users Tried": "33",
+        "Success Rate": "69.7",
+        "Score": "100"
+    },
+    {
+        "Title": "Check Forest",
+        "Users Tried": "208",
+        "Success Rate": "91.35",
+        "Score": "100"
+    },
+    {
+        "Title": "Detect Cycle in Undirected Graph",
+        "Users Tried": "61",
+        "Success Rate": "98.36",
+        "Score": "100"
+    },
+    {
+        "Title": "Detect Cycle in Directed Graph",
+        "Users Tried": "48",
+        "Success Rate": "91.67",
+        "Score": "100"
+    },
+    {
+        "Title": "Longest Path in Graph",
+        "Users Tried": "194",
+        "Success Rate": "66.49",
+        "Score": "150"
+    },
+    {
+        "Title": "Knight in a Chessboard [Unweighted]",
+        "Users Tried": "24",
+        "Success Rate": "91.67",
+        "Score": "100"
+    },
+    {
+        "Title": "Minimum Spanning Tree",
+        "Users Tried": "40",
+        "Success Rate": "87.5",
+        "Score": "100"
+    },
+    {
+        "Title": "Rotting Oranges",
+        "Users Tried": "80",
+        "Success Rate": "70",
+        "Score": "100"
+    },
+    {
+        "Title": "Bipartite Graph",
+        "Users Tried": "46",
+        "Success Rate": "95.65",
+        "Score": "100"
+    },
+    {
+        "Title": "Minimum Time to Meet",
+        "Users Tried": "11",
+        "Success Rate": "45.45",
+        "Score": "200"
+    },
+    {
+        "Title": "Collecting Water 3D",
+        "Users Tried": "8",
+        "Success Rate": "37.5",
+        "Score": "150"
+    },
+    {
+        "Title": "Fibonacci Series",
+        "Users Tried": "313",
+        "Success Rate": "27.8",
+        "Score": "200"
+    },
+    {
+        "Title": "Queries - 1",
+        "Users Tried": "85",
+        "Success Rate": "15.29",
+        "Score": "150"
+    },
+    {
+        "Title": "Queries - 2",
+        "Users Tried": "29",
+        "Success Rate": "51.72",
+        "Score": "150"
+    },
+    {
+        "Title": "Queries - 3",
+        "Users Tried": "28",
+        "Success Rate": "7.14",
+        "Score": "200"
+    }
+]

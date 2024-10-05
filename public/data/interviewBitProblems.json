@@ -1,0 +1,4496 @@
+[
+    {
+        "Title": "Gas Station",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Medium",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Majority Element",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Easy",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "Distribute Candy",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Longest Increasing Subsequence",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Unique Binary Search Trees",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "61 Mins"
+    },
+    {
+        "Title": "Max Rectangle in Binary Matrix",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "79 Mins"
+    },
+    {
+        "Title": "Distinct Subsequences",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Unique Paths in a Grid",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Max Product Subarray",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Ways to Decode",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "Best Time to Buy and Sell Stocks II",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "40 Mins"
+    },
+    {
+        "Title": "Best Time to Buy and Sell Stocks III",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Scramble String",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "72 Mins"
+    },
+    {
+        "Title": "Best Time to Buy and Sell Stocks I",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Max Sum Path in Binary Tree",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "55 Mins"
+    },
+    {
+        "Title": "Regular Expression Match",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "79 Mins"
+    },
+    {
+        "Title": "Dungeon Princess",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "71 Mins"
+    },
+    {
+        "Title": "Palindrome Partitioning II",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Min Sum Path in Matrix",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Min Jumps Array",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "71 Mins"
+    },
+    {
+        "Title": "Edit Distance",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Unique Binary Search Trees II",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "36 Mins"
+    },
+    {
+        "Title": "Word Break",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Regular Expression II",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "Min Sum Path in Triangle",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Jump Game Array",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Interleaving Strings",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Word Break II",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Longest valid Parentheses",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Stairs",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Swap List Nodes in pairs",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Rotate List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Reorder List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Hard",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Sort List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Remove Duplicates from Sorted List II",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Merge Two Sorted Lists",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Remove Duplicates from Sorted List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Add Two Numbers as Lists",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Remove Nth Node from List End",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Reverse Linked List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Partition List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Insertion Sort List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "List Cycle",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "39 Mins"
+    },
+    {
+        "Title": "Intersection of Linked Lists",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "46 Mins"
+    },
+    {
+        "Title": "Reverse Link List II",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Evaluate Expression",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Rain Water Trapped",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Hard",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Generate all Parentheses",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Largest Rectangle in Histogram",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Hard",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Sliding Window Maximum",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "69 Mins"
+    },
+    {
+        "Title": "Simplify Directory Path",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "54 Mins"
+    },
+    {
+        "Title": "Min Stack",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Reverse String",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Kth Row of Pascal's Triangle",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Rotate Matrix",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "60 Mins"
+    },
+    {
+        "Title": "Max Sum Contiguous Subarray",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Find Duplicate in Array",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "40 Mins"
+    },
+    {
+        "Title": "Merge Intervals",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "78 Mins"
+    },
+    {
+        "Title": "Spiral Order Matrix I",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Repeat and Missing Number Array",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Merge Overlapping Intervals",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "48 Mins"
+    },
+    {
+        "Title": "Set Matrix Zeros",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "48 Mins"
+    },
+    {
+        "Title": "Spiral Order Matrix II",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "48 Mins"
+    },
+    {
+        "Title": "Largest Number",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "First Missing Integer",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Add One To Number",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "N/3 Repeat Number",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Pascal Triangle",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Maximum Consecutive Gap",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "58 Mins"
+    },
+    {
+        "Title": "Max Distance",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Next Permutation",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Palindrome Integer",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Verify Prime",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Excel Column Number",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Reverse integer",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Excel Column Title",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Prime Numbers",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Grid Unique Paths",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Binary Representation",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Trailing Zeros in Factorial",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "All Factors",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "35 Mins"
+    },
+    {
+        "Title": "Monkeys and Doors",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Ten Black and White Socks",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "Daughters' Ages",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Breaking Chocolate Bars",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Jelly Beans Jars",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Medicine Chest on a Boat",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Cross the Bridge",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Spinning Disc's Direction",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Wizards and Drawves",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "13 Mins"
+    },
+    {
+        "Title": "Genie and Hats",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Color of the last ball",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Arrange Cubes",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Equilateral Triangles using Toothpicks",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "The Tribe",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Measure Time by Burning Ropes",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "Dinner Hand Shakes",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "Helium Balloon",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Divide the Cake",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Color of the last ball II",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Measure Time by Hourglass",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Make a Statement",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "Two Pills each day",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Find the Defective Ball",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "Bee Travel",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Six Colored Cubes",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Prisoners and Poison",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "World Trips",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Color of the Bear",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Two Numbers",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "13 Mins"
+    },
+    {
+        "Title": "Next Number",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "One Mile on the Globe",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Marbles in Jar",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Divide Gold Bar",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Min Elevator Trips",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "100 People in a Circle",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "13 Mins"
+    },
+    {
+        "Title": "Gates of Heaven",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Fastest Horses",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "Train Station",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "Cats and a Square",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Good Processor",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Quarters on a Table",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Blindfolded Coin Toss",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Measure Milk by Cans",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "16 Mins"
+    },
+    {
+        "Title": "Light Switches in the Cellar",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Cross the Bridge II",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Last Palindromic Date",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Fake Note",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Find the Defective Ball II",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Next Number II",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Eggs and Building",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Celebrity Problem",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Ants on a Triangle",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "All Unique Permutations",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "55 Mins"
+    },
+    {
+        "Title": "Kth Permutation Sequence",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "79 Mins"
+    },
+    {
+        "Title": "Combination Sum",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Reverse Link List Recursion",
+        "Topic": "Backtracking",
+        "Difficulty": "Easy",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Permutations",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "39 Mins"
+    },
+    {
+        "Title": "Generate all Parentheses II",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Combination Sum II",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "NQueens",
+        "Topic": "Backtracking",
+        "Difficulty": "Hard",
+        "Avg Time": "74 Mins"
+    },
+    {
+        "Title": "Combinations",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "46 Mins"
+    },
+    {
+        "Title": "Sudoku",
+        "Topic": "Backtracking",
+        "Difficulty": "Hard",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "Modular Expression",
+        "Topic": "Backtracking",
+        "Difficulty": "Easy",
+        "Avg Time": "50 Mins"
+    },
+    {
+        "Title": "Gray Code",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "58 Mins"
+    },
+    {
+        "Title": "Subsets II",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Letter Phone",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Subset",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "61 Mins"
+    },
+    {
+        "Title": "Palindrome Partitioning",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Substring Concatenation",
+        "Topic": "Hashing",
+        "Difficulty": "Hard",
+        "Avg Time": "71 Mins"
+    },
+    {
+        "Title": "Window String",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "82 Mins"
+    },
+    {
+        "Title": "Longest Consecutive Sequence",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "4 Sum",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "72 Mins"
+    },
+    {
+        "Title": "Anagrams",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "46 Mins"
+    },
+    {
+        "Title": "Fraction",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "81 Mins"
+    },
+    {
+        "Title": "Points on the Straight Line",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "78 Mins"
+    },
+    {
+        "Title": "2 Sum",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Valid Sudoku",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "50 Mins"
+    },
+    {
+        "Title": "Copy List",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Diffk II",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Longest Substring Without Repeat",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "51 Mins"
+    },
+    {
+        "Title": "Diffk",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Intersection Of Sorted Arrays",
+        "Topic": "Two Pointers",
+        "Difficulty": "Easy",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Merge Two Sorted Lists II",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "25 Mins"
+    },
+    {
+        "Title": "3 Sum",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "60 Mins"
+    },
+    {
+        "Title": "Remove Duplicates from Sorted Array",
+        "Topic": "Two Pointers",
+        "Difficulty": "Easy",
+        "Avg Time": "31 Mins"
+    },
+    {
+        "Title": "Sort by Color",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Array 3 Pointers",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "54 Mins"
+    },
+    {
+        "Title": "Container With Most Water",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "48 Mins"
+    },
+    {
+        "Title": "Remove Duplicates from Sorted Array II",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Remove Element from Array",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Implement StrStr",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Integer To Roman",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Palindrome String",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Longest Common Prefix",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Roman To Integer",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Length of Last Word",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Multiply Strings",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Zigzag String",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Atoi",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Valid Ip Addresses",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Compare Version Numbers",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "67 Mins"
+    },
+    {
+        "Title": "Longest Palindromic Substring",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Pretty Json",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Count And Say",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Justified Text",
+        "Topic": "Strings",
+        "Difficulty": "Hard",
+        "Avg Time": "79 Mins"
+    },
+    {
+        "Title": "Add Binary Strings",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "40 Mins"
+    },
+    {
+        "Title": "Reverse the String",
+        "Topic": "Strings",
+        "Difficulty": "Very Easy",
+        "Avg Time": "36 Mins"
+    },
+    {
+        "Title": "Reverse Bits",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Medium",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Number of 1 Bits",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Single Number",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Easy",
+        "Avg Time": "11 Mins"
+    },
+    {
+        "Title": "Divide Integers",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Single Number II",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Medium",
+        "Avg Time": "39 Mins"
+    },
+    {
+        "Title": "Matrix Search",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "36 Mins"
+    },
+    {
+        "Title": "Count Element Occurence",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "46 Mins"
+    },
+    {
+        "Title": "Median of Array",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "87 Mins"
+    },
+    {
+        "Title": "Search for a Range",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Square Root of Integer",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "40 Mins"
+    },
+    {
+        "Title": "Implement Power Function",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Rotated Array",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Rotated Sorted Array Search",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Sorted Insert Position",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "25 Mins"
+    },
+    {
+        "Title": "Convert Sorted List to Binary Search Tree",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "45 Mins"
+    },
+    {
+        "Title": "Level Order",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Capture Regions on Board",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "66 Mins"
+    },
+    {
+        "Title": "Word Ladder II",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "71 Mins"
+    },
+    {
+        "Title": "Clone Graph",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Word Search Board",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "60 Mins"
+    },
+    {
+        "Title": "Word Ladder I",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "Inorder Traversal",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Next Greater Number BST",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "66 Mins"
+    },
+    {
+        "Title": "Recover Binary Search Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "66 Mins"
+    },
+    {
+        "Title": "Inorder Traversal of Cartesian Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "51 Mins"
+    },
+    {
+        "Title": "Least Common Ancestor",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Construct Binary Tree From Inorder And Preorder",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Flatten Binary Tree to Linked List",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Valid Binary Search Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Preorder Traversal",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Max Depth of Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Binary Tree From Inorder And Postorder",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "50 Mins"
+    },
+    {
+        "Title": "Balanced Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Sorted Array To Balanced BST",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Sum Root to Leaf Numbers",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "45 Mins"
+    },
+    {
+        "Title": "Symmetric Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Postorder Traversal",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "31 Mins"
+    },
+    {
+        "Title": "Populate Next Right Pointers Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "50 Mins"
+    },
+    {
+        "Title": "Identical Binary Trees",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "11 Mins"
+    },
+    {
+        "Title": "BST Iterator",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "ZigZag Level Order Traversal BT",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Path Sum",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Next Pointer Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "44 Mins"
+    },
+    {
+        "Title": "Min Depth of Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Root to Leaf Paths With Sum",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Merge K Sorted Lists",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Hard",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "LRU Cache",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Hard",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "NESTED_CMPL2",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "CHOOSE3",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "NESTED_CMPL3",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "CHOOSE4",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "0 Mins"
+    },
+    {
+        "Title": "AMORTIZED1",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "CHOOSE2",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "GCD_CMPL",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "LOOP_CMPL2",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "WHILE_CMPL",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "CHOOSE1",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "LOOP_CMPL",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "NESTED_CMPL",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "ARRAY_2D",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "11 Mins"
+    },
+    {
+        "Title": "ARRAY_BUG",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "ARRAY_IMPL1",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "MATH_BUG01",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "MATH_BUG02",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Spider's Web",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "AMORTIZED2",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "PRETTYPRINT",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Kth Smallest Element in the Array",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "NUMRANGE",
+        "Topic": "Two Pointers",
+        "Difficulty": "Easy",
+        "Avg Time": "69 Mins"
+    },
+    {
+        "Title": "SUBTRACT",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "NEXTGREATER",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "48 Mins"
+    },
+    {
+        "Title": "INVERSIONS",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Easy",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Ratio of Boys and Girls",
+        "Topic": "Puzzles",
+        "Difficulty": "Easy",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Max Non Negative SubArray",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Wave Array",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Rearrange Array",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Greatest Common Divisor",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Allocate Books",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Painter's Partition Problem",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "81 Mins"
+    },
+    {
+        "Title": "Power of 2",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Max Continuous Series of 1s",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "77 Mins"
+    },
+    {
+        "Title": "Redundant Braces",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Colorful Number",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "44 Mins"
+    },
+    {
+        "Title": "Order of People Heights",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "76 Mins"
+    },
+    {
+        "Title": "Shortest Unique Prefix",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "69 Mins"
+    },
+    {
+        "Title": "Max Sum Without Adjacent Elements",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "58 Mins"
+    },
+    {
+        "Title": "Repeating Sub-Sequence",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Evaluate Expression To True",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "72 Mins"
+    },
+    {
+        "Title": "Coins in a Line",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Seats",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Medium",
+        "Avg Time": "74 Mins"
+    },
+    {
+        "Title": "Sum Of Fibonacci Numbers",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Stepping Numbers",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "61 Mins"
+    },
+    {
+        "Title": "REC_CMPL1",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "REC_CMPL2",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "REC_CMPL3",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "Equal",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "71 Mins"
+    },
+    {
+        "Title": "Highest Product",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Assign Mice to Holes",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Black Shapes",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Knight On Chess Board",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Anti Diagonals",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Hotel Bookings Possible",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "66 Mins"
+    },
+    {
+        "Title": "Min Steps in Infinite Grid",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "37 Mins"
+    },
+    {
+        "Title": "Power Of Two Integers",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "39 Mins"
+    },
+    {
+        "Title": "Prime Sum",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Largest Continuous Sequence Zero Sum",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Arrange II",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "73 Mins"
+    },
+    {
+        "Title": "Equal Average Partition",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "Sorted Permutation Rank",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "78 Mins"
+    },
+    {
+        "Title": "Sorted Permutation Rank with Repeats",
+        "Topic": "Math",
+        "Difficulty": "Hard",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Coin Sum Infinite",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Bulbs",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Easy",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Deterministic Finite Automaton",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Build Identical Trees",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Increasing SubArrays",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Distinct Initial Matrices",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Get Mode Array Updates",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "39 Mins"
+    },
+    {
+        "Title": "Longest Common Prefix II",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Maximum Longest Common Subsequence",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Min Jumps",
+        "Topic": "Ninja",
+        "Difficulty": "Medium",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Flip",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "78 Mins"
+    },
+    {
+        "Title": "Different Bits Sum Pairwise",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Medium",
+        "Avg Time": "51 Mins"
+    },
+    {
+        "Title": "Palindrome List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Nearest Smaller Element",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Distinct Numbers in Window",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "39 Mins"
+    },
+    {
+        "Title": "Invert the Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Kth Smallest Element In Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "2-Sum Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Rod Cutting",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "76 Mins"
+    },
+    {
+        "Title": "Smallest Multiple With 0 and 1",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "77 Mins"
+    },
+    {
+        "Title": "Intersecting Chords in a Circle",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "Count Permutations of BST",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Find Permutation",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Maximum Absolute Difference",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Matrix Median",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "77 Mins"
+    },
+    {
+        "Title": "Largest Coprime Divisor",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Maximum Unsorted Subarray",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Counting Triangles",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Queen Attack",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "61 Mins"
+    },
+    {
+        "Title": "Magician and Chocolates",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Minimum Characters required to make a String Palindromic",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Longest Arithmetic Progression",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "Ways to form Max Heap",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "76 Mins"
+    },
+    {
+        "Title": "Sum of pairwise Hamming Distance",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "66 Mins"
+    },
+    {
+        "Title": "Sub Matrices with sum Zero",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "N digit numbers with digit sum S",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "73 Mins"
+    },
+    {
+        "Title": "Largest Distance between nodes of a Tree",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "79 Mins"
+    },
+    {
+        "Title": "Length of Longest Subsequence",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Shortest common superstring",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "58 Mins"
+    },
+    {
+        "Title": "Noble Integer",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Flip Array",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "81 Mins"
+    },
+    {
+        "Title": "Triplets with Sum between given range",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "76 Mins"
+    },
+    {
+        "Title": "Smallest sequence with given Primes",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "67 Mins"
+    },
+    {
+        "Title": "Commutable Islands",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "78 Mins"
+    },
+    {
+        "Title": "Possibility of finishing all courses given pre-requisites",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Vertical Order traversal of Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "74 Mins"
+    },
+    {
+        "Title": "Numbers of length N and value less than K",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "90 Mins"
+    },
+    {
+        "Title": "K reverse linked list",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "60 Mins"
+    },
+    {
+        "Title": "Ways to color a 3xN Board",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "FizzBuzz",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Min XOR value",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Medium",
+        "Avg Time": "37 Mins"
+    },
+    {
+        "Title": "Tushar's Birthday Bombs",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "80 Mins"
+    },
+    {
+        "Title": "Tushar's Birthday Party",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "72 Mins"
+    },
+    {
+        "Title": "Kth Manhattan Distance Neighbourhood",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "N max pair combinations",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "79 Mins"
+    },
+    {
+        "Title": "Valid Path",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "85 Mins"
+    },
+    {
+        "Title": "Minimize the absolute difference",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "60 Mins"
+    },
+    {
+        "Title": "Largest area of rectangle with permutations",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "76 Mins"
+    },
+    {
+        "Title": "Hotel Reviews",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "Good Graph",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "61 Mins"
+    },
+    {
+        "Title": "Kingdom War",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "60 Mins"
+    },
+    {
+        "Title": "Convert the amount in number to words",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "36 Mins"
+    },
+    {
+        "Title": "MAXSPPROD",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "88 Mins"
+    },
+    {
+        "Title": "Sample Question",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Lines in a given range",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Easy",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Valid phone number",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Medium",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Find Fibonacci",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Easy",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Swap Forward And Backward Slash",
+        "Topic": "Regex And Functions",
+        "Difficulty": "Medium",
+        "Avg Time": "13 Mins"
+    },
+    {
+        "Title": "Convert Integer To Roman Number",
+        "Topic": "Regex And Functions",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Transform CSV",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Medium",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "Sort by Frequency",
+        "Topic": "Regex And Functions",
+        "Difficulty": "Medium",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Valid Email Address",
+        "Topic": "Regex And Functions",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Remove Punctuations",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Medium",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Grep",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Medium",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Grep Log",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Medium",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "Tenth Line",
+        "Topic": "Basic Shell Commands",
+        "Difficulty": "Medium",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Amazing Subarrays",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Partitions",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "Neutral Reviewers",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Movie Character",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "35 Mins"
+    },
+    {
+        "Title": "Short Films",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "31 Mins"
+    },
+    {
+        "Title": "Actors and their Movies",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Stringoholics",
+        "Topic": "Strings",
+        "Difficulty": "Hard",
+        "Avg Time": "67 Mins"
+    },
+    {
+        "Title": "Simple Queries",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "67 Mins"
+    },
+    {
+        "Title": "City Tour",
+        "Topic": "Math",
+        "Difficulty": "Hard",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Minimum Absolute Difference",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Multiple left rotations of the array",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "25 Mins"
+    },
+    {
+        "Title": "Find a peak element",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "First non-repeating character in a stream of characters",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "58 Mins"
+    },
+    {
+        "Title": "Longest Common Subsequence",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Longest Palindromic Subsequence",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Find Rectangle in binary matrix",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Easy",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Best Time to Buy and Sell Stock atmost B times",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Meeting rooms",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Medium",
+        "Avg Time": "60 Mins"
+    },
+    {
+        "Title": "Right view of Binary tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "31 Mins"
+    },
+    {
+        "Title": "Valid BST from Preorder",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Diagonal Traversal",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Maximum Sum Combinations",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Maximum Path in Triangle",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Cousins in Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Reverse Alternate K Nodes",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "54 Mins"
+    },
+    {
+        "Title": "Kth Node From Middle",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Pair With Given Difference",
+        "Topic": "Two Pointers",
+        "Difficulty": "Easy",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Path to Given Node",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Count Total Set Bits",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Hard",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "Sort Binary Linked List",
+        "Topic": "Linked Lists",
+        "Difficulty": "Easy",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Cycle in Directed Graph",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "K Largest Elements",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Easy",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Palindromic Binary Representation",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Hard",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Remove Half Nodes",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Cycle in Undirected Graph",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "54 Mins"
+    },
+    {
+        "Title": "Next Similar Number",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "55 Mins"
+    },
+    {
+        "Title": "Convert to Palindrome",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "40 Mins"
+    },
+    {
+        "Title": "0-1 Knapsack",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Chain of Pairs",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "44 Mins"
+    },
+    {
+        "Title": "Merge two Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Maximum Ones After Modification",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Is Rectangle?",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "11 Mins"
+    },
+    {
+        "Title": "Snake Ladder Problem!",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "68 Mins"
+    },
+    {
+        "Title": "Region in BinaryMatrix",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "46 Mins"
+    },
+    {
+        "Title": "Balanced Parantheses!",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Pairs With Given Xor",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Maximum Size Square Sub-matrix",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "44 Mins"
+    },
+    {
+        "Title": "Min Cost Path",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "72 Mins"
+    },
+    {
+        "Title": "Minimum Lights to Activate",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "Two teams?",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Even Reverse",
+        "Topic": "Linked Lists",
+        "Difficulty": "Medium",
+        "Avg Time": "45 Mins"
+    },
+    {
+        "Title": "Check Palindrome!",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Vowel and Consonant Substrings!",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Minimum Appends for Palindrome!",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "46 Mins"
+    },
+    {
+        "Title": "Maximal String",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "65 Mins"
+    },
+    {
+        "Title": "An Increment Problem",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "50 Mins"
+    },
+    {
+        "Title": "Large Factorial",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Remove Consecutive Characters",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Permutation Swaps!",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "61 Mins"
+    },
+    {
+        "Title": "Delete Edge!",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "Maximum Sum Triplet",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "82 Mins"
+    },
+    {
+        "Title": "Find Nth Fibonacci",
+        "Topic": "Math",
+        "Difficulty": "Hard",
+        "Avg Time": "54 Mins"
+    },
+    {
+        "Title": "Maximum Sum Square SubMatrix",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "58 Mins"
+    },
+    {
+        "Title": "Maximum Area of Triangle!",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "61 Mins"
+    },
+    {
+        "Title": "Profit Maximisation",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Perfect Peak of Array",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Subarray with given XOR",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Two out of Three",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Subarray with B odd numbers",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Tiling With Dominoes",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Reverse Level Order",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Smaller or equal elements",
+        "Topic": "Binary Search",
+        "Difficulty": "Very Easy",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "WoodCutting Made Easy!",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "59 Mins"
+    },
+    {
+        "Title": "Useful Extra Edges",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Largest Permutation",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Easy",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Increasing Path in Matrix",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Minimum Parantheses!",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "25 Mins"
+    },
+    {
+        "Title": "Leaders in an array",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Trailing Zeroes",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Easy",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Maximum Edge Removal",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Search in Bitonic Array!",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Egg Drop Problem!",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Step by Step",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Next Smallest Palindrome!",
+        "Topic": "Math",
+        "Difficulty": "Hard",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Distribute in Circle!",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Total Moves For Bishop!",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "31 Mins"
+    },
+    {
+        "Title": "Subarray with equal occurences!",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "35 Mins"
+    },
+    {
+        "Title": "Paint House!",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Maximum level sum",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "Pick from both sides!",
+        "Topic": "Arrays",
+        "Difficulty": "Very Easy",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Merge K sorted arrays!",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Minimum Difference Subsets!",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Sort array with squares!",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "31 Mins"
+    },
+    {
+        "Title": "Counting Subarrays!",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Subset Sum Problem!",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "45 Mins"
+    },
+    {
+        "Title": "XOR-ing the Subarrays!",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Medium",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Longest Subarray Length",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "First Repeating element",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Merge elements",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "64 Mins"
+    },
+    {
+        "Title": "Balance Array",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Max Min",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Subarrays with distinct integers!",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Path in Directed Graph",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Path with good nodes!",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Xor Between Two Arrays!",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Max edge queries!",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Disjoint Intervals",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Water Flow",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "75 Mins"
+    },
+    {
+        "Title": "Burn a Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "63 Mins"
+    },
+    {
+        "Title": "Collect Resources",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "51 Mins"
+    },
+    {
+        "Title": "Queries On A Tree",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "36 Mins"
+    },
+    {
+        "Title": "Magical Pool and Items",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Easy",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Bribing was never Easy!",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "58 Mins"
+    },
+    {
+        "Title": "Even Product!",
+        "Topic": "Arrays",
+        "Difficulty": "Very Easy",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Predict Future!",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Sell items",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "13 Mins"
+    },
+    {
+        "Title": "Make them Equal",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Subarray Cost Sum",
+        "Topic": "Arrays",
+        "Difficulty": "Hard",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "First Index",
+        "Topic": "Binary Search",
+        "Difficulty": "Very Easy",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Red Zone",
+        "Topic": "Binary Search",
+        "Difficulty": "Hard",
+        "Avg Time": "45 Mins"
+    },
+    {
+        "Title": "Queries in Infinite String!",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Flipping String",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Maximize matrix XOR",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Easy",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Diagonally powerful Matrix",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Medium",
+        "Avg Time": "54 Mins"
+    },
+    {
+        "Title": "Help Rishabh!",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Lexicographically largest Array",
+        "Topic": "Two Pointers",
+        "Difficulty": "Very Easy",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "At most Two Occurrences!",
+        "Topic": "Two Pointers",
+        "Difficulty": "Easy",
+        "Avg Time": "54 Mins"
+    },
+    {
+        "Title": "Consecutive Losses",
+        "Topic": "Math",
+        "Difficulty": "Hard",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Replace With Factors!",
+        "Topic": "Linked Lists",
+        "Difficulty": "Very Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Count Good Subsequences",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Prime calculations",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Bitwise AND Sum",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Hard",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Make The Array Empty",
+        "Topic": "Backtracking",
+        "Difficulty": "Easy",
+        "Avg Time": "35 Mins"
+    },
+    {
+        "Title": "Similar Pairs",
+        "Topic": "Hashing",
+        "Difficulty": "Medium",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Super Array",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Equal Array",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Grid Paths",
+        "Topic": "Backtracking",
+        "Difficulty": "Hard",
+        "Avg Time": "40 Mins"
+    },
+    {
+        "Title": "Scaler Subarrays II",
+        "Topic": "Two Pointers",
+        "Difficulty": "Hard",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Maximize the Matrix",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Request X Chocolates",
+        "Topic": "Binary Search",
+        "Difficulty": "Easy",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Text Editor",
+        "Topic": "Strings",
+        "Difficulty": "Hard",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Counting Special Numbers!",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Anagram Match",
+        "Topic": "Hashing",
+        "Difficulty": "Hard",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Expected number of Segments",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Valid Parentheses Again",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "42 Mins"
+    },
+    {
+        "Title": "Range of the Array",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "47 Mins"
+    },
+    {
+        "Title": "Range Shopping",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Check Palindrome",
+        "Topic": "Strings",
+        "Difficulty": "Very Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Clear the Array",
+        "Topic": "Hashing",
+        "Difficulty": "Very Easy",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Coin Queue",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Hard",
+        "Avg Time": "35 Mins"
+    },
+    {
+        "Title": "Prefix with key greater than X",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Hard",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "4 number with highest xor",
+        "Topic": "Backtracking",
+        "Difficulty": "Very Easy",
+        "Avg Time": "16 Mins"
+    },
+    {
+        "Title": "OR equal XOR",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Very Easy",
+        "Avg Time": "25 Mins"
+    },
+    {
+        "Title": "Turn on the Bulbs",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Very Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "BST Sum",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Very Easy",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Jackpot queries",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Hard",
+        "Avg Time": "70 Mins"
+    },
+    {
+        "Title": "Unequal Ancestor",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Easy",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Kingdom of Friendship",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Very Easy",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Shortest in Shortest",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "62 Mins"
+    },
+    {
+        "Title": "Meeting Point",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Very Easy",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Maximum xor with Min X",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Easy",
+        "Avg Time": "37 Mins"
+    },
+    {
+        "Title": "Ticket Counter",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Max Base Pair",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Strengthen It",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "50 Mins"
+    },
+    {
+        "Title": "Yet another string operation problem",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "55 Mins"
+    },
+    {
+        "Title": "Allied Nations' Tour",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "40 Mins"
+    },
+    {
+        "Title": "Maximum height of staircase",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Nodes at Distance K",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "56 Mins"
+    },
+    {
+        "Title": "Reorder Data in Log Files",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "K-th Permutation",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "51 Mins"
+    },
+    {
+        "Title": "Vertical Sum of a Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Serialize",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Deserialize",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Serialize Binary Tree Migrated",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "String And Its Frequency",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Move Zeroes",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Make equal elements Array",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "37 Mins"
+    },
+    {
+        "Title": "Segregate 0s and 1s in an array",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "16 Mins"
+    },
+    {
+        "Title": "Connect Ropes",
+        "Topic": "Heaps And Maps",
+        "Difficulty": "Medium",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Capacity To Ship Packages Within B Days",
+        "Topic": "Binary Search",
+        "Difficulty": "Medium",
+        "Avg Time": "48 Mins"
+    },
+    {
+        "Title": "Bulls and Cows",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Construct BST from Preorder",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Covered / Uncovered Nodes",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Self Permutation",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Potions",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "52 Mins"
+    },
+    {
+        "Title": "Last Node in a Complete Binary Tree",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Array Sum",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "37 Mins"
+    },
+    {
+        "Title": "Mother Vertex",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Dice Throw",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "49 Mins"
+    },
+    {
+        "Title": "Set Intersection",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "57 Mins"
+    },
+    {
+        "Title": "Find Variance",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Very Easy",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "Distribution Percentage",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Median over mean",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Probability of Raining",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "How can he win?",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "White Marble Probability",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Boy or girl paradox",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Positive Test Probability",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Divisible by 60",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Powerful Divisors",
+        "Topic": "Math",
+        "Difficulty": "Hard",
+        "Avg Time": "44 Mins"
+    },
+    {
+        "Title": "Path in Matrix",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "35 Mins"
+    },
+    {
+        "Title": "Consecutive Parent - Child",
+        "Topic": "Tree Data Structure",
+        "Difficulty": "Medium",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Addition without Summation",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Hotel Service",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "48 Mins"
+    },
+    {
+        "Title": "Product probability",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "13 Mins"
+    },
+    {
+        "Title": "How much did he score?",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Difference",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "0 Mins"
+    },
+    {
+        "Title": "What p-value represents?",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "Are they equal?",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Choose for the statement",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Which library it is?",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "0 Mins"
+    },
+    {
+        "Title": "What does the code do?",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "2d graphics",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "0 Mins"
+    },
+    {
+        "Title": "Suitable plot type",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Retrieval protocol",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "2-way communication",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "0 Mins"
+    },
+    {
+        "Title": "Search engine process",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "What does the code print?",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Correlation-analysis",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Number of random samples",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "CLT",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Team Selection",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Chances to be spam",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "11 Mins"
+    },
+    {
+        "Title": "Probability of shares of a company",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Normal random variable",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Standard deviation",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Distribution for discrete",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Is it a queen?",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "All Possible Combinations",
+        "Topic": "Backtracking",
+        "Difficulty": "Medium",
+        "Avg Time": "38 Mins"
+    },
+    {
+        "Title": "Occurence of Each Number",
+        "Topic": "Arrays",
+        "Difficulty": "Medium",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Highest Score",
+        "Topic": "Math",
+        "Difficulty": "Medium",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "File Search",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Medium",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Covid probability (bayes)",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Random variable's probability",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "Univariate",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Mean of sampling distribution",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "When multivariate analysis",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Salutes",
+        "Topic": "Strings",
+        "Difficulty": "Medium",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "New variance",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Toss random variable",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Left of mean",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Cumulative probability",
+        "Topic": "Probability",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "find the one",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "choose the output",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "python broadcasting",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Subplot Coordinates",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "For 'series'",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "drop axis",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Rename axis",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Missing info",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "!univariate",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Change in mean and median",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "New average",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Suitable mean",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Vertically Stacked Bar Graph",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Image dimensions",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Dimension with components",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Color interpretation",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Image cropping",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Load RGB",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "iloc vs loc part I",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Multivariate",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Dependent variables",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Sampling Distribution Mean",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "Standard Error of Sampling Distribution",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Sampling error and Sampling Size",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Probability Distribution",
+        "Topic": "Probability",
+        "Difficulty": "Medium",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Hypothesis Testing in Salary of Data Scientists",
+        "Topic": "Inferential Statistics",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "PCA's secondary objective",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Five number theory",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "1 Mins"
+    },
+    {
+        "Title": "Duplicates detection",
+        "Topic": "Data Analysis",
+        "Difficulty": "Medium",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "As a Series",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Max registrations they asked?",
+        "Topic": "Data Analysis",
+        "Difficulty": "Medium",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Row-wise unique",
+        "Topic": "Data Analysis",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "How not to retrieve?",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "4 Mins"
+    },
+    {
+        "Title": "Fill Infinite",
+        "Topic": "Data Analysis",
+        "Difficulty": "Easy",
+        "Avg Time": "2 Mins"
+    },
+    {
+        "Title": "IQR outlier detection",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Variability measures",
+        "Topic": "Descriptive Statistics",
+        "Difficulty": "Medium",
+        "Avg Time": "36 Mins"
+    },
+    {
+        "Title": "Sample",
+        "Topic": "Python",
+        "Difficulty": "Easy",
+        "Avg Time": "0 Mins"
+    },
+    {
+        "Title": "Sum of 7's Multiple",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Find Last Digit",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Town Selection",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Town Queries",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "5 Mins"
+    },
+    {
+        "Title": "Last digit K count",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Double Increasing Series",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "43 Mins"
+    },
+    {
+        "Title": "Greater of Lesser",
+        "Topic": "Arrays",
+        "Difficulty": "Very Easy",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Frequency of Characters",
+        "Topic": "Strings",
+        "Difficulty": "Very Easy",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Spiral Matrix",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Student Query",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "7 Mins"
+    },
+    {
+        "Title": "Collatz Conjecture",
+        "Topic": "Time Complexity",
+        "Difficulty": "Very Easy",
+        "Avg Time": "23 Mins"
+    },
+    {
+        "Title": "Country Filtration",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Information Selector",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "3 Mins"
+    },
+    {
+        "Title": "Town Of Threes",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "8 Mins"
+    },
+    {
+        "Title": "Digital Root",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "16 Mins"
+    },
+    {
+        "Title": "Product of All",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Chips Factory",
+        "Topic": "Arrays",
+        "Difficulty": "Very Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Bit Flipping",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Very Easy",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Number of Sundays",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Greater than All",
+        "Topic": "Arrays",
+        "Difficulty": "Very Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Product of Digits",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "11 Mins"
+    },
+    {
+        "Title": "Firefighter's Average",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Firefighter's Sum",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Largest Difference",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "13 Mins"
+    },
+    {
+        "Title": "Maximum Substring",
+        "Topic": "Strings",
+        "Difficulty": "Very Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Round Table",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Odd Even Rule",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Distance Maximizer",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Euclid's Distance",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Big Salary",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "Armstrong Number",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Leap Year",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Conditional Work",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Role Ordering",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Role Player",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Role Counter",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Vowel Country",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "14 Mins"
+    },
+    {
+        "Title": "Lowest Common Multiple (LCM)",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Character Frequencies",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "19 Mins"
+    },
+    {
+        "Title": "Engineers Joined",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Many Tables",
+        "Topic": "SQL Programming",
+        "Difficulty": "Easy",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Which Season?",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "String Inversion",
+        "Topic": "Strings",
+        "Difficulty": "Very Easy",
+        "Avg Time": "12 Mins"
+    },
+    {
+        "Title": "Range Sum",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "6 Mins"
+    },
+    {
+        "Title": "Top Performer",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Low and High Grades",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Socks Pair",
+        "Topic": "Math",
+        "Difficulty": "Very Easy",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Pythagorean Triplets",
+        "Topic": "Arrays",
+        "Difficulty": "Easy",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "Study Selection",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "9 Mins"
+    },
+    {
+        "Title": "Study Update",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Study Deletion",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "11 Mins"
+    },
+    {
+        "Title": "Same Countries",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Two Stores",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "32 Mins"
+    },
+    {
+        "Title": "Palindromic Time",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "41 Mins"
+    },
+    {
+        "Title": "Dice Rolls",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Swap Bits",
+        "Topic": "Bit Manipulation",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Pangram Check",
+        "Topic": "Time Complexity",
+        "Difficulty": "Very Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Connected Components",
+        "Topic": "Graph Data Structure & Algorithms",
+        "Difficulty": "Easy",
+        "Avg Time": "30 Mins"
+    },
+    {
+        "Title": "Diagonal Flip",
+        "Topic": "Arrays",
+        "Difficulty": "Very Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Valid Password",
+        "Topic": "Strings",
+        "Difficulty": "Very Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Positive Negative",
+        "Topic": "Arrays",
+        "Difficulty": "Very Easy",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Climbing Stairs",
+        "Topic": "Time Complexity",
+        "Difficulty": "Medium",
+        "Avg Time": "36 Mins"
+    },
+    {
+        "Title": "Integers in Strings",
+        "Topic": "Time Complexity",
+        "Difficulty": "Medium",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Word Count",
+        "Topic": "Time Complexity",
+        "Difficulty": "Medium",
+        "Avg Time": "25 Mins"
+    },
+    {
+        "Title": "Extracting Numbers",
+        "Topic": "Time Complexity",
+        "Difficulty": "Very Easy",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "Palindromic Words",
+        "Topic": "Strings",
+        "Difficulty": "Very Easy",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Palindrome Numbers",
+        "Topic": "Two Pointers",
+        "Difficulty": "Medium",
+        "Avg Time": "33 Mins"
+    },
+    {
+        "Title": "Palindromic Substrings",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "26 Mins"
+    },
+    {
+        "Title": "5'th Highest Marks",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Performance Improvement",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Famous Books",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "25 Mins"
+    },
+    {
+        "Title": "Chess Tournament",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "NULL sorting",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "I hate Vowels",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Birthdays",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "17 Mins"
+    },
+    {
+        "Title": "Class Average",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "18 Mins"
+    },
+    {
+        "Title": "Tournament 2.0",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Job Offer",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Job Offers 2.0",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "24 Mins"
+    },
+    {
+        "Title": "Student Info",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "10 Mins"
+    },
+    {
+        "Title": "Next And Previous",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "21 Mins"
+    },
+    {
+        "Title": "Minimum GPA",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Number of offers",
+        "Topic": "SQL Programming",
+        "Difficulty": "Hard",
+        "Avg Time": "31 Mins"
+    },
+    {
+        "Title": "Common Elements",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "15 Mins"
+    },
+    {
+        "Title": "Exploring the farmer's market",
+        "Topic": "SQL Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "Distinct Numbers",
+        "Topic": "Hashing",
+        "Difficulty": "Easy",
+        "Avg Time": "22 Mins"
+    },
+    {
+        "Title": "Maxed Arrays",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Medium",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Compact Scientific Notation",
+        "Topic": "Strings",
+        "Difficulty": "Hard",
+        "Avg Time": "53 Mins"
+    },
+    {
+        "Title": "Parity-Swapping Integer Minimization",
+        "Topic": "Greedy Algorithm",
+        "Difficulty": "Medium",
+        "Avg Time": "34 Mins"
+    },
+    {
+        "Title": "Binary String Cleanup Challenge",
+        "Topic": "Strings",
+        "Difficulty": "Easy",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "L++ Expression Validity Analyzer",
+        "Topic": "Stacks And Queues",
+        "Difficulty": "Easy",
+        "Avg Time": "28 Mins"
+    },
+    {
+        "Title": "Bead Challenge",
+        "Topic": "Time Complexity",
+        "Difficulty": "Easy",
+        "Avg Time": "27 Mins"
+    },
+    {
+        "Title": "X-Permutations",
+        "Topic": "Math",
+        "Difficulty": "Hard",
+        "Avg Time": "29 Mins"
+    },
+    {
+        "Title": "Buy Water Balloons",
+        "Topic": "Dynamic Programming",
+        "Difficulty": "Medium",
+        "Avg Time": "44 Mins"
+    },
+    {
+        "Title": "GP Triplets",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "20 Mins"
+    },
+    {
+        "Title": "GP Triplets QXSsA",
+        "Topic": "Math",
+        "Difficulty": "Easy",
+        "Avg Time": "28 Mins"
+    }
+]

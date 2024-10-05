@@ -1,0 +1,644 @@
+[
+    {
+        "Title": "Max Element in Array",
+        "Users Tried": "22531",
+        "Success Rate": "95.95",
+        "Score": "20"
+    },
+    {
+        "Title": "Number Distribution",
+        "Users Tried": "17578",
+        "Success Rate": "98.1",
+        "Score": "20"
+    },
+    {
+        "Title": "Reverse Array",
+        "Users Tried": "20422",
+        "Success Rate": "97.25",
+        "Score": "20"
+    },
+    {
+        "Title": "Odd and Even Sum",
+        "Users Tried": "17903",
+        "Success Rate": "98.56",
+        "Score": "20"
+    },
+    {
+        "Title": "Mean Median Mode",
+        "Users Tried": "12256",
+        "Success Rate": "83.61",
+        "Score": "20"
+    },
+    {
+        "Title": "The Missing Number",
+        "Users Tried": "18077",
+        "Success Rate": "98.83",
+        "Score": "20"
+    },
+    {
+        "Title": "Find Duplicate Number in Array",
+        "Users Tried": "18687",
+        "Success Rate": "97.76",
+        "Score": "20"
+    },
+    {
+        "Title": "First and Last",
+        "Users Tried": "14456",
+        "Success Rate": "96.93",
+        "Score": "20"
+    },
+    {
+        "Title": "Unique Elements",
+        "Users Tried": "17229",
+        "Success Rate": "92.17",
+        "Score": "2 / 20"
+    },
+    {
+        "Title": "Merge Two Sorted Arrays",
+        "Users Tried": "12279",
+        "Success Rate": "95.59",
+        "Score": "20"
+    },
+    {
+        "Title": "Print Array A Using B",
+        "Users Tried": "12394",
+        "Success Rate": "96.68",
+        "Score": "20"
+    },
+    {
+        "Title": "Gauntlets",
+        "Users Tried": "10180",
+        "Success Rate": "94.36",
+        "Score": "20"
+    },
+    {
+        "Title": "Max Altitude",
+        "Users Tried": "16069",
+        "Success Rate": "98.53",
+        "Score": "20"
+    },
+    {
+        "Title": "Longest Contiguous 1's",
+        "Users Tried": "15731",
+        "Success Rate": "96.31",
+        "Score": "20"
+    },
+    {
+        "Title": "Is Bitonic Sequence",
+        "Users Tried": "6161",
+        "Success Rate": "82.41",
+        "Score": "20"
+    },
+    {
+        "Title": "Max Min Partition",
+        "Users Tried": "8060",
+        "Success Rate": "94.09",
+        "Score": "20"
+    },
+    {
+        "Title": "Left Sum and Right Sum",
+        "Users Tried": "14312",
+        "Success Rate": "96.02",
+        "Score": "20"
+    },
+    {
+        "Title": "Alternate Seating",
+        "Users Tried": "7425",
+        "Success Rate": "78.48",
+        "Score": "20"
+    },
+    {
+        "Title": "Ternary Array",
+        "Users Tried": "6517",
+        "Success Rate": "89.9",
+        "Score": "20"
+    },
+    {
+        "Title": "Three Equal Parts",
+        "Users Tried": "5181",
+        "Success Rate": "76.43",
+        "Score": "20"
+    },
+    {
+        "Title": "List Operations",
+        "Users Tried": "4401",
+        "Success Rate": "87.8",
+        "Score": "20"
+    },
+    {
+        "Title": "Implement Bubble Sort",
+        "Users Tried": "7959",
+        "Success Rate": "86.44",
+        "Score": "20"
+    },
+    {
+        "Title": "Implement Selection Sort",
+        "Users Tried": "7245",
+        "Success Rate": "95.42",
+        "Score": "20"
+    },
+    {
+        "Title": "Implement Insertion Sort",
+        "Users Tried": "7269",
+        "Success Rate": "98.09",
+        "Score": "20"
+    },
+    {
+        "Title": "Implement Shell Sort",
+        "Users Tried": "4119",
+        "Success Rate": "96.63",
+        "Score": "20"
+    },
+    {
+        "Title": "Implement Merge Sort",
+        "Users Tried": "2942",
+        "Success Rate": "88.82",
+        "Score": "20"
+    },
+    {
+        "Title": "Implement Linear Search",
+        "Users Tried": "14397",
+        "Success Rate": "96.53",
+        "Score": "20"
+    },
+    {
+        "Title": "Implement Binary Search",
+        "Users Tried": "7461",
+        "Success Rate": "95.62",
+        "Score": "20"
+    },
+    {
+        "Title": "Matrix Row Sum",
+        "Users Tried": "17126",
+        "Success Rate": "95.64",
+        "Score": "20"
+    },
+    {
+        "Title": "Matrix Column Sum",
+        "Users Tried": "14674",
+        "Success Rate": "88.16",
+        "Score": "20"
+    },
+    {
+        "Title": "Submatrix Sum",
+        "Users Tried": "8662",
+        "Success Rate": "97.23",
+        "Score": "20"
+    },
+    {
+        "Title": "Lower Triangle",
+        "Users Tried": "10186",
+        "Success Rate": "98.84",
+        "Score": "20"
+    },
+    {
+        "Title": "Sum of Two Matrices",
+        "Users Tried": "14195",
+        "Success Rate": "96.98",
+        "Score": "20"
+    },
+    {
+        "Title": "Interchange Diagonals",
+        "Users Tried": "11438",
+        "Success Rate": "97.69",
+        "Score": "20"
+    },
+    {
+        "Title": "Count the Elements - Matrix in Array",
+        "Users Tried": "7178",
+        "Success Rate": "93.13",
+        "Score": "20"
+    },
+    {
+        "Title": "Matrix Zig-Zag Traversal",
+        "Users Tried": "10804",
+        "Success Rate": "97.2",
+        "Score": "20"
+    },
+    {
+        "Title": "Transpose Matrix",
+        "Users Tried": "13096",
+        "Success Rate": "95.43",
+        "Score": "20"
+    },
+    {
+        "Title": "Sparse Matrix",
+        "Users Tried": "11633",
+        "Success Rate": "96.47",
+        "Score": "20"
+    },
+    {
+        "Title": "Super One",
+        "Users Tried": "4258",
+        "Success Rate": "81.02",
+        "Score": "20"
+    },
+    {
+        "Title": "Image Flip",
+        "Users Tried": "9570",
+        "Success Rate": "93.98",
+        "Score": "20"
+    },
+    {
+        "Title": "Local Max in Matrix",
+        "Users Tried": "4209",
+        "Success Rate": "94.87",
+        "Score": "20"
+    },
+    {
+        "Title": "Zero Row and Zero Column",
+        "Users Tried": "8796",
+        "Success Rate": "94.86",
+        "Score": "20"
+    },
+    {
+        "Title": "Check Bit",
+        "Users Tried": "11923",
+        "Success Rate": "95.92",
+        "Score": "20"
+    },
+    {
+        "Title": "Triangle Validator",
+        "Users Tried": "14547",
+        "Success Rate": "96.47",
+        "Score": "20"
+    },
+    {
+        "Title": "Area of Rectangle",
+        "Users Tried": "14477",
+        "Success Rate": "95.99",
+        "Score": "20"
+    },
+    {
+        "Title": "Arithmetic Operators",
+        "Users Tried": "13607",
+        "Success Rate": "97.19",
+        "Score": "20"
+    },
+    {
+        "Title": "Arithmetic Progression",
+        "Users Tried": "12981",
+        "Success Rate": "99.6",
+        "Score": "20"
+    },
+    {
+        "Title": "Compute A power B",
+        "Users Tried": "15475",
+        "Success Rate": "93",
+        "Score": "18 / 20"
+    },
+    {
+        "Title": "Number Reverse",
+        "Users Tried": "14319",
+        "Success Rate": "80.68",
+        "Score": "20"
+    },
+    {
+        "Title": "Fibonacci Number",
+        "Users Tried": "15300",
+        "Success Rate": "94.59",
+        "Score": "20"
+    },
+    {
+        "Title": "Factorial",
+        "Users Tried": "16477",
+        "Success Rate": "98.94",
+        "Score": "20"
+    },
+    {
+        "Title": "Catalan Number",
+        "Users Tried": "6931",
+        "Success Rate": "94.27",
+        "Score": "20"
+    },
+    {
+        "Title": "NcR Basic",
+        "Users Tried": "7165",
+        "Success Rate": "89.77",
+        "Score": "20"
+    },
+    {
+        "Title": "Applying Modulus",
+        "Users Tried": "5244",
+        "Success Rate": "81.86",
+        "Score": "20"
+    },
+    {
+        "Title": "Factorial Hard",
+        "Users Tried": "10753",
+        "Success Rate": "88.68",
+        "Score": "20"
+    },
+    {
+        "Title": "Minimum Subtraction",
+        "Users Tried": "5063",
+        "Success Rate": "82.54",
+        "Score": "20"
+    },
+    {
+        "Title": "Number of Multiples",
+        "Users Tried": "11826",
+        "Success Rate": "81.86",
+        "Score": "20"
+    },
+    {
+        "Title": "A B and X",
+        "Users Tried": "5737",
+        "Success Rate": "76.9",
+        "Score": "14 / 20"
+    },
+    {
+        "Title": "Natural Numbers Sum",
+        "Users Tried": "15536",
+        "Success Rate": "94.34",
+        "Score": "20"
+    },
+    {
+        "Title": "Armstrong Number",
+        "Users Tried": "14471",
+        "Success Rate": "96.85",
+        "Score": "20"
+    },
+    {
+        "Title": "Narcissistic Numbers",
+        "Users Tried": "11290",
+        "Success Rate": "94.48",
+        "Score": "20"
+    },
+    {
+        "Title": "Harshad Numbers",
+        "Users Tried": "12497",
+        "Success Rate": "96.99",
+        "Score": "20"
+    },
+    {
+        "Title": "Compound Interest",
+        "Users Tried": "6963",
+        "Success Rate": "92.89",
+        "Score": "20"
+    },
+    {
+        "Title": "Quadratic Equation",
+        "Users Tried": "7009",
+        "Success Rate": "88.53",
+        "Score": "20"
+    },
+    {
+        "Title": "Prime or Not",
+        "Users Tried": "13715",
+        "Success Rate": "84.36",
+        "Score": "20"
+    },
+    {
+        "Title": "Arrange Primes",
+        "Users Tried": "2237",
+        "Success Rate": "89.45",
+        "Score": "20"
+    },
+    {
+        "Title": "Fuel Tank",
+        "Users Tried": "3629",
+        "Success Rate": "79.28",
+        "Score": "20"
+    },
+    {
+        "Title": "Min Digit",
+        "Users Tried": "6222",
+        "Success Rate": "95.87",
+        "Score": "20"
+    },
+    {
+        "Title": "Number of Rectangles",
+        "Users Tried": "4596",
+        "Success Rate": "90.56",
+        "Score": "20"
+    },
+    {
+        "Title": "Point Location",
+        "Users Tried": "3689",
+        "Success Rate": "93.17",
+        "Score": "20"
+    },
+    {
+        "Title": "Area of Polygon",
+        "Users Tried": "3632",
+        "Success Rate": "88.24",
+        "Score": "20"
+    },
+    {
+        "Title": "Filled Rectangle",
+        "Users Tried": "11273",
+        "Success Rate": "99.7",
+        "Score": "20"
+    },
+    {
+        "Title": "Hollow Rectangle",
+        "Users Tried": "12149",
+        "Success Rate": "97.58",
+        "Score": "20"
+    },
+    {
+        "Title": "Rectangle Pattern",
+        "Users Tried": "11230",
+        "Success Rate": "96.95",
+        "Score": "20"
+    },
+    {
+        "Title": "Triangle Pattern",
+        "Users Tried": "11298",
+        "Success Rate": "98.86",
+        "Score": "20"
+    },
+    {
+        "Title": "Floyd Pattern - 1",
+        "Users Tried": "13827",
+        "Success Rate": "98.98",
+        "Score": "20"
+    },
+    {
+        "Title": "Floyd Pattern - 2",
+        "Users Tried": "9433",
+        "Success Rate": "95.31",
+        "Score": "20"
+    },
+    {
+        "Title": "Half Diamond",
+        "Users Tried": "12186",
+        "Success Rate": "99.05",
+        "Score": "20"
+    },
+    {
+        "Title": "Half Diamond with Numbers",
+        "Users Tried": "9621",
+        "Success Rate": "98.83",
+        "Score": "20"
+    },
+    {
+        "Title": "Inverted Pyramid",
+        "Users Tried": "9656",
+        "Success Rate": "94.96",
+        "Score": "20"
+    },
+    {
+        "Title": "Pyramid Pattern",
+        "Users Tried": "11348",
+        "Success Rate": "97.83",
+        "Score": "20"
+    },
+    {
+        "Title": "Palindromic Pattern",
+        "Users Tried": "9304",
+        "Success Rate": "97.56",
+        "Score": "20"
+    },
+    {
+        "Title": "Multiplication Table",
+        "Users Tried": "13232",
+        "Success Rate": "98.77",
+        "Score": "20"
+    },
+    {
+        "Title": "Pascal's Triangle",
+        "Users Tried": "4580",
+        "Success Rate": "95.59",
+        "Score": "20"
+    },
+    {
+        "Title": "Reverse String",
+        "Users Tried": "13003",
+        "Success Rate": "98.7",
+        "Score": "20"
+    },
+    {
+        "Title": "Odd Even Index",
+        "Users Tried": "10955",
+        "Success Rate": "98.5",
+        "Score": "20"
+    },
+    {
+        "Title": "Toggle Case",
+        "Users Tried": "10755",
+        "Success Rate": "99.09",
+        "Score": "20"
+    },
+    {
+        "Title": "Vowels and Consonants",
+        "Users Tried": "11379",
+        "Success Rate": "96.91",
+        "Score": "20"
+    },
+    {
+        "Title": "Letter Coverage",
+        "Users Tried": "7765",
+        "Success Rate": "88.72",
+        "Score": "20"
+    },
+    {
+        "Title": "Check the Square String",
+        "Users Tried": "4915",
+        "Success Rate": "93.61",
+        "Score": "20"
+    },
+    {
+        "Title": "Balanced Splitting",
+        "Users Tried": "4007",
+        "Success Rate": "96.91",
+        "Score": "20"
+    },
+    {
+        "Title": "Digit String",
+        "Users Tried": "10520",
+        "Success Rate": "96.13",
+        "Score": "20"
+    },
+    {
+        "Title": "Digits Sum",
+        "Users Tried": "12483",
+        "Success Rate": "89.6",
+        "Score": "20"
+    },
+    {
+        "Title": "Number of Days",
+        "Users Tried": "3562",
+        "Success Rate": "94.81",
+        "Score": "20"
+    },
+    {
+        "Title": "AB and CD",
+        "Users Tried": "3580",
+        "Success Rate": "94.08",
+        "Score": "20"
+    },
+    {
+        "Title": "Strong Password",
+        "Users Tried": "5154",
+        "Success Rate": "82.31",
+        "Score": "20"
+    },
+    {
+        "Title": "Anagram Basic",
+        "Users Tried": "5635",
+        "Success Rate": "94.14",
+        "Score": "20"
+    },
+    {
+        "Title": "Compress String",
+        "Users Tried": "7992",
+        "Success Rate": "95.72",
+        "Score": "20"
+    },
+    {
+        "Title": "Strings Rotation",
+        "Users Tried": "4901",
+        "Success Rate": "93.29",
+        "Score": "20"
+    },
+    {
+        "Title": "Prefix Suffix Equality",
+        "Users Tried": "5796",
+        "Success Rate": "93.88",
+        "Score": "20"
+    },
+    {
+        "Title": "Longest Prefix Suffix",
+        "Users Tried": "5405",
+        "Success Rate": "88.95",
+        "Score": "20"
+    },
+    {
+        "Title": "Morse Codes",
+        "Users Tried": "1709",
+        "Success Rate": "92.51",
+        "Score": "20"
+    },
+    {
+        "Title": "Long Pressed Keys",
+        "Users Tried": "2427",
+        "Success Rate": "66.67",
+        "Score": "20"
+    },
+    {
+        "Title": "String GCD",
+        "Users Tried": "2360",
+        "Success Rate": "89.75",
+        "Score": "20"
+    },
+    {
+        "Title": "Basic Calculator",
+        "Users Tried": "2359",
+        "Success Rate": "64.01",
+        "Score": "20"
+    },
+    {
+        "Title": "Dictionary Operations",
+        "Users Tried": "1450",
+        "Success Rate": "88.07",
+        "Score": "20"
+    },
+    {
+        "Title": "HashSet Operations",
+        "Users Tried": "1981",
+        "Success Rate": "86.93",
+        "Score": "20"
+    }
+]
