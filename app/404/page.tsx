@@ -10,7 +10,7 @@ const Custom404 = () => {
     // Redirect to home after 3 seconds
     const timer = setTimeout(() => {
       router.push("/");
-    }, 3000);
+    }, 1000);
 
     // Cleanup the timer on unmount
     return () => clearTimeout(timer);

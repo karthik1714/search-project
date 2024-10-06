@@ -44,7 +44,6 @@ const SearchBar = ({ onSearch }: { onSearch: (query: string) => void }) => {
     <div className="flex w-full gap-4 items-center relative ">
       <div className="relative w-full">
         <Input
-        
           ref={inputRef}  // Attach the ref to the input
           type="text"
           label="Search"
