@@ -1,5 +1,4 @@
 import * as React from "react";
-
 import { IconSvgProps } from "@/types";
 
 export const Logo: React.FC<IconSvgProps> = ({
@@ -8,31 +7,15 @@ export const Logo: React.FC<IconSvgProps> = ({
   height,
   ...props
 }) => (
-  <svg
-    fill="none"
-    height={size || height}
-    viewBox="0 0 24 24"
-    width={size || width}
-    xmlns="http://www.w3.org/2000/svg"
-    {...props}
-  >
-    <circle
-      cx="11"
-      cy="11"
-      r="7"
-      stroke="currentColor"
-      strokeWidth="2"
-    />
-    <line
-      x1="16.65"
-      y1="16.65"
-      x2="21"
-      y2="21"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-    />
-  </svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" enable-background="new 0 0 32 32" viewBox="0 0 32 32" id="search" color="grey">
+  <path fill="currentColor" d="M23.586,23.586c0.122-0.122,0.262-0.217,0.408-0.299l-2.276-2.277c-0.195-0.195-0.512-0.195-0.707,0
+							c-0.195,0.196-0.195,0.512,0,0.708l2.271,2.271C23.368,23.846,23.464,23.707,23.586,23.586z"></path>
+  <path fill="currentColor" d="M28.5 31c-.667 0-1.295-.26-1.768-.732l-3.5-3.5C22.76 26.295 22.5 25.668 22.5 25s.26-1.295.732-1.768c.906-.906 2.629-.906 3.535 0l3.5 3.5C30.74 27.205 31 27.832 31 28.5s-.26 1.295-.732 1.768S29.167 31 28.5 31zM25 23.52c-.407 0-.793.152-1.061.42C23.656 24.223 23.5 24.6 23.5 25s.156.777.439 1.061l3.5 3.5c.567.566 1.554.566 2.121 0C29.844 29.277 30 28.9 30 28.5s-.156-.777-.439-1.061l-3.5-3.5C25.793 23.672 25.407 23.52 25 23.52zM13 22.45c-.276 0-.5-.224-.5-.5s.224-.5.5-.5c3.767 0 7.035-2.404 8.133-5.981.081-.264.361-.415.625-.331.264.081.413.36.332.624C20.861 19.763 17.209 22.45 13 22.45z"></path>
+  <path fill="currentColor" d="M13,25C6.383,25,1,19.617,1,13S6.383,1,13,1s12,5.383,12,12S19.617,25,13,25z M13,2
+						C6.935,2,2,6.935,2,13s4.935,11,11,11s11-4.935,11-11S19.065,2,13,2z"></path>
+  <circle cx="22" cy="13" r=".5" fill="#263238"></circle>
+</svg>
 );
 
 

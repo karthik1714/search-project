@@ -41,16 +41,18 @@ const SearchBar = ({ onSearch }: { onSearch: (query: string) => void }) => {
   }, []);
 
   return (
-    <div className="flex w-full gap-4 items-center relative">
+    <div className="flex w-full gap-4 items-center relative ">
       <div className="relative w-full">
         <Input
+        
           ref={inputRef}  // Attach the ref to the input
           type="text"
           label="Search"
           value={query}
           onKeyDown={handleKeyPress}
           onChange={(e) => setQuery(e.target.value)}
-          className="pr-1" // Make space for the Ctrl + K inside the input
+          className="pr-1 " // Make space for the Ctrl + K inside the input
+        
         />
         <div className="absolute right-2 top-1/2 transform -translate-y-1/2 flex items-center gap-1">
           <button

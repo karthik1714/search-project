@@ -8,9 +8,13 @@ import searchLocalData from '../api/searchScraped'
 
 const Search = () => {
   const [results, setResults] = useState<any[]>([]); // Use any[] to store the fetched problems
+  const [isSearching, setIsSearching] = useState(false); // To track if the user is searching
+
 
   const handleSearch = async (query:string) => {
     const formattedQuery = query.toLowerCase().split(' ').join('-');
+    setIsSearching(true); // Set searching state to true
+
     try {
       /*
       const res = await fetch(`http://localhost:3001/select?titleSlug=${formattedQuery}`);
@@ -43,12 +47,30 @@ const Search = () => {
 
     } catch (error) {
       console.error('Error fetching data:', error);
+    }finally {
+      setIsSearching(false); // Reset searching state
     }
   };
 
   return (
-    <div className="p-4 ">
-      <div >
+    <div>
+    {!isSearching && results.length === 0 ? (
+      // Landing page content
+      <div className="text-center">
+        <h1 className="text-4xl font-bold text-gray-800 dark:text-gray-200">
+          Discover DSA Problems
+        </h1>
+        <p className="mt-4 text-lg text-gray-600 dark:text-gray-400">
+          Search for Data Structures and Algorithms problems across multiple platforms.
+          Find the right challenge to enhance your coding skills!
+        </p>
+        <div className="mt-10">
+          <SearchBar onSearch={handleSearch} />
+        </div>
+      </div>
+    )
+    : ( <div>
+      <div>
       <SearchBar onSearch={handleSearch} />
       </div>
       <div className="mt-10 grid grid-cols-1 gap-4">
@@ -63,6 +85,8 @@ const Search = () => {
             />
           ))}
       </div>
+    </div>
+    )}
     </div>
   );
 };

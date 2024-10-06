@@ -54,8 +54,8 @@ export default function RootLayout({
                 href="https://nextui-docs-v2.vercel.app?utm_source=next-app-template"
                 title="nextui.org homepage"
               >
-                <span className="text-default-600">Search Project by</span>
-                <p className="text-primary">Karthik</p>
+                <span className="text-default-600">Search Project</span>
+                <p className="text-primary"></p>
               </Link>
             </footer>
           </div>

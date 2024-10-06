@@ -50,19 +50,31 @@ const ProblemCard: React.FC<ProblemCardProps> = ({ questionId , title, difficult
           {/* Title and Difficulty */}
           <div style={{ flex: 1 }}>
             <Link href={link} isExternal>
-              <h3 style={{ margin: 2, fontSize: '1.2rem', fontWeight: 'bold' }}>{title}</h3>
+              <h3 style={{ 
+                  margin: 1, 
+                  fontSize: '1.1rem', 
+                  fontWeight: '500', 
+                  color: '#696969	',
+                  transition: 'color 0.3s' // Smooth transition for the color change
+                }} 
+                onMouseEnter={(e) => e.currentTarget.style.color = '#3498db'}
+                onMouseLeave={(e) => e.currentTarget.style.color = 'grey'}>
+                {title}
+              </h3>
             </Link>
           </div>
+       
+
 
           {/* Difficulty */}
           <div>
             <span style={{ fontSize: '0.9rem', fontWeight: '500'}} className={`font-bold ${
-                  difficulty === 'Easy'
+                  difficulty === 'Easy' || difficulty === '20' || difficulty === '50'
                     ? 'text-green-500'
-                    : difficulty === 'Medium'
+                    : difficulty === 'Medium' || difficulty === '100' || difficulty === '150' 
                     ? 'text-yellow-500'
                     : difficulty === 'Very Easy'
-                    ? 'text-green-300'
+                    ? 'text-green-500'
                     : 'text-red-500'
                 }`}>
               {difficulty}
