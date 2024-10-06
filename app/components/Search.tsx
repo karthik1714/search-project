@@ -12,6 +12,7 @@ const Search = () => {
   const handleSearch = async (query:string) => {
     const formattedQuery = query.toLowerCase().split(' ').join('-');
     try {
+      /*
       const res = await fetch(`http://localhost:3001/select?titleSlug=${formattedQuery}`);
       const apiResponse = await res.json();
       const apidata = {
@@ -23,6 +24,7 @@ const Search = () => {
       };
 
       console.log("API Data:", apidata);
+      */
 
       // Local data search
       const localData = searchLocalData(formattedQuery);
@@ -31,7 +33,7 @@ const Search = () => {
       console.log("Local Data:", localData);
   
       // Combine API data and local data
-      const combinedResults = [apidata, ...localData]; // API data is an object and local data is an array
+      const combinedResults = [...localData]; // API data is an object and local data is an array
   
       // Debugging: Log combined results to verify the final structure
       console.log("Combined Results:", combinedResults);
