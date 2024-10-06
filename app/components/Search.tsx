@@ -48,10 +48,10 @@ const Search = () => {
 
   return (
     <div className="p-4 ">
-      <div>
+      <div >
       <SearchBar onSearch={handleSearch} />
       </div>
-      <div className="mt-4 grid grid-cols-1 gap-4">
+      <div className="mt-10 grid grid-cols-1 gap-4">
           {results.map((problem, index) => (
             <ProblemCard
               key={index}

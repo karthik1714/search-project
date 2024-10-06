@@ -1,14 +1,16 @@
 import interviewBitData from '../../public/data/interviewBitProblems.json';
 import hiveBasicData from '../../public/data/problemsFromHiveBasic.json';
 import hivePrimaryData from '../../public/data/problemsFromPrimary.json';
-import Fuse from 'fuse.js';
 import leetcodeData from '../../public/data/leetcode_problems.json';
+import Fuse from 'fuse.js';
 
 // Function to format the query string as per the given rules
 const formatQuery = (query: string) => {
   const modifiedQuery = query.replace(/&/g, 'and').replace(/'/g, '');
+  
   return modifiedQuery
     .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '') // Remove special characters except spaces and hyphens
     .split(' ')
     .join('-')
     .replace(/--+/g, '-')
@@ -19,125 +21,58 @@ const normalizeString = (str: string | undefined) => {
   return typeof str === 'string' ? formatQuery(str) : '';
 };
 
+// Common function to create Fuse instance
+const createFuseInstance = (data: any[], keys: string[], threshold: number) => {
+  return new Fuse(data, {
+    keys,
+    threshold,
+  });
+};
+
+// Common function to format search results
+const formatResults = (results: any[], platform: string, titleKey: string, difficultyKey: string, linkPrefix: string) => {
+  return results.map(result => ({
+    title: result.item[titleKey],
+    difficulty: result.item[difficultyKey] || 'Unknown',
+    platform,
+    link: `${linkPrefix}${formatQuery(result.item[titleKey])}`,
+  }));
+};
+
 const searchLocalData = (query: string) => {
   console.log("Original Query:", query);
   const normalizedQuery = normalizeString(query);
   console.log("Normalized Query:", normalizedQuery);
 
-  // Create Fuse instances for each dataset with exact match option
-  const interviewBitFuse = new Fuse(interviewBitData, {
-    keys: ['Title'],
-    threshold: 0.0, // For exact matches
-  });
-
-  const hiveBasicFuse = new Fuse(hiveBasicData, {
-    keys: ['Title'],
-    threshold: 0.0,
-  });
-
-  const hivePrimaryFuse = new Fuse(hivePrimaryData, {
-    keys: ['Title'],
-    threshold: 0.0,
-  });
-
-  const leetcodeFuse = new Fuse(leetcodeData, {
-    keys: ['title'],
-    threshold: 0.0,
-  });
+  // Create Fuse instances for each dataset
+  const fuseInstances = {
+    InterviewBit: createFuseInstance(interviewBitData, ['Title'], 0.0),
+    HiveBasic: createFuseInstance(hiveBasicData, ['Title'], 0.0),
+    HivePrimary: createFuseInstance(hivePrimaryData, ['Title'], 0.0),
+    LeetCode: createFuseInstance(leetcodeData, ['title'], 0.0),
+  };
 
   // First search for exact matches
-  const interviewBitExactMatches = interviewBitFuse.search(normalizedQuery);
-  const leetcodeExactMatches = leetcodeFuse.search(normalizedQuery);
-  const hiveBasicExactMatches = hiveBasicFuse.search(normalizedQuery);
-  const hivePrimaryExactMatches = hivePrimaryFuse.search(normalizedQuery);
-
-  // Map exact matches to desired format
   const exactResults = [
-    ...interviewBitExactMatches.map(result => ({
-      title: result.item.Title,
-      difficulty: result.item.Difficulty || 'Unknown',
-      platform: 'Interview Bit',
-      link: `https://www.interviewbit.com/problems/${formatQuery(result.item.Title)}`,
-    })),
-    ...leetcodeExactMatches.map(result => ({
-      title: result.item.title,
-      difficulty: result.item.difficulty || 'Unknown',
-      platform: 'LeetCode',
-      link: result.item.link,
-    })),
-    ...hiveBasicExactMatches.map(result => ({
-      title: result.item.Title,
-      difficulty: result.item.Score || 'Unknown',
-      platform: 'Hive Basic',
-      link: `https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/${formatQuery(result.item.Title)}`,
-    })),
-    ...hivePrimaryExactMatches.map(result => ({
-      title: result.item.Title,
-      difficulty: result.item.Score || 'Unknown',
-      platform: 'Hive Primary',
-      link: `https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/${formatQuery(result.item.Title)}`,
-    })),
+    ...formatResults(fuseInstances.LeetCode.search(normalizedQuery), 'LeetCode', 'title', 'difficulty', ''),
+    ...formatResults(fuseInstances.HiveBasic.search(normalizedQuery), 'Hive Basic', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/'),
+    ...formatResults(fuseInstances.HivePrimary.search(normalizedQuery), 'Hive Primary', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'),
+    ...formatResults(fuseInstances.InterviewBit.search(normalizedQuery), 'Interview Bit', 'Title', 'Difficulty', 'https://www.interviewbit.com/problems/'),
   ];
 
   // Next, search for fuzzy matches
-  const interviewBitFuseFuzzy = new Fuse(interviewBitData, {
-    keys: ['Title'],
-    threshold: 0.3,
-  });
-
-  const hiveBasicFuseFuzzy = new Fuse(hiveBasicData, {
-    keys: ['Title'],
-    threshold: 0.3,
-  });
-
-  const hivePrimaryFuseFuzzy = new Fuse(hivePrimaryData, {
-    keys: ['Title'],
-    threshold: 0.3,
-  });
-
-  const leetcodeFuseFuzzy = new Fuse(leetcodeData, {
-    keys: ['title'],
-    threshold: 0.3,
-  });
-
-  const interviewBitFuzzyResults = interviewBitFuseFuzzy.search(normalizedQuery).map(result => ({
-    title: result.item.Title,
-    difficulty: result.item.Difficulty || 'Unknown',
-    platform: 'Interview Bit',
-    link: `https://www.interviewbit.com/problems/${formatQuery(result.item.Title)}`,
-  }));
-
-  const leetcodeFuzzyResults = leetcodeFuseFuzzy.search(normalizedQuery).map(result => ({
-    title: result.item.title,
-    difficulty: result.item.difficulty || 'Unknown',
-    platform: 'LeetCode',
-    link: result.item.link,
-  }));
-
-  const hiveBasicFuzzyResults = hiveBasicFuseFuzzy.search(normalizedQuery).map(result => ({
-    title: result.item.Title,
-    difficulty: result.item.Score || 'Unknown',
-    platform: 'Hive Basic',
-    link: `https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/${formatQuery(result.item.Title)}`,
-  }));
-
-  const hivePrimaryFuzzyResults = hivePrimaryFuseFuzzy.search(normalizedQuery).map(result => ({
-    title: result.item.Title,
-    difficulty: result.item.Score || 'Unknown',
-    platform: 'Hive Primary',
-    link: `https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/${formatQuery(result.item.Title)}`,
-  }));
+  const fuzzyResults = [
+    ...formatResults(createFuseInstance(interviewBitData, ['Title'], 0.2).search(normalizedQuery), 'Interview Bit', 'Title', 'Difficulty', 'https://www.interviewbit.com/problems/'),
+    ...formatResults(createFuseInstance(leetcodeData, ['title'], 0.2).search(normalizedQuery), 'LeetCode', 'title', 'difficulty', ''),
+    ...formatResults(createFuseInstance(hiveBasicData, ['Title'], 0.2).search(normalizedQuery), 'Hive Basic', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/'),
+    ...formatResults(createFuseInstance(hivePrimaryData, ['Title'], 0.2).search(normalizedQuery), 'Hive Primary', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'),
+  ];
 
   console.log("Exact Results:", exactResults);
-  console.log("Fuzzy Results:", {
-    interviewBitFuzzyResults,
-    hiveBasicFuzzyResults,
-    hivePrimaryFuzzyResults,
-    leetcodeFuzzyResults
-  });
+  console.log("Fuzzy Results:", fuzzyResults);
 
   // Combine results: Exact matches first, then fuzzy matches
-  return [...exactResults, ...leetcodeFuzzyResults, ...interviewBitFuzzyResults, ...hiveBasicFuzzyResults, ...hivePrimaryFuzzyResults];
+  return [...exactResults, ...fuzzyResults];
 };
 
 export default searchLocalData;

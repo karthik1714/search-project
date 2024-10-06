@@ -42,7 +42,7 @@ const ProblemCard: React.FC<ProblemCardProps> = ({ questionId , title, difficult
       <CardBody>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           {/* Platform logo */}
-          <div style={{ width: '24px', height: '24px' }}>
+          <div style={{ width: '25px', height: '24px' }}>
                 {/* Display the platform logo */}
             {getPlatformLogo(platform)}
           </div>
@@ -50,7 +50,7 @@ const ProblemCard: React.FC<ProblemCardProps> = ({ questionId , title, difficult
           {/* Title and Difficulty */}
           <div style={{ flex: 1 }}>
             <Link href={link} isExternal>
-              <h3 style={{ margin: 0, fontSize: '1.2rem', fontWeight: 'bold' }}>{title}</h3>
+              <h3 style={{ margin: 2, fontSize: '1.2rem', fontWeight: 'bold' }}>{title}</h3>
             </Link>
           </div>
 
