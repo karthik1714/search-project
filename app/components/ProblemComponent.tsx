@@ -1,5 +1,4 @@
-
-import {Card, CardHeader, CardBody, CardFooter, Divider} from "@nextui-org/react";
+import {Card,  CardBody, CardFooter, Divider} from "@nextui-org/react";
 import { Link } from "@nextui-org/link";
 
 
@@ -38,7 +37,7 @@ const ProblemCard: React.FC<ProblemCardProps> = ({ questionId , title, difficult
   };
 
   return (
-    <Card isHoverable css={{ mw: "400px", p: "$6", my: "$4", height: 'auto', overflow: 'hidden' }}>
+    <Card isHoverable style={{ maxWidth: "400px", padding: "$6", margin: "$4", height: 'auto', overflow: 'hidden' }}>
       <CardBody>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           {/* Platform logo */}
