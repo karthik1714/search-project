@@ -44,6 +44,7 @@ const formatResults = (results: any[], platform: string, titleKey: string, diffi
   }));
 };
 
+
 const searchLocalData = (query: string) => {
   console.log("Original Query:", query);
   const normalizedQuery = normalizeString(query);
@@ -58,7 +59,7 @@ const searchLocalData = (query: string) => {
     HackerRank: createFuseInstance(hackRankData, ['Title'], 0.0),
   };
 
-  // First search for exact matches
+  // Exact match results
   const exactResults = [
     ...formatResults(fuseInstances.LeetCode.search(normalizedQuery), 'LeetCode', 'title', 'difficulty', ''),
     ...formatResults(fuseInstances.HivePrimary.search(normalizedQuery), 'Hive Primary', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'),
@@ -67,18 +68,11 @@ const searchLocalData = (query: string) => {
     ...formatResults(fuseInstances.InterviewBit.search(normalizedQuery), 'Interview Bit', 'Title', 'Difficulty', 'https://www.interviewbit.com/problems/'),
   ];
 
-  // Next, search for fuzzy matches
-  /*
-  const fuzzyResults = [
-    ...formatResults(createFuseInstance(interviewBitData, ['Title'], 0.2).search(normalizedQuery), 'Interview Bit', 'Title', 'Difficulty', 'https://www.interviewbit.com/problems/'),
-    ...formatResults(createFuseInstance(leetcodeData, ['title'], 0.2).search(normalizedQuery), 'LeetCode', 'title', 'difficulty', ''),
-    ...formatResults(createFuseInstance(hiveBasicData, ['Title'], 0.2).search(normalizedQuery), 'Hive Basic', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/'),
-    ...formatResults(createFuseInstance(hivePrimaryData, ['Title'], 0.2).search(normalizedQuery), 'Hive Primary', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'),
-  ];
-  */
+  // Create a set of exact match titles to avoid duplication
+  const exactMatchTitles = new Set(exactResults.map(result => result.title.toLowerCase()));
 
+  // Fuzzy match results, but filter out titles already found in exact matches
   const fuzzyResults = [
-
 
     ...formatResults(
       createFuseInstance(hivePrimaryData, ['Title'], 0.2).search(normalizedQuery), 
@@ -87,7 +81,8 @@ const searchLocalData = (query: string) => {
       'Score', 
       'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'
     ).filter(result => 
-      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
+      !exactMatchTitles.has(result.title.toLowerCase()) && // Avoid duplicates
+      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Filter by first letter match
     ),
 
     ...formatResults(
@@ -97,7 +92,8 @@ const searchLocalData = (query: string) => {
       'difficulty', 
       ''
     ).filter(result => 
-      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
+      !exactMatchTitles.has(result.title.toLowerCase()) && // Avoid duplicates
+      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Filter by first letter match
     ),
 
     ...formatResults(
@@ -107,7 +103,8 @@ const searchLocalData = (query: string) => {
       'Difficulty', 
       ''
     ).filter(result => 
-      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
+      !exactMatchTitles.has(result.title.toLowerCase()) && // Avoid duplicates
+      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Filter by first letter match
     ),
 
     ...formatResults(
@@ -117,10 +114,10 @@ const searchLocalData = (query: string) => {
       'Score', 
       'https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/'
     ).filter(result => 
-      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
+      !exactMatchTitles.has(result.title.toLowerCase()) && // Avoid duplicates
+      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Filter by first letter match
     ),
-  
-  
+
     ...formatResults(
       createFuseInstance(interviewBitData, ['Title'], 0.2).search(normalizedQuery), 
       'Interview Bit', 
@@ -128,16 +125,16 @@ const searchLocalData = (query: string) => {
       'Difficulty', 
       'https://www.interviewbit.com/problems/'
     ).filter(result => 
-      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
+      !exactMatchTitles.has(result.title.toLowerCase()) && // Avoid duplicates
+      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Filter by first letter match
     ),
   ];
 
   console.log("Exact Results:", exactResults);
   console.log("Fuzzy Results:", fuzzyResults);
 
-  // Combine results: Exact matches first, then fuzzy matches
- // return [...exactResults, ...fuzzyResults];
- return [...exactResults,...fuzzyResults];
+  // Combine exact results first, then fuzzy results (without duplicates)
+  return [...exactResults, ...fuzzyResults];
 };
 
 export default searchLocalData;
