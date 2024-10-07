@@ -37,7 +37,7 @@ const ProblemCard: React.FC<ProblemCardProps> = ({ questionId , title, difficult
   };
 
   return (
-    <Card isHoverable style={{ maxWidth: "400px", padding: "$6", margin: "$4", height: 'auto', overflow: 'hidden' }}>
+    <Card isHoverable style={{ maxWidth: "1400px", padding: "$6", margin: "$4", height: 'auto', overflow: 'hidden' }}>
       <CardBody>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           {/* Platform logo */}
