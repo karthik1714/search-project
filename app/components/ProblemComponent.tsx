@@ -66,6 +66,15 @@ switch (platform) {
         height={theme === 'dark' ? darkSize_si.height : defaultSize.height}
       />
     );
+    case 'Hacker Rank':
+      return (
+        <img
+          src={`${logoBasePath}HackerRank${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
+          alt="Hacker Rank"
+          width={defaultSize.width }
+          height={defaultSize.height}
+        />
+      );    
   default:
     return null; // Fallback if the platform doesn't match
 }

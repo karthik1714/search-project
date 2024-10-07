@@ -1,0 +1,4178 @@
+[
+    {
+        "Title": "Solve Me First",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 1",
+        "Success Rate": "Success Rate: 97.71%",
+        "Link": "https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Simple Array Sum",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 94.57%",
+        "Link": "https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Compare the Triplets",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 95.87%",
+        "Link": "https://www.hackerrank.com/challenges/compare-the-triplets?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "A Very Big Sum",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 98.82%",
+        "Link": "https://www.hackerrank.com/challenges/a-very-big-sum?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Diagonal Difference",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 96.05%",
+        "Link": "https://www.hackerrank.com/challenges/diagonal-difference?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Plus Minus",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 98.40%",
+        "Link": "https://www.hackerrank.com/challenges/plus-minus?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Staircase",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 98.37%",
+        "Link": "https://www.hackerrank.com/challenges/staircase?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Mini-Max Sum",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 94.48%",
+        "Link": "https://www.hackerrank.com/challenges/mini-max-sum?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Birthday Cake Candles",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 97.17%",
+        "Link": "https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Time Conversion",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 92.42%",
+        "Link": "https://www.hackerrank.com/challenges/time-conversion?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Grading Students",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 96.47%",
+        "Link": "https://www.hackerrank.com/challenges/grading?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Apple and Orange",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 96.34%",
+        "Link": "https://www.hackerrank.com/challenges/apple-and-orange?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Number Line Jumps",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 89.65%",
+        "Link": "https://www.hackerrank.com/challenges/kangaroo?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Between Two Sets",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 90.95%",
+        "Link": "https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Breaking the Records",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 98.54%",
+        "Link": "https://www.hackerrank.com/challenges/breaking-best-and-worst-records?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Subarray Division",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 94.22%",
+        "Link": "https://www.hackerrank.com/challenges/the-birthday-bar?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Divisible Sum Pairs",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 97.73%",
+        "Link": "https://www.hackerrank.com/challenges/divisible-sum-pairs?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Migratory Birds",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 92.10%",
+        "Link": "https://www.hackerrank.com/challenges/migratory-birds?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Day of the Programmer",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 90.70%",
+        "Link": "https://www.hackerrank.com/challenges/day-of-the-programmer?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Bill Division",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 98.03%",
+        "Link": "https://www.hackerrank.com/challenges/bon-appetit?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Sales by Match",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 92.64%",
+        "Link": "https://www.hackerrank.com/challenges/sock-merchant?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Drawing Book",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 89.92%",
+        "Link": "https://www.hackerrank.com/challenges/drawing-book?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Counting Valleys",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 95.11%",
+        "Link": "https://www.hackerrank.com/challenges/counting-valleys?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Electronics Shop",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 93.13%",
+        "Link": "https://www.hackerrank.com/challenges/electronics-shop?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Cats and a Mouse",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 97.98%",
+        "Link": "https://www.hackerrank.com/challenges/cats-and-a-mouse?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Forming a Magic Square",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 78.87%",
+        "Link": "https://www.hackerrank.com/challenges/magic-square-forming?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Picking Numbers",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 90.27%",
+        "Link": "https://www.hackerrank.com/challenges/picking-numbers?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Climbing the Leaderboard",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 61.92%",
+        "Link": "https://www.hackerrank.com/challenges/climbing-the-leaderboard?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "The Hurdle Race",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 98.86%",
+        "Link": "https://www.hackerrank.com/challenges/the-hurdle-race?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Designer PDF Viewer",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 98.80%",
+        "Link": "https://www.hackerrank.com/challenges/designer-pdf-viewer?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Utopian Tree",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 97.90%",
+        "Link": "https://www.hackerrank.com/challenges/utopian-tree?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Angry Professor",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 96.41%",
+        "Link": "https://www.hackerrank.com/challenges/angry-professor?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Beautiful Days at the Movies",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 96.43%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-days-at-the-movies?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Viral Advertising",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 98.67%",
+        "Link": "https://www.hackerrank.com/challenges/strange-advertising?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Save the Prisoner!",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 82.69%",
+        "Link": "https://www.hackerrank.com/challenges/save-the-prisoner?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Circular Array Rotation",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 81.56%",
+        "Link": "https://www.hackerrank.com/challenges/circular-array-rotation?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Sequence Equation",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 97.65%",
+        "Link": "https://www.hackerrank.com/challenges/permutation-equation?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Jumping on the Clouds: Revisited",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 95.30%",
+        "Link": "https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Find Digits",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 96.96%",
+        "Link": "https://www.hackerrank.com/challenges/find-digits?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Extra Long Factorials",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 95.61%",
+        "Link": "https://www.hackerrank.com/challenges/extra-long-factorials?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Append and Delete",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 70.36%",
+        "Link": "https://www.hackerrank.com/challenges/append-and-delete?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Sherlock and Squares",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 87.22%",
+        "Link": "https://www.hackerrank.com/challenges/sherlock-and-squares?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Library Fine",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 89.94%",
+        "Link": "https://www.hackerrank.com/challenges/library-fine?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Cut the sticks",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 95.02%",
+        "Link": "https://www.hackerrank.com/challenges/cut-the-sticks?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Non-Divisible Subset",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 68.74%",
+        "Link": "https://www.hackerrank.com/challenges/non-divisible-subset?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Repeated String",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 90.40%",
+        "Link": "https://www.hackerrank.com/challenges/repeated-string?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Jumping on the Clouds",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 94.08%",
+        "Link": "https://www.hackerrank.com/challenges/jumping-on-the-clouds?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Equalize the Array",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 94.84%",
+        "Link": "https://www.hackerrank.com/challenges/equality-in-a-array?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Queen's Attack II",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 69.03%",
+        "Link": "https://www.hackerrank.com/challenges/queens-attack-2?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "ACM ICPC Team",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 89.77%",
+        "Link": "https://www.hackerrank.com/challenges/acm-icpc-team?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Taum and B'day",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 89.83%",
+        "Link": "https://www.hackerrank.com/challenges/taum-and-bday?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Organizing Containers of Balls",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 86.60%",
+        "Link": "https://www.hackerrank.com/challenges/organizing-containers-of-balls?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Encryption",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 92.05%",
+        "Link": "https://www.hackerrank.com/challenges/encryption?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Bigger is Greater",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 81.71%",
+        "Link": "https://www.hackerrank.com/challenges/bigger-is-greater?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Modified Kaprekar Numbers",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 89.27%",
+        "Link": "https://www.hackerrank.com/challenges/kaprekar-numbers?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Beautiful Triplets",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 90.74%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-triplets?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Minimum Distances",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 93.59%",
+        "Link": "https://www.hackerrank.com/challenges/minimum-distances?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Halloween Sale",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 90.72%",
+        "Link": "https://www.hackerrank.com/challenges/halloween-sale?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "The Time in Words",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 92.92%",
+        "Link": "https://www.hackerrank.com/challenges/the-time-in-words?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Chocolate Feast",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 92.35%",
+        "Link": "https://www.hackerrank.com/challenges/chocolate-feast?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Service Lane",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 97.28%",
+        "Link": "https://www.hackerrank.com/challenges/service-lane?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Lisa's Workbook",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 92.35%",
+        "Link": "https://www.hackerrank.com/challenges/lisa-workbook?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Flatland Space Stations",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 80.96%",
+        "Link": "https://www.hackerrank.com/challenges/flatland-space-stations?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Fair Rations",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 90.91%",
+        "Link": "https://www.hackerrank.com/challenges/fair-rations?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Cavity Map",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 90.28%",
+        "Link": "https://www.hackerrank.com/challenges/cavity-map?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Manasa and Stones",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 91.41%",
+        "Link": "https://www.hackerrank.com/challenges/manasa-and-stones?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "The Grid Search",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 76.70%",
+        "Link": "https://www.hackerrank.com/challenges/the-grid-search?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Happy Ladybugs",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 86.09%",
+        "Link": "https://www.hackerrank.com/challenges/happy-ladybugs?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Strange Counter",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 82.85%",
+        "Link": "https://www.hackerrank.com/challenges/strange-code?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "3D Surface Area",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 92.90%",
+        "Link": "https://www.hackerrank.com/challenges/3d-surface-area?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Absolute Permutation",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 77.91%",
+        "Link": "https://www.hackerrank.com/challenges/absolute-permutation?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "The Bomberman Game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 73.66%",
+        "Link": "https://www.hackerrank.com/challenges/bomber-man?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Ema's Supercomputer",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 68.92%",
+        "Link": "https://www.hackerrank.com/challenges/two-pluses?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Larry's Array",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 83.75%",
+        "Link": "https://www.hackerrank.com/challenges/larrys-array?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Almost Sorted",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 75.61%",
+        "Link": "https://www.hackerrank.com/challenges/almost-sorted?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Matrix Layer Rotation",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 80.34%",
+        "Link": "https://www.hackerrank.com/challenges/matrix-rotation-algo?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Big Sorting",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 66.19%",
+        "Link": "https://www.hackerrank.com/challenges/big-sorting?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Super Reduced String",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 87.42%",
+        "Link": "https://www.hackerrank.com/challenges/reduced-string?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Intro to Tutorial Challenges",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 98.38%",
+        "Link": "https://www.hackerrank.com/challenges/tutorial-intro?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "CamelCase",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 98.03%",
+        "Link": "https://www.hackerrank.com/challenges/camelcase?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Insertion Sort - Part 1",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 88.11%",
+        "Link": "https://www.hackerrank.com/challenges/insertionsort1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Strong Password",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 86.15%",
+        "Link": "https://www.hackerrank.com/challenges/strong-password?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Two Characters",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 80.28%",
+        "Link": "https://www.hackerrank.com/challenges/two-characters?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Insertion Sort - Part 2",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 97.20%",
+        "Link": "https://www.hackerrank.com/challenges/insertionsort2?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Correctness and the Loop Invariant",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 98.13%",
+        "Link": "https://www.hackerrank.com/challenges/correctness-invariant?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Caesar Cipher",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 86.84%",
+        "Link": "https://www.hackerrank.com/challenges/caesar-cipher-1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Mars Exploration",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 93.86%",
+        "Link": "https://www.hackerrank.com/challenges/mars-exploration?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Running Time of Algorithms",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 95.89%",
+        "Link": "https://www.hackerrank.com/challenges/runningtime?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "HackerRank in a String!",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 92.48%",
+        "Link": "https://www.hackerrank.com/challenges/hackerrank-in-a-string?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Quicksort 1 - Partition",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 96.11%",
+        "Link": "https://www.hackerrank.com/challenges/quicksort1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Pangrams",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 94.93%",
+        "Link": "https://www.hackerrank.com/challenges/pangrams?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Weighted Uniform Strings",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 75.85%",
+        "Link": "https://www.hackerrank.com/challenges/weighted-uniform-string?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Separate the Numbers",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 89.92%",
+        "Link": "https://www.hackerrank.com/challenges/separate-the-numbers?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Funny String",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 94.73%",
+        "Link": "https://www.hackerrank.com/challenges/funny-string?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Counting Sort 1",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 95.12%",
+        "Link": "https://www.hackerrank.com/challenges/countingsort1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Counting Sort 2",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 97.11%",
+        "Link": "https://www.hackerrank.com/challenges/countingsort2?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Gemstones",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 93.65%",
+        "Link": "https://www.hackerrank.com/challenges/gem-stones?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Alternating Characters",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 97.47%",
+        "Link": "https://www.hackerrank.com/challenges/alternating-characters?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "The Full Counting Sort",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 84.48%",
+        "Link": "https://www.hackerrank.com/challenges/countingsort4?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Beautiful Binary String",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 94.89%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-binary-string?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Closest Numbers",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 89.20%",
+        "Link": "https://www.hackerrank.com/challenges/closest-numbers?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "The Love-Letter Mystery",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 96.96%",
+        "Link": "https://www.hackerrank.com/challenges/the-love-letter-mystery?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Find the Median",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 91.11%",
+        "Link": "https://www.hackerrank.com/challenges/find-the-median?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Determining DNA Health",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 39.99%",
+        "Link": "https://www.hackerrank.com/challenges/determining-dna-health?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Insertion Sort Advanced Analysis",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 39.22%",
+        "Link": "https://www.hackerrank.com/challenges/insertion-sort?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Palindrome Index",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 69.78%",
+        "Link": "https://www.hackerrank.com/challenges/palindrome-index?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Fraudulent Activity Notifications",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 45.08%",
+        "Link": "https://www.hackerrank.com/challenges/fraudulent-activity-notifications?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Anagram",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 89.13%",
+        "Link": "https://www.hackerrank.com/challenges/anagram?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Making Anagrams",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 93.64%",
+        "Link": "https://www.hackerrank.com/challenges/making-anagrams?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Lily's Homework",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 57.51%",
+        "Link": "https://www.hackerrank.com/challenges/lilys-homework?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Game of Thrones - I",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 93.77%",
+        "Link": "https://www.hackerrank.com/challenges/game-of-thrones?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Two Strings",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 90.50%",
+        "Link": "https://www.hackerrank.com/challenges/two-strings?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "String Construction",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 95.29%",
+        "Link": "https://www.hackerrank.com/challenges/string-construction?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Sherlock and the Valid String",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 66.23%",
+        "Link": "https://www.hackerrank.com/challenges/sherlock-and-valid-string?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Highest Value Palindrome",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 57.56%",
+        "Link": "https://www.hackerrank.com/challenges/richie-rich?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Maximum Palindromes",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 51.53%",
+        "Link": "https://www.hackerrank.com/challenges/maximum-palindromes?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Sherlock and Anagrams",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 89.16%",
+        "Link": "https://www.hackerrank.com/challenges/sherlock-and-anagrams?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Common Child",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 60.62%",
+        "Link": "https://www.hackerrank.com/challenges/common-child?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Bear and Steady Gene",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 69.30%",
+        "Link": "https://www.hackerrank.com/challenges/bear-and-steady-gene?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Morgan and a String",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 53.21%",
+        "Link": "https://www.hackerrank.com/challenges/morgan-and-a-string?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Count Strings",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 86.28%",
+        "Link": "https://www.hackerrank.com/challenges/count-strings?isFullScreen=true"
+    },
+    {
+        "Title": "String Function Calculation",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 63.96%",
+        "Link": "https://www.hackerrank.com/challenges/string-function-calculation?isFullScreen=true"
+    },
+    {
+        "Title": "Build a Palindrome",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 64.88%",
+        "Link": "https://www.hackerrank.com/challenges/challenging-palindromes?isFullScreen=true"
+    },
+    {
+        "Title": "Build a String",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 50.37%",
+        "Link": "https://www.hackerrank.com/challenges/build-a-string?isFullScreen=true"
+    },
+    {
+        "Title": "Gridland Provinces",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 65.78%",
+        "Link": "https://www.hackerrank.com/challenges/gridland-provinces?isFullScreen=true"
+    },
+    {
+        "Title": "Cards Permutation",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 77.81%",
+        "Link": "https://www.hackerrank.com/challenges/cards-permutation?isFullScreen=true"
+    },
+    {
+        "Title": "Ashton and String",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 64.85%",
+        "Link": "https://www.hackerrank.com/challenges/ashton-and-string?isFullScreen=true"
+    },
+    {
+        "Title": "String Similarity",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 42.03%",
+        "Link": "https://www.hackerrank.com/challenges/string-similarity?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Super Functional Strings",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 65.26%",
+        "Link": "https://www.hackerrank.com/challenges/super-functional-strings?isFullScreen=true"
+    },
+    {
+        "Title": "Circular Palindromes",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 70.42%",
+        "Link": "https://www.hackerrank.com/challenges/circular-palindromes?isFullScreen=true"
+    },
+    {
+        "Title": "Similar Strings",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 59.21%",
+        "Link": "https://www.hackerrank.com/challenges/similar-strings?isFullScreen=true"
+    },
+    {
+        "Title": "Save Humanity",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 42.74%",
+        "Link": "https://www.hackerrank.com/challenges/save-humanity?isFullScreen=true"
+    },
+    {
+        "Title": "Find Strings",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 51.27%",
+        "Link": "https://www.hackerrank.com/challenges/find-strings?isFullScreen=true"
+    },
+    {
+        "Title": "Palindromic Border",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 79.94%",
+        "Link": "https://www.hackerrank.com/challenges/palindromic-border?isFullScreen=true"
+    },
+    {
+        "Title": "Two Two",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 65.16%",
+        "Link": "https://www.hackerrank.com/challenges/two-two?isFullScreen=true"
+    },
+    {
+        "Title": "Two Strings Game",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 84.52%",
+        "Link": "https://www.hackerrank.com/challenges/two-strings-game?isFullScreen=true"
+    },
+    {
+        "Title": "Letter Islands",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 71.69%",
+        "Link": "https://www.hackerrank.com/challenges/letter-islands?isFullScreen=true"
+    },
+    {
+        "Title": "Pseudo-Isomorphic Substrings",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 77.60%",
+        "Link": "https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings?isFullScreen=true"
+    },
+    {
+        "Title": "How Many Substrings?",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 36.56%",
+        "Link": "https://www.hackerrank.com/challenges/how-many-substrings?isFullScreen=true"
+    },
+    {
+        "Title": "Hackerland Radio Transmitters",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 68.27%",
+        "Link": "https://www.hackerrank.com/challenges/hackerland-radio-transmitters?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Gridland Metro",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 45.34%",
+        "Link": "https://www.hackerrank.com/challenges/gridland-metro?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Ice Cream Parlor",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 93.18%",
+        "Link": "https://www.hackerrank.com/challenges/icecream-parlor?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "KnightL on a Chessboard",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 87.18%",
+        "Link": "https://www.hackerrank.com/challenges/knightl-on-chessboard?isFullScreen=true"
+    },
+    {
+        "Title": "Minimum Loss",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 64.65%",
+        "Link": "https://www.hackerrank.com/challenges/minimum-loss?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Missing Numbers",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 45",
+        "Success Rate": "Success Rate: 83.94%",
+        "Link": "https://www.hackerrank.com/challenges/missing-numbers?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Pairs",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 78.55%",
+        "Link": "https://www.hackerrank.com/challenges/pairs?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Sherlock and Array",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 82.40%",
+        "Link": "https://www.hackerrank.com/challenges/sherlock-and-array?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Maximum Subarray Sum",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 38.22%",
+        "Link": "https://www.hackerrank.com/challenges/maximum-subarray-sum?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Connected Cells in a Grid",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 88.03%",
+        "Link": "https://www.hackerrank.com/challenges/connected-cell-in-a-grid?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Short Palindrome",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 64.17%",
+        "Link": "https://www.hackerrank.com/challenges/short-palindrome?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Maximizing Mission Points",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 58.68%",
+        "Link": "https://www.hackerrank.com/challenges/maximizing-mission-points?isFullScreen=true"
+    },
+    {
+        "Title": "Count Luck",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 87.08%",
+        "Link": "https://www.hackerrank.com/challenges/count-luck?isFullScreen=true"
+    },
+    {
+        "Title": "Cut the Tree",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 71.68%",
+        "Link": "https://www.hackerrank.com/challenges/cut-the-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Making Candies",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 45",
+        "Success Rate": "Success Rate: 62.12%",
+        "Link": "https://www.hackerrank.com/challenges/making-candies?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Gena Playing Hanoi",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 73.56%",
+        "Link": "https://www.hackerrank.com/challenges/gena?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Beautiful Quadruples",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 57.85%",
+        "Link": "https://www.hackerrank.com/challenges/xor-quadruples?isFullScreen=true"
+    },
+    {
+        "Title": "Red Knight's Shortest Path",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 85.46%",
+        "Link": "https://www.hackerrank.com/challenges/red-knights-shortest-path?isFullScreen=true"
+    },
+    {
+        "Title": "Bike Racers",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 59.69%",
+        "Link": "https://www.hackerrank.com/challenges/bike-racers?isFullScreen=true"
+    },
+    {
+        "Title": "Task Scheduling",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 61.94%",
+        "Link": "https://www.hackerrank.com/challenges/task-scheduling?isFullScreen=true"
+    },
+    {
+        "Title": "Similar Pair",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 53.92%",
+        "Link": "https://www.hackerrank.com/challenges/similarpair?isFullScreen=true"
+    },
+    {
+        "Title": "Absolute Element Sums",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 38.87%",
+        "Link": "https://www.hackerrank.com/challenges/playing-with-numbers?isFullScreen=true"
+    },
+    {
+        "Title": "Almost Integer Rock Garden",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 86.28%",
+        "Link": "https://www.hackerrank.com/challenges/almost-integer-rock-garden?isFullScreen=true"
+    },
+    {
+        "Title": "Sorted Subsegments",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 47.24%",
+        "Link": "https://www.hackerrank.com/challenges/sorted-subsegments?isFullScreen=true"
+    },
+    {
+        "Title": "Distant Pairs",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 71.16%",
+        "Link": "https://www.hackerrank.com/challenges/distant-pairs?isFullScreen=true"
+    },
+    {
+        "Title": "King Richard's Knights",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 74.89%",
+        "Link": "https://www.hackerrank.com/challenges/king-richards-knights?isFullScreen=true"
+    },
+    {
+        "Title": "Frog in Maze",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 60.97%",
+        "Link": "https://www.hackerrank.com/challenges/frog-in-maze?isFullScreen=true"
+    },
+    {
+        "Title": "Roads and Libraries",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 67.47%",
+        "Link": "https://www.hackerrank.com/challenges/torque-and-development?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Journey to the Moon",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 62.53%",
+        "Link": "https://www.hackerrank.com/challenges/journey-to-the-moon?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Synchronous Shopping",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 64.94%",
+        "Link": "https://www.hackerrank.com/challenges/synchronous-shopping?isFullScreen=true"
+    },
+    {
+        "Title": "Subset Component",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 74.24%",
+        "Link": "https://www.hackerrank.com/challenges/subset-component?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Breadth First Search: Shortest Reach",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 79.49%",
+        "Link": "https://www.hackerrank.com/challenges/bfsshortreach?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Kruskal (MST): Really Special Subtree",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 84.12%",
+        "Link": "https://www.hackerrank.com/challenges/kruskalmstrsub?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Even Tree",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 89.32%",
+        "Link": "https://www.hackerrank.com/challenges/even-tree?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Snakes and Ladders: The Quickest Way Up",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 80.56%",
+        "Link": "https://www.hackerrank.com/challenges/the-quickest-way-up?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Dijkstra: Shortest Reach 2",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 56.27%",
+        "Link": "https://www.hackerrank.com/challenges/dijkstrashortreach?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "The Story of a Tree",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 60.04%",
+        "Link": "https://www.hackerrank.com/challenges/the-story-of-a-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Prim's (MST) : Special Subtree",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 85.27%",
+        "Link": "https://www.hackerrank.com/challenges/primsmstsub?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Toll Cost Digits",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 76.92%",
+        "Link": "https://www.hackerrank.com/challenges/toll-cost-digits?isFullScreen=true"
+    },
+    {
+        "Title": "Real Estate Broker",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 68.77%",
+        "Link": "https://www.hackerrank.com/challenges/real-estate-broker?isFullScreen=true"
+    },
+    {
+        "Title": "Clique",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 59.99%",
+        "Link": "https://www.hackerrank.com/challenges/clique?isFullScreen=true"
+    },
+    {
+        "Title": "Minimum Penalty Path",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 57.15%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-path?isFullScreen=true"
+    },
+    {
+        "Title": "Demanding Money",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 68.66%",
+        "Link": "https://www.hackerrank.com/challenges/borrowing-money?isFullScreen=true"
+    },
+    {
+        "Title": "The Value of Friendship",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 67.22%",
+        "Link": "https://www.hackerrank.com/challenges/value-of-friendship?isFullScreen=true"
+    },
+    {
+        "Title": "Coprime Paths",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 81.81%",
+        "Link": "https://www.hackerrank.com/challenges/coprime-paths?isFullScreen=true"
+    },
+    {
+        "Title": "Minimum MST Graph",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 77.76%",
+        "Link": "https://www.hackerrank.com/challenges/minimum-mst-graph?isFullScreen=true"
+    },
+    {
+        "Title": "Jack goes to Rapture",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 69.98%",
+        "Link": "https://www.hackerrank.com/challenges/jack-goes-to-rapture?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Crab Graphs",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 84.48%",
+        "Link": "https://www.hackerrank.com/challenges/crab-graphs?isFullScreen=true"
+    },
+    {
+        "Title": "Bead Ornaments",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 89.68%",
+        "Link": "https://www.hackerrank.com/challenges/beadornaments?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Jeanie's Route",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 79.08%",
+        "Link": "https://www.hackerrank.com/challenges/jeanies-route?isFullScreen=true"
+    },
+    {
+        "Title": "Floyd : City of Blinding Lights",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 75",
+        "Success Rate": "Success Rate: 82.89%",
+        "Link": "https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Roads in HackerLand",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 57.98%",
+        "Link": "https://www.hackerrank.com/challenges/johnland?isFullScreen=true"
+    },
+    {
+        "Title": "Kingdom Connectivity",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 75",
+        "Success Rate": "Success Rate: 64.86%",
+        "Link": "https://www.hackerrank.com/challenges/kingdom-connectivity?isFullScreen=true"
+    },
+    {
+        "Title": "Computer Game",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 51.08%",
+        "Link": "https://www.hackerrank.com/challenges/computer-game?isFullScreen=true"
+    },
+    {
+        "Title": "Rust & Murderer",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 66.29%",
+        "Link": "https://www.hackerrank.com/challenges/rust-murderer?isFullScreen=true"
+    },
+    {
+        "Title": "Problem solving",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 19.60%",
+        "Link": "https://www.hackerrank.com/challenges/problem-solving?isFullScreen=true"
+    },
+    {
+        "Title": "Journey Scheduling",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 75",
+        "Success Rate": "Success Rate: 81.90%",
+        "Link": "https://www.hackerrank.com/challenges/journey-scheduling?isFullScreen=true"
+    },
+    {
+        "Title": "Matrix",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 66.07%",
+        "Link": "https://www.hackerrank.com/challenges/matrix?isFullScreen=true"
+    },
+    {
+        "Title": "Recording Episodes",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 81.28%",
+        "Link": "https://www.hackerrank.com/challenges/episode-recording?isFullScreen=true"
+    },
+    {
+        "Title": "Repair Roads",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 66.25%",
+        "Link": "https://www.hackerrank.com/challenges/repair-roads?isFullScreen=true"
+    },
+    {
+        "Title": "Kth Ancestor",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 66.44%",
+        "Link": "https://www.hackerrank.com/challenges/kth-ancestor?isFullScreen=true"
+    },
+    {
+        "Title": "ByteLandian Tours",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 81.09%",
+        "Link": "https://www.hackerrank.com/challenges/bytelandian-tours?isFullScreen=true"
+    },
+    {
+        "Title": "Find the Path",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 75",
+        "Success Rate": "Success Rate: 64.86%",
+        "Link": "https://www.hackerrank.com/challenges/shortest-path?isFullScreen=true"
+    },
+    {
+        "Title": "Savita And Friends",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 87.86%",
+        "Link": "https://www.hackerrank.com/challenges/savita-and-friends?isFullScreen=true"
+    },
+    {
+        "Title": "Liars",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 80.13%",
+        "Link": "https://www.hackerrank.com/challenges/liars?isFullScreen=true"
+    },
+    {
+        "Title": "Jumping Rooks",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 80.96%",
+        "Link": "https://www.hackerrank.com/challenges/jumping-rooks?isFullScreen=true"
+    },
+    {
+        "Title": "Tripartite Matching",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 75.95%",
+        "Link": "https://www.hackerrank.com/challenges/tripartite-matching?isFullScreen=true"
+    },
+    {
+        "Title": "Tree Flow",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 72.79%",
+        "Link": "https://www.hackerrank.com/challenges/tree-flow?isFullScreen=true"
+    },
+    {
+        "Title": "DAG Queries",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 60.82%",
+        "Link": "https://www.hackerrank.com/challenges/dag-queries?isFullScreen=true"
+    },
+    {
+        "Title": "Favorite sequence",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 95",
+        "Success Rate": "Success Rate: 62.75%",
+        "Link": "https://www.hackerrank.com/challenges/favourite-sequence?isFullScreen=true"
+    },
+    {
+        "Title": "Jogging Cats",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 71.54%",
+        "Link": "https://www.hackerrank.com/challenges/cat-jogging?isFullScreen=true"
+    },
+    {
+        "Title": "Quadrant Queries",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 54.30%",
+        "Link": "https://www.hackerrank.com/challenges/quadrant-queries?isFullScreen=true"
+    },
+    {
+        "Title": "Hacker Country",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 72.43%",
+        "Link": "https://www.hackerrank.com/challenges/hacker-country?isFullScreen=true"
+    },
+    {
+        "Title": "HackerX",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 71.56%",
+        "Link": "https://www.hackerrank.com/challenges/missile-defend?isFullScreen=true"
+    },
+    {
+        "Title": "Huarongdao",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 75.40%",
+        "Link": "https://www.hackerrank.com/challenges/huarongdao?isFullScreen=true"
+    },
+    {
+        "Title": "Training the army",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 85.46%",
+        "Link": "https://www.hackerrank.com/challenges/training-the-army?isFullScreen=true"
+    },
+    {
+        "Title": "Jim and his LAN Party",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 76.35%",
+        "Link": "https://www.hackerrank.com/challenges/jim-and-his-lan-party?isFullScreen=true"
+    },
+    {
+        "Title": "Travel in HackerLand",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 82.03%",
+        "Link": "https://www.hackerrank.com/challenges/travel-in-hackerland?isFullScreen=true"
+    },
+    {
+        "Title": "Alex vs Fedor",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 88.84%",
+        "Link": "https://www.hackerrank.com/challenges/alex-vs-fedor?isFullScreen=true"
+    },
+    {
+        "Title": "Vertical Paths",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 91.67%",
+        "Link": "https://www.hackerrank.com/challenges/vertical-paths?isFullScreen=true"
+    },
+    {
+        "Title": "Drive",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 79.81%",
+        "Link": "https://www.hackerrank.com/challenges/drive?isFullScreen=true"
+    },
+    {
+        "Title": "Travelling Salesman in a Grid",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 66.46%",
+        "Link": "https://www.hackerrank.com/challenges/tsp-grid?isFullScreen=true"
+    },
+    {
+        "Title": "Road Network",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 80.68%",
+        "Link": "https://www.hackerrank.com/challenges/road-network?isFullScreen=true"
+    },
+    {
+        "Title": "Going to the Office",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 59.42%",
+        "Link": "https://www.hackerrank.com/challenges/going-office?isFullScreen=true"
+    },
+    {
+        "Title": "Tree Splitting",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 83.96%",
+        "Link": "https://www.hackerrank.com/challenges/tree-splitting?isFullScreen=true"
+    },
+    {
+        "Title": "Ticket",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 74.59%",
+        "Link": "https://www.hackerrank.com/challenges/ticket?isFullScreen=true"
+    },
+    {
+        "Title": "DFS Edges",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 85.06%",
+        "Link": "https://www.hackerrank.com/challenges/dfs-edges?isFullScreen=true"
+    },
+    {
+        "Title": "Diameter Minimization",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 83.31%",
+        "Link": "https://www.hackerrank.com/challenges/diameter-minimization?isFullScreen=true"
+    },
+    {
+        "Title": "Airports",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 88.43%",
+        "Link": "https://www.hackerrank.com/challenges/airports?isFullScreen=true"
+    },
+    {
+        "Title": "Definite Random Walks",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 86.43%",
+        "Link": "https://www.hackerrank.com/challenges/definite-random-walks?isFullScreen=true"
+    },
+    {
+        "Title": "Minimum Absolute Difference in an Array",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 87.13%",
+        "Link": "https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Marc's Cakewalk",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 96.49%",
+        "Link": "https://www.hackerrank.com/challenges/marcs-cakewalk?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Grid Challenge",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 83.79%",
+        "Link": "https://www.hackerrank.com/challenges/grid-challenge?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Luck Balance",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 93.20%",
+        "Link": "https://www.hackerrank.com/challenges/luck-balance?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Maximum Perimeter Triangle",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 91.15%",
+        "Link": "https://www.hackerrank.com/challenges/maximum-perimeter-triangle?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Beautiful Pairs",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 77.65%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-pairs?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Candies",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 68.86%",
+        "Link": "https://www.hackerrank.com/challenges/candies?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Sherlock and The Beast",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 82.93%",
+        "Link": "https://www.hackerrank.com/challenges/sherlock-and-the-beast?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Priyanka and Toys",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 92.37%",
+        "Link": "https://www.hackerrank.com/challenges/priyanka-and-toys?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Largest Permutation",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 64.01%",
+        "Link": "https://www.hackerrank.com/challenges/largest-permutation?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Mark and Toys",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 93.85%",
+        "Link": "https://www.hackerrank.com/challenges/mark-and-toys?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Greedy Florist",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 94.00%",
+        "Link": "https://www.hackerrank.com/challenges/greedy-florist?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Max Min",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 85.88%",
+        "Link": "https://www.hackerrank.com/challenges/angry-children?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Jim and the Orders",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 89.05%",
+        "Link": "https://www.hackerrank.com/challenges/jim-and-the-orders?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Permuting Two Arrays",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 94.48%",
+        "Link": "https://www.hackerrank.com/challenges/two-arrays?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Cutting Boards",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 77.72%",
+        "Link": "https://www.hackerrank.com/challenges/board-cutting?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Reverse Shuffle Merge",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 58.27%",
+        "Link": "https://www.hackerrank.com/challenges/reverse-shuffle-merge?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Goodland Electricity",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 72.48%",
+        "Link": "https://www.hackerrank.com/challenges/pylons?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Cloudy Day",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 45",
+        "Success Rate": "Success Rate: 47.06%",
+        "Link": "https://www.hackerrank.com/challenges/cloudy-day?isFullScreen=true"
+    },
+    {
+        "Title": "Chief Hopper",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 79.77%",
+        "Link": "https://www.hackerrank.com/challenges/chief-hopper?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Sherlock and MiniMax",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 56.14%",
+        "Link": "https://www.hackerrank.com/challenges/sherlock-and-minimax?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Accessory Collection",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 56.17%",
+        "Link": "https://www.hackerrank.com/challenges/accessory-collection?isFullScreen=true"
+    },
+    {
+        "Title": "Team Formation",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 46.30%",
+        "Link": "https://www.hackerrank.com/challenges/team-formation?isFullScreen=true"
+    },
+    {
+        "Title": "Fighting Pits",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 62.46%",
+        "Link": "https://www.hackerrank.com/challenges/fighting-pits?isFullScreen=true"
+    },
+    {
+        "Title": "Lena Sort",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 64.61%",
+        "Link": "https://www.hackerrank.com/challenges/lena-sort?isFullScreen=true"
+    },
+    {
+        "Title": "The Coin Change Problem",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 80.20%",
+        "Link": "https://www.hackerrank.com/challenges/coin-change?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Equal",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 57.59%",
+        "Link": "https://www.hackerrank.com/challenges/equal?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Flipping the Matrix",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 91.41%",
+        "Link": "https://www.hackerrank.com/challenges/flipping-the-matrix?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Sherlock and Cost",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 69.06%",
+        "Link": "https://www.hackerrank.com/challenges/sherlock-and-cost?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Gaming Array",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 77.32%",
+        "Link": "https://www.hackerrank.com/challenges/an-interesting-game-1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "New Year Chaos",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 67.69%",
+        "Link": "https://www.hackerrank.com/challenges/new-year-chaos?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Construct the Array",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 68.53%",
+        "Link": "https://www.hackerrank.com/challenges/construct-the-array?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Bonetrousle",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 51.18%",
+        "Link": "https://www.hackerrank.com/challenges/bonetrousle?isFullScreen=true"
+    },
+    {
+        "Title": "Kingdom Division",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 64.05%",
+        "Link": "https://www.hackerrank.com/challenges/kingdom-division?isFullScreen=true"
+    },
+    {
+        "Title": "Yet Another KMP Problem",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 68.14%",
+        "Link": "https://www.hackerrank.com/challenges/kmp-problem?isFullScreen=true"
+    },
+    {
+        "Title": "Sam and substrings",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 60.19%",
+        "Link": "https://www.hackerrank.com/challenges/sam-and-substrings?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Beautiful 3 Set",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 62.30%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-3-set?isFullScreen=true"
+    },
+    {
+        "Title": "Fibonacci Modified",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 45",
+        "Success Rate": "Success Rate: 80.32%",
+        "Link": "https://www.hackerrank.com/challenges/fibonacci-modified?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Inverse RMQ",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 74.92%",
+        "Link": "https://www.hackerrank.com/challenges/inverse-rmq?isFullScreen=true"
+    },
+    {
+        "Title": "Abbreviation",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 46.05%",
+        "Link": "https://www.hackerrank.com/challenges/abbr?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Two Subarrays",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 70.93%",
+        "Link": "https://www.hackerrank.com/challenges/two-subarrays?isFullScreen=true"
+    },
+    {
+        "Title": "Prime XOR",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 59.81%",
+        "Link": "https://www.hackerrank.com/challenges/prime-xor?isFullScreen=true"
+    },
+    {
+        "Title": "Lovely Triplets",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 83.14%",
+        "Link": "https://www.hackerrank.com/challenges/lovely-triplets?isFullScreen=true"
+    },
+    {
+        "Title": "Array Construction",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 68.54%",
+        "Link": "https://www.hackerrank.com/challenges/array-construction?isFullScreen=true"
+    },
+    {
+        "Title": "Decibinary Numbers",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 59.67%",
+        "Link": "https://www.hackerrank.com/challenges/decibinary-numbers?isFullScreen=true"
+    },
+    {
+        "Title": "Fair Cut",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 61.70%",
+        "Link": "https://www.hackerrank.com/challenges/fair-cut?isFullScreen=true"
+    },
+    {
+        "Title": "The Maximum Subarray",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 76.58%",
+        "Link": "https://www.hackerrank.com/challenges/maxsubarray?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Angry Children 2",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 52.40%",
+        "Link": "https://www.hackerrank.com/challenges/angry-children-2?isFullScreen=true"
+    },
+    {
+        "Title": "Sherlock's Array Merging Algorithm",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 80.50%",
+        "Link": "https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm?isFullScreen=true"
+    },
+    {
+        "Title": "Prime Digit Sums",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 60.02%",
+        "Link": "https://www.hackerrank.com/challenges/prime-digit-sums?isFullScreen=true"
+    },
+    {
+        "Title": "HackerRank City",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 83.01%",
+        "Link": "https://www.hackerrank.com/challenges/hr-city?isFullScreen=true"
+    },
+    {
+        "Title": "Summing Pieces",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 66.06%",
+        "Link": "https://www.hackerrank.com/challenges/summing-pieces?isFullScreen=true"
+    },
+    {
+        "Title": "Mr K marsh",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 56.21%",
+        "Link": "https://www.hackerrank.com/challenges/mr-k-marsh?isFullScreen=true"
+    },
+    {
+        "Title": "Substring Diff",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 70.19%",
+        "Link": "https://www.hackerrank.com/challenges/substring-diff?isFullScreen=true"
+    },
+    {
+        "Title": "Xor and Sum",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 86.03%",
+        "Link": "https://www.hackerrank.com/challenges/xor-and-sum?isFullScreen=true"
+    },
+    {
+        "Title": "Lego Blocks",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 77.50%",
+        "Link": "https://www.hackerrank.com/challenges/lego-blocks?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Brick Tiling",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 79.90%",
+        "Link": "https://www.hackerrank.com/challenges/brick-tiling?isFullScreen=true"
+    },
+    {
+        "Title": "Alien Languages",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 76.52%",
+        "Link": "https://www.hackerrank.com/challenges/alien-languages?isFullScreen=true"
+    },
+    {
+        "Title": "Stock Maximize",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 82.72%",
+        "Link": "https://www.hackerrank.com/challenges/stockmax?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Two Robots",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 59.27%",
+        "Link": "https://www.hackerrank.com/challenges/two-robots?isFullScreen=true"
+    },
+    {
+        "Title": "Cut Tree",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 70.19%",
+        "Link": "https://www.hackerrank.com/challenges/cuttree?isFullScreen=true"
+    },
+    {
+        "Title": "Tara's Beautiful Permutations",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 77.61%",
+        "Link": "https://www.hackerrank.com/challenges/taras-beautiful-permutations?isFullScreen=true"
+    },
+    {
+        "Title": "Wet Shark and Two Subsequences",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 65.78%",
+        "Link": "https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences?isFullScreen=true"
+    },
+    {
+        "Title": "Nikita and the Game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 63.02%",
+        "Link": "https://www.hackerrank.com/challenges/array-splitting?isFullScreen=true"
+    },
+    {
+        "Title": "Choosing White Balls",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 72.33%",
+        "Link": "https://www.hackerrank.com/challenges/choosing-white-balls?isFullScreen=true"
+    },
+    {
+        "Title": "Mandragora Forest",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 75.46%",
+        "Link": "https://www.hackerrank.com/challenges/mandragora?isFullScreen=true"
+    },
+    {
+        "Title": "Red John is Back",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 80.88%",
+        "Link": "https://www.hackerrank.com/challenges/red-john-is-back?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "LCS Returns",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 53.02%",
+        "Link": "https://www.hackerrank.com/challenges/tutzki-and-lcs?isFullScreen=true"
+    },
+    {
+        "Title": "Grid Walking",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 56.45%",
+        "Link": "https://www.hackerrank.com/challenges/grid-walking?isFullScreen=true"
+    },
+    {
+        "Title": "Matrix Land",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 80.95%",
+        "Link": "https://www.hackerrank.com/challenges/matrix-land?isFullScreen=true"
+    },
+    {
+        "Title": "Knapsack",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 81.41%",
+        "Link": "https://www.hackerrank.com/challenges/unbounded-knapsack?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Bricks Game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 79.47%",
+        "Link": "https://www.hackerrank.com/challenges/play-game?isFullScreen=true"
+    },
+    {
+        "Title": "The Longest Increasing Subsequence",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 44.11%",
+        "Link": "https://www.hackerrank.com/challenges/longest-increasing-subsequent?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Coin on the Table",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 74.73%",
+        "Link": "https://www.hackerrank.com/challenges/coin-on-the-table?isFullScreen=true"
+    },
+    {
+        "Title": "The Longest Common Subsequence",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 65.40%",
+        "Link": "https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Play with words",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 76.50%",
+        "Link": "https://www.hackerrank.com/challenges/strplay?isFullScreen=true"
+    },
+    {
+        "Title": "Black and White Tree",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 78.03%",
+        "Link": "https://www.hackerrank.com/challenges/black-n-white-tree-1?isFullScreen=true"
+    },
+    {
+        "Title": "Counting Special Sub-Cubes",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 81.02%",
+        "Link": "https://www.hackerrank.com/challenges/counting-special-sub-cubes?isFullScreen=true"
+    },
+    {
+        "Title": "Interval Selection",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 71.77%",
+        "Link": "https://www.hackerrank.com/challenges/interval-selection?isFullScreen=true"
+    },
+    {
+        "Title": "String Reduction",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 58.38%",
+        "Link": "https://www.hackerrank.com/challenges/string-reduction?isFullScreen=true"
+    },
+    {
+        "Title": "Far Vertices",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 75.42%",
+        "Link": "https://www.hackerrank.com/challenges/far-vertices?isFullScreen=true"
+    },
+    {
+        "Title": "Counting Road Networks",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 81.45%",
+        "Link": "https://www.hackerrank.com/challenges/counting-road-networks?isFullScreen=true"
+    },
+    {
+        "Title": "Superman Celebrates Diwali",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 80.74%",
+        "Link": "https://www.hackerrank.com/challenges/superman-celebrates-diwali?isFullScreen=true"
+    },
+    {
+        "Title": "Hexagonal Grid",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 82.71%",
+        "Link": "https://www.hackerrank.com/challenges/hexagonal-grid?isFullScreen=true"
+    },
+    {
+        "Title": "Queens on Board",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 75.88%",
+        "Link": "https://www.hackerrank.com/challenges/queens-on-board?isFullScreen=true"
+    },
+    {
+        "Title": "Shashank and the Palindromic Strings",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 83.93%",
+        "Link": "https://www.hackerrank.com/challenges/shashank-and-palindromic-strings?isFullScreen=true"
+    },
+    {
+        "Title": "Points in a Plane",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 71.06%",
+        "Link": "https://www.hackerrank.com/challenges/points-in-a-plane?isFullScreen=true"
+    },
+    {
+        "Title": "Turn Off the Lights",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 70.88%",
+        "Link": "https://www.hackerrank.com/challenges/turn-off-the-lights?isFullScreen=true"
+    },
+    {
+        "Title": "Animal Transport",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 88.92%",
+        "Link": "https://www.hackerrank.com/challenges/animal-transport?isFullScreen=true"
+    },
+    {
+        "Title": "The Indian Job",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 61.38%",
+        "Link": "https://www.hackerrank.com/challenges/the-indian-job?isFullScreen=true"
+    },
+    {
+        "Title": "Requirement",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 68.27%",
+        "Link": "https://www.hackerrank.com/challenges/requirement?isFullScreen=true"
+    },
+    {
+        "Title": "A Super Hero",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 70.52%",
+        "Link": "https://www.hackerrank.com/challenges/a-super-hero?isFullScreen=true"
+    },
+    {
+        "Title": "Clues on a Binary Path",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 49.23%",
+        "Link": "https://www.hackerrank.com/challenges/clues-on-a-binary-path?isFullScreen=true"
+    },
+    {
+        "Title": "Road Maintenance",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 80.50%",
+        "Link": "https://www.hackerrank.com/challenges/road-maintenance?isFullScreen=true"
+    },
+    {
+        "Title": "Billboards",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 45.33%",
+        "Link": "https://www.hackerrank.com/challenges/billboards?isFullScreen=true"
+    },
+    {
+        "Title": "Beautiful Strings",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 44.92%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-string?isFullScreen=true"
+    },
+    {
+        "Title": "Covering the stains",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 79.74%",
+        "Link": "https://www.hackerrank.com/challenges/covering-the-stains?isFullScreen=true"
+    },
+    {
+        "Title": "GCD Matrix",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 65.11%",
+        "Link": "https://www.hackerrank.com/challenges/gcd-matrix?isFullScreen=true"
+    },
+    {
+        "Title": "Fairy Chess",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 71.92%",
+        "Link": "https://www.hackerrank.com/challenges/fairy-chess?isFullScreen=true"
+    },
+    {
+        "Title": "Suffix Rotation",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 69.72%",
+        "Link": "https://www.hackerrank.com/challenges/suffix-rotation?isFullScreen=true"
+    },
+    {
+        "Title": "New Year Present",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 63.84%",
+        "Link": "https://www.hackerrank.com/challenges/newyear-present?isFullScreen=true"
+    },
+    {
+        "Title": "Travel around the world",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 60.78%",
+        "Link": "https://www.hackerrank.com/challenges/travel-around-the-world?isFullScreen=true"
+    },
+    {
+        "Title": "Longest Palindromic Subsequence",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 66.43%",
+        "Link": "https://www.hackerrank.com/challenges/longest-palindromic-subsequence?isFullScreen=true"
+    },
+    {
+        "Title": "Candles Counting",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 55.68%",
+        "Link": "https://www.hackerrank.com/challenges/candles-2?isFullScreen=true"
+    },
+    {
+        "Title": "Hyper Strings",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 52.41%",
+        "Link": "https://www.hackerrank.com/challenges/hyper-strings?isFullScreen=true"
+    },
+    {
+        "Title": "Swap Permutation",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 70.88%",
+        "Link": "https://www.hackerrank.com/challenges/swappermutation?isFullScreen=true"
+    },
+    {
+        "Title": "Extremum Permutations",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 80.82%",
+        "Link": "https://www.hackerrank.com/challenges/extremum-permutations?isFullScreen=true"
+    },
+    {
+        "Title": "Square Subsequences",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 65.95%",
+        "Link": "https://www.hackerrank.com/challenges/square-subsequences?isFullScreen=true"
+    },
+    {
+        "Title": "Dorsey Thief",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 58.04%",
+        "Link": "https://www.hackerrank.com/challenges/dorsey-thief?isFullScreen=true"
+    },
+    {
+        "Title": "Mining",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 75",
+        "Success Rate": "Success Rate: 74.23%",
+        "Link": "https://www.hackerrank.com/challenges/mining?isFullScreen=true"
+    },
+    {
+        "Title": "Police Operation",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 69.73%",
+        "Link": "https://www.hackerrank.com/challenges/police-operation?isFullScreen=true"
+    },
+    {
+        "Title": "Zurikela's Graph",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 90.53%",
+        "Link": "https://www.hackerrank.com/challenges/zurikela?isFullScreen=true"
+    },
+    {
+        "Title": "Modify The Sequence",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 37.37%",
+        "Link": "https://www.hackerrank.com/challenges/modify-the-sequence?isFullScreen=true"
+    },
+    {
+        "Title": "Longest Mod Path",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 85.25%",
+        "Link": "https://www.hackerrank.com/challenges/longest-mod-path?isFullScreen=true"
+    },
+    {
+        "Title": "P-sequences",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 64.72%",
+        "Link": "https://www.hackerrank.com/challenges/p-sequences?isFullScreen=true"
+    },
+    {
+        "Title": "Robot",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 65.19%",
+        "Link": "https://www.hackerrank.com/challenges/robot?isFullScreen=true"
+    },
+    {
+        "Title": "Lucky Numbers",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 28.37%",
+        "Link": "https://www.hackerrank.com/challenges/lucky-numbers?isFullScreen=true"
+    },
+    {
+        "Title": "Unfair Game",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 72.27%",
+        "Link": "https://www.hackerrank.com/challenges/unfair-game?isFullScreen=true"
+    },
+    {
+        "Title": "Oil Well",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 65.29%",
+        "Link": "https://www.hackerrank.com/challenges/oil-well?isFullScreen=true"
+    },
+    {
+        "Title": "Find the Seed",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 70.60%",
+        "Link": "https://www.hackerrank.com/challenges/find-the-seed?isFullScreen=true"
+    },
+    {
+        "Title": "The Blacklist",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 69.73%",
+        "Link": "https://www.hackerrank.com/challenges/the-blacklist?isFullScreen=true"
+    },
+    {
+        "Title": "Tree Pruning",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 70.86%",
+        "Link": "https://www.hackerrank.com/challenges/tree-pruning?isFullScreen=true"
+    },
+    {
+        "Title": "Ones and Twos",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 71.07%",
+        "Link": "https://www.hackerrank.com/challenges/ones-and-twos?isFullScreen=true"
+    },
+    {
+        "Title": "Count Scorecards",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 64.43%",
+        "Link": "https://www.hackerrank.com/challenges/count-scorecards?isFullScreen=true"
+    },
+    {
+        "Title": "Vim War",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 73.10%",
+        "Link": "https://www.hackerrank.com/challenges/vim-war?isFullScreen=true"
+    },
+    {
+        "Title": "Best spot",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 63.72%",
+        "Link": "https://www.hackerrank.com/challenges/best-spot?isFullScreen=true"
+    },
+    {
+        "Title": "Divisible Numbers",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 33.55%",
+        "Link": "https://www.hackerrank.com/challenges/divisible-numbers?isFullScreen=true"
+    },
+    {
+        "Title": "Unique Divide And Conquer",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 75.62%",
+        "Link": "https://www.hackerrank.com/challenges/unique-divide-and-conquer?isFullScreen=true"
+    },
+    {
+        "Title": "King and Four Sons",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 78.59%",
+        "Link": "https://www.hackerrank.com/challenges/happy-king?isFullScreen=true"
+    },
+    {
+        "Title": "Dortmund Dilemma",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 86.62%",
+        "Link": "https://www.hackerrank.com/challenges/dortmund-dilemma?isFullScreen=true"
+    },
+    {
+        "Title": "Super Kth LIS",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 76.18%",
+        "Link": "https://www.hackerrank.com/challenges/super-kth-lis?isFullScreen=true"
+    },
+    {
+        "Title": "Counting the Ways",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 66.41%",
+        "Link": "https://www.hackerrank.com/challenges/count-ways-1?isFullScreen=true"
+    },
+    {
+        "Title": "Hard Disk Drives",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 76.38%",
+        "Link": "https://www.hackerrank.com/challenges/hard-drive-disks?isFullScreen=true"
+    },
+    {
+        "Title": "Separate the chocolate",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 250",
+        "Success Rate": "Success Rate: 73.65%",
+        "Link": "https://www.hackerrank.com/challenges/separate-the-chocolate?isFullScreen=true"
+    },
+    {
+        "Title": "Lonely Integer",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 96.81%",
+        "Link": "https://www.hackerrank.com/challenges/lonely-integer?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Maximizing XOR",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 97.10%",
+        "Link": "https://www.hackerrank.com/challenges/maximizing-xor?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Counter game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 71.27%",
+        "Link": "https://www.hackerrank.com/challenges/counter-game?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Xor-sequence",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 54.87%",
+        "Link": "https://www.hackerrank.com/challenges/xor-se?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Sum vs XOR",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 67.77%",
+        "Link": "https://www.hackerrank.com/challenges/sum-vs-xor?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "The Great XOR",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 70.76%",
+        "Link": "https://www.hackerrank.com/challenges/the-great-xor?isFullScreen=true"
+    },
+    {
+        "Title": "Flipping bits",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 96.54%",
+        "Link": "https://www.hackerrank.com/challenges/flipping-bits?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Yet Another Minimax Problem",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 44.23%",
+        "Link": "https://www.hackerrank.com/challenges/yet-another-minimax-problem?isFullScreen=true"
+    },
+    {
+        "Title": "Sansa and XOR",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 84.94%",
+        "Link": "https://www.hackerrank.com/challenges/sansa-and-xor?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "AND Product",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 60.00%",
+        "Link": "https://www.hackerrank.com/challenges/and-product?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Winning Lottery Ticket",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 51.56%",
+        "Link": "https://www.hackerrank.com/challenges/winning-lottery-ticket?isFullScreen=true"
+    },
+    {
+        "Title": "Xoring Ninja",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 62.36%",
+        "Link": "https://www.hackerrank.com/challenges/xoring-ninja?isFullScreen=true"
+    },
+    {
+        "Title": "Cipher",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 72.14%",
+        "Link": "https://www.hackerrank.com/challenges/cipher?isFullScreen=true"
+    },
+    {
+        "Title": "XOR Matrix",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 41.90%",
+        "Link": "https://www.hackerrank.com/challenges/xor-matrix?isFullScreen=true"
+    },
+    {
+        "Title": "What's Next?",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 53.20%",
+        "Link": "https://www.hackerrank.com/challenges/whats-next?isFullScreen=true"
+    },
+    {
+        "Title": "String Transmission",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 68.33%",
+        "Link": "https://www.hackerrank.com/challenges/string-transmission?isFullScreen=true"
+    },
+    {
+        "Title": "A or B",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 74.67%",
+        "Link": "https://www.hackerrank.com/challenges/aorb?isFullScreen=true"
+    },
+    {
+        "Title": "Manipulative Numbers",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 55",
+        "Success Rate": "Success Rate: 58.51%",
+        "Link": "https://www.hackerrank.com/challenges/manipulative-numbers?isFullScreen=true"
+    },
+    {
+        "Title": "Stone Game",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 72.86%",
+        "Link": "https://www.hackerrank.com/challenges/stonegame?isFullScreen=true"
+    },
+    {
+        "Title": "2's complement",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 46.31%",
+        "Link": "https://www.hackerrank.com/challenges/2s-complement?isFullScreen=true"
+    },
+    {
+        "Title": "Changing Bits",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 49.83%",
+        "Link": "https://www.hackerrank.com/challenges/changing-bits?isFullScreen=true"
+    },
+    {
+        "Title": "XOR key",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 34.62%",
+        "Link": "https://www.hackerrank.com/challenges/xor-key?isFullScreen=true"
+    },
+    {
+        "Title": "Maximizing the Function",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 77.58%",
+        "Link": "https://www.hackerrank.com/challenges/maximizing-the-function?isFullScreen=true"
+    },
+    {
+        "Title": "XOR Subsequences",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 56.49%",
+        "Link": "https://www.hackerrank.com/challenges/xor-subsequence?isFullScreen=true"
+    },
+    {
+        "Title": "Iterate It",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 42.67%",
+        "Link": "https://www.hackerrank.com/challenges/iterate-it?isFullScreen=true"
+    },
+    {
+        "Title": "Hamming Distance",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 56.09%",
+        "Link": "https://www.hackerrank.com/challenges/hamming-distance?isFullScreen=true"
+    },
+    {
+        "Title": "Mixing proteins",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 57.84%",
+        "Link": "https://www.hackerrank.com/challenges/pmix?isFullScreen=true"
+    },
+    {
+        "Title": "The Power Sum",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 89.52%",
+        "Link": "https://www.hackerrank.com/challenges/the-power-sum?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Crossword Puzzle",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 83.62%",
+        "Link": "https://www.hackerrank.com/challenges/crossword-puzzle?isFullScreen=true"
+    },
+    {
+        "Title": "Recursive Digit Sum",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 73.69%",
+        "Link": "https://www.hackerrank.com/challenges/recursive-digit-sum?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Simplified Chess Engine",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 70.55%",
+        "Link": "https://www.hackerrank.com/challenges/simplified-chess-engine?isFullScreen=true"
+    },
+    {
+        "Title": "Password Cracker",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 33.60%",
+        "Link": "https://www.hackerrank.com/challenges/password-cracker?isFullScreen=true"
+    },
+    {
+        "Title": "Arithmetic Expressions",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 46.92%",
+        "Link": "https://www.hackerrank.com/challenges/arithmetic-expressions?isFullScreen=true"
+    },
+    {
+        "Title": "Stone Division, Revisited",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 64.22%",
+        "Link": "https://www.hackerrank.com/challenges/stone-division-2?isFullScreen=true"
+    },
+    {
+        "Title": "K Factorization",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 79.75%",
+        "Link": "https://www.hackerrank.com/challenges/k-factorization?isFullScreen=true"
+    },
+    {
+        "Title": "Bowling Pins",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 51.78%",
+        "Link": "https://www.hackerrank.com/challenges/bowling-pins?isFullScreen=true"
+    },
+    {
+        "Title": "Simplified Chess Engine II",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 75.26%",
+        "Link": "https://www.hackerrank.com/challenges/simplified-chess-engine-ii?isFullScreen=true"
+    },
+    {
+        "Title": "Repetitive K-Sums",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 71.76%",
+        "Link": "https://www.hackerrank.com/challenges/repeat-k-sums?isFullScreen=true"
+    },
+    {
+        "Title": "Game of Stones",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 88.21%",
+        "Link": "https://www.hackerrank.com/challenges/game-of-stones-1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Tower Breakers",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 88.98%",
+        "Link": "https://www.hackerrank.com/challenges/tower-breakers-1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "A Chessboard Game",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 89.38%",
+        "Link": "https://www.hackerrank.com/challenges/a-chessboard-game-1?isFullScreen=true"
+    },
+    {
+        "Title": "Introduction to Nim Game",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 86.27%",
+        "Link": "https://www.hackerrank.com/challenges/nim-game-1?isFullScreen=true"
+    },
+    {
+        "Title": "Misère Nim",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 80.65%",
+        "Link": "https://www.hackerrank.com/challenges/misere-nim-1?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Nimble Game",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 74.09%",
+        "Link": "https://www.hackerrank.com/challenges/nimble-game-1?isFullScreen=true"
+    },
+    {
+        "Title": "Alice and Bob's Silly Game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 72.99%",
+        "Link": "https://www.hackerrank.com/challenges/alice-and-bobs-silly-game?isFullScreen=true"
+    },
+    {
+        "Title": "Poker Nim",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 87.80%",
+        "Link": "https://www.hackerrank.com/challenges/poker-nim-1?isFullScreen=true"
+    },
+    {
+        "Title": "Tower Breakers, Revisited!",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 60.57%",
+        "Link": "https://www.hackerrank.com/challenges/tower-breakers-revisited-1?isFullScreen=true"
+    },
+    {
+        "Title": "Tower Breakers, Again!",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 62.39%",
+        "Link": "https://www.hackerrank.com/challenges/tower-breakers-again-1?isFullScreen=true"
+    },
+    {
+        "Title": "Zero-Move Nim",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 71.54%",
+        "Link": "https://www.hackerrank.com/challenges/zero-move-nim?isFullScreen=true"
+    },
+    {
+        "Title": "Chessboard Game, Again!",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 74.94%",
+        "Link": "https://www.hackerrank.com/challenges/chessboard-game-again-1?isFullScreen=true"
+    },
+    {
+        "Title": "Digits Square Board",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 35",
+        "Success Rate": "Success Rate: 73.60%",
+        "Link": "https://www.hackerrank.com/challenges/digits-square-board-1?isFullScreen=true"
+    },
+    {
+        "Title": "Fun Game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 61.13%",
+        "Link": "https://www.hackerrank.com/challenges/fun-game-1?isFullScreen=true"
+    },
+    {
+        "Title": "Stone Division",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 49.18%",
+        "Link": "https://www.hackerrank.com/challenges/stone-division?isFullScreen=true"
+    },
+    {
+        "Title": "Chocolate in Box",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 77.51%",
+        "Link": "https://www.hackerrank.com/challenges/chocolate-in-box?isFullScreen=true"
+    },
+    {
+        "Title": "Kitty and Katty",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 80.71%",
+        "Link": "https://www.hackerrank.com/challenges/kitty-and-katty?isFullScreen=true"
+    },
+    {
+        "Title": "Powers Game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 77.17%",
+        "Link": "https://www.hackerrank.com/challenges/powers-game-1?isFullScreen=true"
+    },
+    {
+        "Title": "Deforestation",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 69.74%",
+        "Link": "https://www.hackerrank.com/challenges/deforestation-1?isFullScreen=true"
+    },
+    {
+        "Title": "Bob and Ben",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 86.03%",
+        "Link": "https://www.hackerrank.com/challenges/bob-and-ben?isFullScreen=true"
+    },
+    {
+        "Title": "Tower Breakers - The Final Battle",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 75.46%",
+        "Link": "https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1?isFullScreen=true"
+    },
+    {
+        "Title": "Simple Game",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 72.41%",
+        "Link": "https://www.hackerrank.com/challenges/simple-game?isFullScreen=true"
+    },
+    {
+        "Title": "Permutation game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 74.16%",
+        "Link": "https://www.hackerrank.com/challenges/permutation-game?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Move the Coins",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 85.27%",
+        "Link": "https://www.hackerrank.com/challenges/move-the-coins?isFullScreen=true"
+    },
+    {
+        "Title": "Play on benders",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 82.34%",
+        "Link": "https://www.hackerrank.com/challenges/benders-play?isFullScreen=true"
+    },
+    {
+        "Title": "New Year Game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 67.44%",
+        "Link": "https://www.hackerrank.com/challenges/newyear-game?isFullScreen=true"
+    },
+    {
+        "Title": "Stone Piles",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 71.19%",
+        "Link": "https://www.hackerrank.com/challenges/stone-piles?isFullScreen=true"
+    },
+    {
+        "Title": "Chocolate Game",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 61.13%",
+        "Link": "https://www.hackerrank.com/challenges/chocolate-game?isFullScreen=true"
+    },
+    {
+        "Title": "The Prime Game",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 74.10%",
+        "Link": "https://www.hackerrank.com/challenges/the-prime-game?isFullScreen=true"
+    },
+    {
+        "Title": "Vertical Rooks",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 79.64%",
+        "Link": "https://www.hackerrank.com/challenges/vertical-rooks?isFullScreen=true"
+    },
+    {
+        "Title": "A stones game",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 79.59%",
+        "Link": "https://www.hackerrank.com/challenges/half?isFullScreen=true"
+    },
+    {
+        "Title": "Tastes Like Winning",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 61.53%",
+        "Link": "https://www.hackerrank.com/challenges/taste-of-win?isFullScreen=true"
+    },
+    {
+        "Title": "Walking the Approximate Longest Path",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 80.18%",
+        "Link": "https://www.hackerrank.com/challenges/walking-the-approximate-longest-path?isFullScreen=true"
+    },
+    {
+        "Title": "Sam's Puzzle (Approximate)",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 85",
+        "Success Rate": "Success Rate: 68.81%",
+        "Link": "https://www.hackerrank.com/challenges/sams-puzzle?isFullScreen=true"
+    },
+    {
+        "Title": "Spies, Revised",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 2.57%",
+        "Link": "https://www.hackerrank.com/challenges/spies-revised?isFullScreen=true"
+    },
+    {
+        "Title": "TBS Problem",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 4.20%",
+        "Link": "https://www.hackerrank.com/challenges/tbsp?isFullScreen=true"
+    },
+    {
+        "Title": "Prime Dates",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 81.59%",
+        "Link": "https://www.hackerrank.com/challenges/prime-date?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Minimum Operations",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 45",
+        "Success Rate": "Success Rate: 67.88%",
+        "Link": "https://www.hackerrank.com/challenges/minimum-operations?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "XOR Strings",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 92.60%",
+        "Link": "https://www.hackerrank.com/challenges/strings-xor?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Zig Zag Sequence",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 89.34%",
+        "Link": "https://www.hackerrank.com/challenges/zig-zag-sequence?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Smart Number",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 84.96%",
+        "Link": "https://www.hackerrank.com/challenges/smart-number?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Arrays - DS",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 93.02%",
+        "Link": "https://www.hackerrank.com/challenges/arrays-ds?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "2D Array - DS",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 93.18%",
+        "Link": "https://www.hackerrank.com/challenges/2d-array?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Dynamic Array",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 15",
+        "Success Rate": "Success Rate: 87.06%",
+        "Link": "https://www.hackerrank.com/challenges/dynamic-array?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Left Rotation",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 91.55%",
+        "Link": "https://www.hackerrank.com/challenges/array-left-rotation?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Sparse Arrays",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 97.30%",
+        "Link": "https://www.hackerrank.com/challenges/sparse-arrays?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Array Manipulation",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 62.09%",
+        "Link": "https://www.hackerrank.com/challenges/crush?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Print the Elements of a Linked List",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 97.14%",
+        "Link": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Insert a Node at the Tail of a Linked List",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 95.31%",
+        "Link": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Insert a node at the head of a linked list",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 98.31%",
+        "Link": "https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Insert a node at a specific position in a linked list",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 96.94%",
+        "Link": "https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Delete a Node",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 95.20%",
+        "Link": "https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Print in Reverse",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 97.94%",
+        "Link": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Reverse a linked list",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 97.82%",
+        "Link": "https://www.hackerrank.com/challenges/reverse-a-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Compare two linked lists",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 97.98%",
+        "Link": "https://www.hackerrank.com/challenges/compare-two-linked-lists?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Merge two sorted linked lists",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 94.20%",
+        "Link": "https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Get Node Value",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 98.21%",
+        "Link": "https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Delete duplicate-value nodes from a sorted linked list",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 97.45%",
+        "Link": "https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Cycle Detection",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 92.71%",
+        "Link": "https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Find Merge Point of Two Lists",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 92.78%",
+        "Link": "https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists?isFullScreen=true",
+        "Skill": "Problem Solving (Basic)"
+    },
+    {
+        "Title": "Inserting a Node Into a Sorted Doubly Linked List",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 92.96%",
+        "Link": "https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Reverse a doubly linked list",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 5",
+        "Success Rate": "Success Rate: 97.08%",
+        "Link": "https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Tree: Preorder Traversal",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 98.36%",
+        "Link": "https://www.hackerrank.com/challenges/tree-preorder-traversal?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Tree: Postorder Traversal",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 99.40%",
+        "Link": "https://www.hackerrank.com/challenges/tree-postorder-traversal?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Tree: Inorder Traversal",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 99.43%",
+        "Link": "https://www.hackerrank.com/challenges/tree-inorder-traversal?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Tree: Height of a Binary Tree",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 10",
+        "Success Rate": "Success Rate: 96.49%",
+        "Link": "https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Tree : Top View",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 61.60%",
+        "Link": "https://www.hackerrank.com/challenges/tree-top-view?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Tree: Level Order Traversal",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 96.55%",
+        "Link": "https://www.hackerrank.com/challenges/tree-level-order-traversal?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Binary Search Tree : Insertion",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 95.72%",
+        "Link": "https://www.hackerrank.com/challenges/binary-search-tree-insertion?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Tree: Huffman Decoding",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 97.15%",
+        "Link": "https://www.hackerrank.com/challenges/tree-huffman-decoding?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Binary Search Tree : Lowest Common Ancestor",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 93.30%",
+        "Link": "https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Swap Nodes [Algo]",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 88.83%",
+        "Link": "https://www.hackerrank.com/challenges/swap-nodes-algo?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Kitty's Calculations on a Tree",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 67.97%",
+        "Link": "https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Is This a Binary Search Tree?",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 74.97%",
+        "Link": "https://www.hackerrank.com/challenges/is-binary-search-tree?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Square-Ten Tree",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 84.48%",
+        "Link": "https://www.hackerrank.com/challenges/square-ten-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Balanced Forest",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 78.99%",
+        "Link": "https://www.hackerrank.com/challenges/balanced-forest?isFullScreen=true"
+    },
+    {
+        "Title": "Jenny's Subtrees",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 86.42%",
+        "Link": "https://www.hackerrank.com/challenges/jenny-subtrees?isFullScreen=true"
+    },
+    {
+        "Title": "Tree Coordinates",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 70.63%",
+        "Link": "https://www.hackerrank.com/challenges/tree-coordinates?isFullScreen=true"
+    },
+    {
+        "Title": "Array Pairs",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 26.31%",
+        "Link": "https://www.hackerrank.com/challenges/array-pairs?isFullScreen=true"
+    },
+    {
+        "Title": "Self Balancing Tree",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 83.30%",
+        "Link": "https://www.hackerrank.com/challenges/self-balancing-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Array and simple queries",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 57.54%",
+        "Link": "https://www.hackerrank.com/challenges/array-and-simple-queries?isFullScreen=true"
+    },
+    {
+        "Title": "Median Updates",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 62.72%",
+        "Link": "https://www.hackerrank.com/challenges/median?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Merging Communities",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 81.18%",
+        "Link": "https://www.hackerrank.com/challenges/merging-communities?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "QHEAP1",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 70.38%",
+        "Link": "https://www.hackerrank.com/challenges/qheap1?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Maximum Element",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 20",
+        "Success Rate": "Success Rate: 73.12%",
+        "Link": "https://www.hackerrank.com/challenges/maximum-element?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Queue using Two Stacks",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 89.78%",
+        "Link": "https://www.hackerrank.com/challenges/queue-using-two-stacks?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Components in a graph",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 88.20%",
+        "Link": "https://www.hackerrank.com/challenges/components-in-graph?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Balanced Brackets",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 87.43%",
+        "Link": "https://www.hackerrank.com/challenges/balanced-brackets?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Castle on the Grid",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 73.27%",
+        "Link": "https://www.hackerrank.com/challenges/castle-on-the-grid?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Jesse and Cookies",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 70.34%",
+        "Link": "https://www.hackerrank.com/challenges/jesse-and-cookies?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Kundu and Tree",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 89.37%",
+        "Link": "https://www.hackerrank.com/challenges/kundu-and-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Find the Running Median",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 75.06%",
+        "Link": "https://www.hackerrank.com/challenges/find-the-running-median?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Down to Zero II",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 59.00%",
+        "Link": "https://www.hackerrank.com/challenges/down-to-zero-ii?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Equal Stacks",
+        "Difficulty": "Easy",
+        "Max Score": "Max Score: 25",
+        "Success Rate": "Success Rate: 81.98%",
+        "Link": "https://www.hackerrank.com/challenges/equal-stacks?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Minimum Average Waiting Time",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 65.17%",
+        "Link": "https://www.hackerrank.com/challenges/minimum-average-waiting-time?isFullScreen=true"
+    },
+    {
+        "Title": "Truck Tour",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 87.60%",
+        "Link": "https://www.hackerrank.com/challenges/truck-tour?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Game of Two Stacks",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 52.41%",
+        "Link": "https://www.hackerrank.com/challenges/game-of-two-stacks?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Largest Rectangle",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 72.51%",
+        "Link": "https://www.hackerrank.com/challenges/largest-rectangle?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Queries with Fixed Length",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 76.93%",
+        "Link": "https://www.hackerrank.com/challenges/queries-with-fixed-length?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Super Maximum Cost Queries",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 89.70%",
+        "Link": "https://www.hackerrank.com/challenges/maximum-cost-queries?isFullScreen=true"
+    },
+    {
+        "Title": "Simple Text Editor",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 83.41%",
+        "Link": "https://www.hackerrank.com/challenges/simple-text-editor?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Poisonous Plants",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 52.48%",
+        "Link": "https://www.hackerrank.com/challenges/poisonous-plants?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "AND xor OR",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 71.18%",
+        "Link": "https://www.hackerrank.com/challenges/and-xor-or?isFullScreen=true"
+    },
+    {
+        "Title": "Waiter",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 75",
+        "Success Rate": "Success Rate: 86.20%",
+        "Link": "https://www.hackerrank.com/challenges/waiter?isFullScreen=true",
+        "Skill": "Problem Solving (Intermediate)"
+    },
+    {
+        "Title": "Contacts",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 40",
+        "Success Rate": "Success Rate: 70.24%",
+        "Link": "https://www.hackerrank.com/challenges/contacts?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "No Prefix Set",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 79.22%",
+        "Link": "https://www.hackerrank.com/challenges/no-prefix-set?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Kindergarten Adventures",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 30",
+        "Success Rate": "Success Rate: 58.89%",
+        "Link": "https://www.hackerrank.com/challenges/kindergarten-adventures?isFullScreen=true"
+    },
+    {
+        "Title": "Cube Summation",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 72.14%",
+        "Link": "https://www.hackerrank.com/challenges/cube-summation?isFullScreen=true",
+        "Skill": "Problem Solving (Advanced)"
+    },
+    {
+        "Title": "Mr. X and His Shots",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 50",
+        "Success Rate": "Success Rate: 65.00%",
+        "Link": "https://www.hackerrank.com/challenges/x-and-his-shots?isFullScreen=true"
+    },
+    {
+        "Title": "Direct Connections",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 61.79%",
+        "Link": "https://www.hackerrank.com/challenges/direct-connections?isFullScreen=true"
+    },
+    {
+        "Title": "Subsequence Weighting",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 70.55%",
+        "Link": "https://www.hackerrank.com/challenges/subsequence-weighting?isFullScreen=true"
+    },
+    {
+        "Title": "Jim and the Skyscrapers",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 67.18%",
+        "Link": "https://www.hackerrank.com/challenges/jim-and-the-skyscrapers?isFullScreen=true"
+    },
+    {
+        "Title": "Palindromic Subsets",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 80.72%",
+        "Link": "https://www.hackerrank.com/challenges/palindromic-subsets?isFullScreen=true"
+    },
+    {
+        "Title": "Counting On a Tree",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 76.01%",
+        "Link": "https://www.hackerrank.com/challenges/counting-on-a-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Polynomial Division",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 91.94%",
+        "Link": "https://www.hackerrank.com/challenges/polynomial-division?isFullScreen=true"
+    },
+    {
+        "Title": "Costly Intervals",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 65",
+        "Success Rate": "Success Rate: 89.89%",
+        "Link": "https://www.hackerrank.com/challenges/costly-intervals?isFullScreen=true"
+    },
+    {
+        "Title": "The Strange Function",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 70",
+        "Success Rate": "Success Rate: 82.18%",
+        "Link": "https://www.hackerrank.com/challenges/the-strange-function?isFullScreen=true"
+    },
+    {
+        "Title": "Self-Driving Bus",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 81.66%",
+        "Link": "https://www.hackerrank.com/challenges/self-driving-bus?isFullScreen=true"
+    },
+    {
+        "Title": "Unique Colors",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 89.42%",
+        "Link": "https://www.hackerrank.com/challenges/unique-colors?isFullScreen=true"
+    },
+    {
+        "Title": "Fibonacci Numbers Tree",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 85.53%",
+        "Link": "https://www.hackerrank.com/challenges/fibonacci-numbers-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Pair Sums",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 68.54%",
+        "Link": "https://www.hackerrank.com/challenges/pair-sums?isFullScreen=true"
+    },
+    {
+        "Title": "Functional Palindromes",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 84.96%",
+        "Link": "https://www.hackerrank.com/challenges/functional-palindromes?isFullScreen=true"
+    },
+    {
+        "Title": "Lazy White Falcon",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 85.44%",
+        "Link": "https://www.hackerrank.com/challenges/lazy-white-falcon?isFullScreen=true"
+    },
+    {
+        "Title": "Ticket to Ride",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 87.23%",
+        "Link": "https://www.hackerrank.com/challenges/ticket-to-ride?isFullScreen=true"
+    },
+    {
+        "Title": "Heavy Light White Falcon",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 84.57%",
+        "Link": "https://www.hackerrank.com/challenges/heavy-light-white-falcon?isFullScreen=true"
+    },
+    {
+        "Title": "Sum of the Maximums",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 72.50%",
+        "Link": "https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums?isFullScreen=true"
+    },
+    {
+        "Title": "Number Game on a Tree",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 89.87%",
+        "Link": "https://www.hackerrank.com/challenges/number-game-on-a-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Heavy Light 2 White Falcon",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 85.22%",
+        "Link": "https://www.hackerrank.com/challenges/heavy-light-2-white-falcon?isFullScreen=true"
+    },
+    {
+        "Title": "Library Query",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 81.68%",
+        "Link": "https://www.hackerrank.com/challenges/library-query?isFullScreen=true"
+    },
+    {
+        "Title": "Starfleet",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 87.07%",
+        "Link": "https://www.hackerrank.com/challenges/starfleet?isFullScreen=true"
+    },
+    {
+        "Title": "Almost Equal - Advanced",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 64.41%",
+        "Link": "https://www.hackerrank.com/challenges/almost-equal-advanced?isFullScreen=true"
+    },
+    {
+        "Title": "Almost sorted interval",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 40.11%",
+        "Link": "https://www.hackerrank.com/challenges/almost-sorted-interval?isFullScreen=true"
+    },
+    {
+        "Title": "Burger Happiness",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 90.84%",
+        "Link": "https://www.hackerrank.com/challenges/burger-happiness?isFullScreen=true"
+    },
+    {
+        "Title": "Roy and alpha-beta trees",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 92.48%",
+        "Link": "https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees?isFullScreen=true"
+    },
+    {
+        "Title": "Coloring Tree",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 80.84%",
+        "Link": "https://www.hackerrank.com/challenges/coloring-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Recalling Early Days GP with Trees",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 90.42%",
+        "Link": "https://www.hackerrank.com/challenges/recalling-early-days-gp-with-trees?isFullScreen=true"
+    },
+    {
+        "Title": "Swaps and Sum",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 69.59%",
+        "Link": "https://www.hackerrank.com/challenges/swaps-and-sum?isFullScreen=true"
+    },
+    {
+        "Title": "Arithmetic Progressions",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 80",
+        "Success Rate": "Success Rate: 79.20%",
+        "Link": "https://www.hackerrank.com/challenges/arithmetic-progressions?isFullScreen=true"
+    },
+    {
+        "Title": "Coolguy and Two Subsequences",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 83.85%",
+        "Link": "https://www.hackerrank.com/challenges/coolguy-and-two-subsequences?isFullScreen=true"
+    },
+    {
+        "Title": "White Falcon And Tree",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 92.46%",
+        "Link": "https://www.hackerrank.com/challenges/white-falcon-and-tree?isFullScreen=true"
+    },
+    {
+        "Title": "Subtrees And Paths",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 86.87%",
+        "Link": "https://www.hackerrank.com/challenges/subtrees-and-paths?isFullScreen=true"
+    },
+    {
+        "Title": "Triplets",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 90",
+        "Success Rate": "Success Rate: 39.97%",
+        "Link": "https://www.hackerrank.com/challenges/triplets?isFullScreen=true"
+    },
+    {
+        "Title": "Beautiful Segments",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 80.47%",
+        "Link": "https://www.hackerrank.com/challenges/beautiful-segments?isFullScreen=true"
+    },
+    {
+        "Title": "Divisibility",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 120",
+        "Success Rate": "Success Rate: 71.93%",
+        "Link": "https://www.hackerrank.com/challenges/ab0?isFullScreen=true"
+    },
+    {
+        "Title": "BST maintenance",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 140",
+        "Success Rate": "Success Rate: 73.08%",
+        "Link": "https://www.hackerrank.com/challenges/bst-maintenance?isFullScreen=true"
+    },
+    {
+        "Title": "Find Maximum Index Product",
+        "Difficulty": "Medium",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 62.57%",
+        "Link": "https://www.hackerrank.com/challenges/find-maximum-index-product?isFullScreen=true"
+    },
+    {
+        "Title": "Taxicab Driver's Problem",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 79.91%",
+        "Link": "https://www.hackerrank.com/challenges/taxicab-drivers-problem?isFullScreen=true"
+    },
+    {
+        "Title": "Jaggu Playing with Balloons",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 83.43%",
+        "Link": "https://www.hackerrank.com/challenges/jagia-playing-with-numbers?isFullScreen=true"
+    },
+    {
+        "Title": "Dynamic Summation",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 83.67%",
+        "Link": "https://www.hackerrank.com/challenges/dynamic-summation?isFullScreen=true"
+    },
+    {
+        "Title": "Two Array Problem",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 76.51%",
+        "Link": "https://www.hackerrank.com/challenges/weird-queries?isFullScreen=true"
+    },
+    {
+        "Title": "Rooted Tree",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 83.51%",
+        "Link": "https://www.hackerrank.com/challenges/rooted-tree?isFullScreen=true"
+    },
+    {
+        "Title": "The crazy helix",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 73.78%",
+        "Link": "https://www.hackerrank.com/challenges/helix?isFullScreen=true"
+    },
+    {
+        "Title": "Network administration",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 88.23%",
+        "Link": "https://www.hackerrank.com/challenges/net-admin?isFullScreen=true"
+    },
+    {
+        "Title": "Easy Addition",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 86.15%",
+        "Link": "https://www.hackerrank.com/challenges/easy-addition?isFullScreen=true"
+    },
+    {
+        "Title": "Find the permutation",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 150",
+        "Success Rate": "Success Rate: 87.46%",
+        "Link": "https://www.hackerrank.com/challenges/find-the-permutation?isFullScreen=true"
+    },
+    {
+        "Title": "Company Retreat",
+        "Difficulty": "Advanced",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 87.17%",
+        "Link": "https://www.hackerrank.com/challenges/company-retreat?isFullScreen=true"
+    },
+    {
+        "Title": "Box Operations",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 75.66%",
+        "Link": "https://www.hackerrank.com/challenges/box-operations?isFullScreen=true"
+    },
+    {
+        "Title": "Max Transform",
+        "Difficulty": "Expert",
+        "Max Score": "Max Score: 100",
+        "Success Rate": "Success Rate: 83.33%",
+        "Link": "https://www.hackerrank.com/challenges/max-transform?isFullScreen=true"
+    },
+    {
+        "Title": "Array and Queries",
+        "Difficulty": "Hard",
+        "Max Score": "Max Score: 60",
+        "Success Rate": "Success Rate: 45.65%",
+        "Link": "https://www.hackerrank.com/challenges/array-and-queries-1?isFullScreen=true"
+    }
+]

@@ -2,6 +2,7 @@ import interviewBitData from '../../public/data/interviewBitProblems.json';
 import hiveBasicData from '../../public/data/problemsFromHiveBasic.json';
 import hivePrimaryData from '../../public/data/problemsFromPrimary.json';
 import leetcodeData from '../../public/data/leetcode_problems.json';
+import hackRankData from '../../public/data/hackRank.json'
 import Fuse from 'fuse.js';
 
 // Function to format the query string as per the given rules
@@ -35,7 +36,11 @@ const formatResults = (results: any[], platform: string, titleKey: string, diffi
     title: result.item[titleKey],
     difficulty: result.item[difficultyKey] || 'Unknown',
     platform,
-    link: platform === 'LeetCode' ? result.item.link : `${linkPrefix}${formatQuery(result.item[titleKey])}`,
+    link: platform === 'LeetCode'
+    ? result.item.link 
+    : platform === 'Hacker Rank'
+    ? result.item.Link
+    : `${linkPrefix}${formatQuery(result.item[titleKey])}`,
   }));
 };
 
@@ -49,14 +54,16 @@ const searchLocalData = (query: string) => {
     InterviewBit: createFuseInstance(interviewBitData, ['Title'], 0.0),
     HiveBasic: createFuseInstance(hiveBasicData, ['Title'], 0.0),
     HivePrimary: createFuseInstance(hivePrimaryData, ['Title'], 0.0),
-    LeetCode: createFuseInstance(leetcodeData, ['title'], 0.0),
+    LeetCode: createFuseInstance(leetcodeData, ['title'], 0.0),   
+    HackerRank: createFuseInstance(hackRankData, ['Title'], 0.0),
   };
 
   // First search for exact matches
   const exactResults = [
     ...formatResults(fuseInstances.LeetCode.search(normalizedQuery), 'LeetCode', 'title', 'difficulty', ''),
-    ...formatResults(fuseInstances.HiveBasic.search(normalizedQuery), 'Hive Basic', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/'),
     ...formatResults(fuseInstances.HivePrimary.search(normalizedQuery), 'Hive Primary', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'),
+    ...formatResults(fuseInstances.HackerRank.search(normalizedQuery), 'Hacker Rank', 'Title', 'Difficulty', ''),
+    ...formatResults(fuseInstances.HiveBasic.search(normalizedQuery), 'Hive Basic', 'Title', 'Score', 'https://hive.smartinterviews.in/contests/smart-interviews-basic/problems/'),
     ...formatResults(fuseInstances.InterviewBit.search(normalizedQuery), 'Interview Bit', 'Title', 'Difficulty', 'https://www.interviewbit.com/problems/'),
   ];
 
@@ -71,16 +78,18 @@ const searchLocalData = (query: string) => {
   */
 
   const fuzzyResults = [
+
+
     ...formatResults(
-      createFuseInstance(interviewBitData, ['Title'], 0.2).search(normalizedQuery), 
-      'Interview Bit', 
+      createFuseInstance(hivePrimaryData, ['Title'], 0.2).search(normalizedQuery), 
+      'Hive Primary', 
       'Title', 
-      'Difficulty', 
-      'https://www.interviewbit.com/problems/'
+      'Score', 
+      'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'
     ).filter(result => 
       result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
     ),
-  
+
     ...formatResults(
       createFuseInstance(leetcodeData, ['title'], 0.2).search(normalizedQuery), 
       'LeetCode', 
@@ -90,7 +99,17 @@ const searchLocalData = (query: string) => {
     ).filter(result => 
       result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
     ),
-  
+
+    ...formatResults(
+      createFuseInstance(hackRankData, ['Title'], 0.2).search(normalizedQuery), 
+      'Hacker Rank', 
+      'Title', 
+      'Difficulty', 
+      ''
+    ).filter(result => 
+      result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
+    ),
+
     ...formatResults(
       createFuseInstance(hiveBasicData, ['Title'], 0.2).search(normalizedQuery), 
       'Hive Basic', 
@@ -101,22 +120,17 @@ const searchLocalData = (query: string) => {
       result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
     ),
   
+  
     ...formatResults(
-      createFuseInstance(hivePrimaryData, ['Title'], 0.2).search(normalizedQuery), 
-      'Hive Primary', 
+      createFuseInstance(interviewBitData, ['Title'], 0.2).search(normalizedQuery), 
+      'Interview Bit', 
       'Title', 
-      'Score', 
-      'https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/'
+      'Difficulty', 
+      'https://www.interviewbit.com/problems/'
     ).filter(result => 
       result.title.toLowerCase().includes(normalizedQuery.charAt(0).toLowerCase()) // Check if the title contains the first letter of the normalized query
     ),
   ];
-  
-  
-  
-  
-  
- 
 
   console.log("Exact Results:", exactResults);
   console.log("Fuzzy Results:", fuzzyResults);
