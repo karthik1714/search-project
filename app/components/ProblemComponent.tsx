@@ -24,8 +24,10 @@ const darkModeSuffix_si = '_dark.avif'; // Dark mode logo suffix for Hive
 
 // Define size variables
 const defaultSize = { width: 40, height: 40 }; // Default size for light mode
-const darkSize_si = { width: 19, height: 30 }; // Smaller size for dark mode
+const darkSize_si = { width: 18, height: 20 }; // Smaller size for dark mode
 const darkSize_leetcode = { width: 30, height: 30 };
+const lightSize_leetcode = { width: 22, height: 22 };
+
 
 switch (platform) {
   case 'LeetCode':
@@ -33,8 +35,8 @@ switch (platform) {
       <img
         src={`${logoBasePath}leetcode${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
         alt="LeetCode"
-        width={theme === 'dark' ? darkSize_leetcode.width : defaultSize.width}
-        height={theme === 'dark' ? darkSize_leetcode.height : defaultSize.height}
+        width={theme === 'dark' ? darkSize_leetcode.width : lightSize_leetcode.width}
+        height={theme === 'dark' ? darkSize_leetcode.height : lightSize_leetcode.width}
       />
     );
   case 'Interview Bit':
