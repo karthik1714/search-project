@@ -1,4 +1,5 @@
 import {Card,  CardBody, CardFooter, Divider} from "@nextui-org/react";
+import { useTheme } from "next-themes";
 import { Link } from "@nextui-org/link";
 
 
@@ -11,29 +12,62 @@ interface ProblemCardProps {
 }
 
 const ProblemCard: React.FC<ProblemCardProps> = ({ questionId , title, difficulty, platform, link }) => {
+  const { theme } = useTheme();
 
   const getPlatformLogo = (platform: string) => {
-    switch(platform) {
-      case 'LeetCode':
-        return (
-          <img src="/logos/leetcode_light.png" alt="LeetCode" width={40} height={40} />
-        );
-      case 'Interview Bit':
-        return (
-          <img src="/logos/IN.png" alt="Interview Bit" width={40} height={40} />
-        );
-      case 'Hive Basic':
-        return (
-          <img src="/logos/SI.avif" alt="Hive Basic" width={40} height={40} />
-        );
-      case 'Hive Primary':
-        return (
-          <img src="/logos/SI.avif" alt="Hive Primary" width={40} height={40} />
-        );
-      // Add more cases for additional platforms as needed
-      default:
-        return null; // Fallback if the platform doesn't match
-    }
+
+    const logoBasePath = '/logos/';
+const lightModeSuffix = '_light.png'; // Light mode logo suffix
+const darkModeSuffix = '_dark.png'; // Dark mode logo suffix
+const lightModeSuffix_si = '_light.avif'; // Light mode logo suffix for Hive
+const darkModeSuffix_si = '_dark.avif'; // Dark mode logo suffix for Hive
+
+// Define size variables
+const defaultSize = { width: 40, height: 40 }; // Default size for light mode
+const darkSize_si = { width: 19, height: 30 }; // Smaller size for dark mode
+const darkSize_leetcode = { width: 30, height: 30 };
+
+switch (platform) {
+  case 'LeetCode':
+    return (
+      <img
+        src={`${logoBasePath}leetcode${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
+        alt="LeetCode"
+        width={theme === 'dark' ? darkSize_leetcode.width : defaultSize.width}
+        height={theme === 'dark' ? darkSize_leetcode.height : defaultSize.height}
+      />
+    );
+  case 'Interview Bit':
+    return (
+      <img
+        src={`${logoBasePath}IN${theme === 'dark' ? lightModeSuffix : lightModeSuffix}`}
+        alt="Interview Bit"
+        width={defaultSize.width}
+        height={defaultSize.height}
+      />
+    );
+  case 'Hive Basic':
+    return (
+      <img
+        src={`${logoBasePath}Si${theme === 'dark' ? darkModeSuffix_si : lightModeSuffix_si}`}
+        alt="Hive Basic"
+        width={theme === 'dark' ? darkSize_si.width : defaultSize.width}
+        height={theme === 'dark' ? darkSize_si.height : defaultSize.height}
+      />
+    );
+  case 'Hive Primary':
+    return (
+      <img
+        src={`${logoBasePath}Si${theme === 'dark' ? darkModeSuffix_si : lightModeSuffix_si}`}
+        alt="Hive Primary"
+        width={theme === 'dark' ? darkSize_si.width : defaultSize.width}
+        height={theme === 'dark' ? darkSize_si.height : defaultSize.height}
+      />
+    );
+  default:
+    return null; // Fallback if the platform doesn't match
+}
+
   };
 
   return (
