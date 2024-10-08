@@ -94,7 +94,7 @@ const Search = () => {
         <div className="h-16 w-16 flex items-center justify-center">
           <a href="https://www.hackerrank.com/dashboard">
           <img
-            src={`${logoBasePath}hackerrank${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
+            src={`${logoBasePath}HackerRank${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
             alt="HackerRank"
             className="max-h-full max-w-full"
           />
