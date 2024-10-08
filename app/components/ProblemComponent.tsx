@@ -86,7 +86,7 @@ switch (platform) {
       <CardBody>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           {/* Platform logo */}
-          <div style={{ width: '25px', height: '24px' }}>
+          <div style={{ width: '25px', height: '25px' }}>
                 {/* Display the platform logo */}
             {getPlatformLogo(platform)}
           </div>

@@ -46,8 +46,8 @@ const SearchBar = ({ onSearch }: { onSearch: (query: string) => void }) => {
         <Input
           ref={inputRef}  // Attach the ref to the input
           type="text"
-          label="Search"
-          value={query}
+          label="Problem name"
+           value={query}
           onKeyDown={handleKeyPress}
           onChange={(e) => setQuery(e.target.value)}
           className="pr-1 " // Make space for the Ctrl + K inside the input

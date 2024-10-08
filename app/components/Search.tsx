@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import SearchBar from '../components/SearchBar';
 import ProblemCard from './ProblemComponent';
+import { useTheme } from 'next-themes';
 import searchLocalData from '../api/searchScraped';
 
 const Search = () => {
@@ -55,15 +56,69 @@ const Search = () => {
     }
   };
 
+  const { theme } = useTheme();
+  const logoBasePath = "/logos/";
+  const darkModeSuffix = "_dark.png";
+  const lightModeSuffix = "_light.png";
+  const lightModeSuffix_si = '_light.avif'; // Light mode logo suffix for Hive
+  const darkModeSuffix_si = '_dark.avif'; // Dark mode logo suffix for Hive
+
   return (
     <div>
       <div className="text-center mt-20">
+      <div className="flex justify-center gap-8 flex-wrap mb-5">
+        {/* LeetCode logo */}
+        <div className="h-16 w-16 flex items-center justify-center">
+          <a href="https://leetcode.com/problemset/">
+          <img
+            src={`${logoBasePath}leetcode${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
+            alt="LeetCode"
+            className={`${theme === 'light' ? 'h-12 mb-2' : 'h-14'} max-w-full`}  
+          />
+          </a>
+
+        </div>
+        {/* Interview Bit logo */}
+        <div className="h-16 w-16 flex items-center justify-center">
+          <a href="https://www.interviewbit.com/practice/">
+            <img
+              src={`${logoBasePath}IN${lightModeSuffix}`}
+              alt="Interview Bit"
+              className="max-h-full max-w-full"
+            />
+          </a>
+
+
+        </div>
+        {/* HackerRank logo */}
+        <div className="h-16 w-16 flex items-center justify-center">
+          <a href="https://www.hackerrank.com/dashboard">
+          <img
+            src={`${logoBasePath}hackerrank${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
+            alt="HackerRank"
+            className="max-h-full max-w-full"
+          />
+          </a>
+
+        </div>
+        {/* Smart Interviews logo */}
+        <div className="h-16 w-16 flex items-center justify-center">
+          <a href="https://smartinterviews.in/login?returnUrl=%2Freport%2FSNIST-2026-R">
+          <img
+            src={`${logoBasePath}Si${theme === 'dark' ? darkModeSuffix_si : lightModeSuffix_si}`}
+            alt="Smart Interviews"
+            className={`${theme === 'dark' ? 'h-12 mb-2 ' : 'h-16'} max-w-full mb-1`}  
+          />
+          </a>
+
+        </div>
+
+      </div>
         <h1 className="text-4xl font-bold text-gray-800 dark:text-gray-200 ">
           Discover DSA Problems
         </h1>
-        <p className="mt-10 text-lg text-gray-600 dark:text-gray-400">
+        <p className="mt-8 text-lg text-gray-600 dark:text-gray-400">
           Search for Data Structures and Algorithms problems across multiple platforms.
-          Find the right challenge to enhance your coding skills!
         </p>
         <div className="mt-10">
           <SearchBar onSearch={handleSearch} />
