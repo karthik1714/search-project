@@ -73,7 +73,7 @@ const Search = () => {
           <img
             src={`${logoBasePath}leetcode${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
             alt="LeetCode"
-            className={`${theme === 'light' ? 'h-12 mb-2' : 'h-14'} max-w-full`}  
+            className={`${theme === 'light' ? 'h-12 mb-2' : 'h-14'} `}  
           />
           </a>
 
