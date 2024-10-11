@@ -17,14 +17,13 @@ const ProblemCard: React.FC<ProblemCardProps> = ({ questionId , title, difficult
   const getPlatformLogo = (platform: string) => {
 
     const logoBasePath = '/logos/';
-const lightModeSuffix = '_light.png'; // Light mode logo suffix
-const darkModeSuffix = '_dark.png'; // Dark mode logo suffix
-const lightModeSuffix_si = '_light.avif'; // Light mode logo suffix for Hive
-const darkModeSuffix_si = '_dark.avif'; // Dark mode logo suffix for Hive
+const lightModeSuffix = '_light.png'; 
+const darkModeSuffix = '_dark.png'; 
+const lightModeSuffix_si = '_light.avif'; 
+const darkModeSuffix_si = '_dark.avif'; 
 
-// Define size variables
-const defaultSize = { width: 40, height: 40 }; // Default size for light mode
-const darkSize_si = { width: 18, height: 20 }; // Smaller size for dark mode
+const defaultSize = { width: 40, height: 40 }; 
+const darkSize_si = { width: 18, height: 20 }; 
 const darkSize_leetcode = { width: 30, height: 30 };
 const lightSize_leetcode = { width: 22, height: 22 };
 
@@ -69,7 +68,7 @@ switch (platform) {
     case 'Hacker Rank':
       return (
         <img
-          src={`${logoBasePath}HackerRank${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
+        src={`${logoBasePath}Si${theme === 'dark' ? darkModeSuffix_si : lightModeSuffix}`}
           alt="Hacker Rank"
           width={defaultSize.width }
           height={defaultSize.height}
@@ -86,7 +85,7 @@ switch (platform) {
       <CardBody>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           {/* Platform logo */}
-          <div style={{ width: '25px', height: '25px' }}>
+          <div style={{ width: '25px', height: '24px' }}>
                 {/* Display the platform logo */}
             {getPlatformLogo(platform)}
           </div>

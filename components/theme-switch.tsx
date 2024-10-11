@@ -4,7 +4,6 @@ import { FC } from "react";
 import { VisuallyHidden } from "@react-aria/visually-hidden";
 import { SwitchProps, useSwitch } from "@nextui-org/switch";
 import { useTheme } from "next-themes";
-import { useIsSSR } from "@react-aria/ssr";
 import clsx from "clsx";
 
 import { SunFilledIcon, MoonFilledIcon } from "@/components/icons";
@@ -19,22 +18,26 @@ export const ThemeSwitch: FC<ThemeSwitchProps> = ({
   classNames,
 }) => {
   const { theme, setTheme } = useTheme();
-  const isSSR = useIsSSR();
+
+  // Set initial isSelected state to false (light mode)
+  const isSelected = theme === "dark";
 
   const onChange = () => {
-    theme === "light" ? setTheme("dark") : setTheme("light");
+    const newTheme = isSelected ? "light" : "dark"; // Toggle between themes
+    setTheme(newTheme); // Update theme
+    // Optionally store in local storage if needed later
+    localStorage.setItem("theme", newTheme);
   };
 
   const {
     Component,
     slots,
-    isSelected,
     getBaseProps,
     getInputProps,
     getWrapperProps,
   } = useSwitch({
-    isSelected: theme === "light" || isSSR,
-    "aria-label": `Switch to ${theme === "light" || isSSR ? "dark" : "light"} mode`,
+    isSelected, // Use calculated value for isSelected
+    "aria-label": `Switch to ${isSelected ? "light" : "dark"} mode`,
     onChange,
   });
 
@@ -70,10 +73,10 @@ export const ThemeSwitch: FC<ThemeSwitchProps> = ({
           ),
         })}
       >
-        {!isSelected || isSSR ? (
-          <SunFilledIcon size={22} />
+        {isSelected ? (
+          <MoonFilledIcon size={22} /> // Show Moon icon in dark mode
         ) : (
-          <MoonFilledIcon size={22} />
+          <SunFilledIcon size={22} /> // Show Sun icon in light mode
         )}
       </div>
     </Component>
