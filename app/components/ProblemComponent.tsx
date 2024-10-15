@@ -68,7 +68,7 @@ switch (platform) {
     case 'Hacker Rank':
       return (
         <img
-        src={`${logoBasePath}Si${theme === 'dark' ? darkModeSuffix_si : lightModeSuffix}`}
+        src={`${logoBasePath}HackerRank${theme === 'dark' ? darkModeSuffix : lightModeSuffix}`}
           alt="Hacker Rank"
           width={defaultSize.width }
           height={defaultSize.height}
